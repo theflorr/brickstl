@@ -1,0 +1,11 @@
+0 ~Dish  6 x  6 Inverted with Hollow Studs - Outer Surface without Cond Lines
+0 Name: s\44375s04.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\4-4con1.dat
+1 16 0 6 0 10 0 0 0 -3 0 0 0 10 48\4-4con4.dat
+1 16 0 11 0 10 0 0 0 -5 0 0 0 10 48\4-4con5.dat

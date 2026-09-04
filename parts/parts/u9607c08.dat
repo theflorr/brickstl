@@ -1,0 +1,16 @@
+0 Electric Cable White with Plug (Type 1) Twin Extra-Wide Hollow Pin and Plug (Type 1) Twin Hollow Pin
+0 Name: u9607c08.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS 12V, Bricklink bb0093ac01c96, Bricklink bb0093c16
+0 !KEYWORDS Rebrickable upn0129, Set 702, Set 753, Set 754
+
+
+1 16 0 0 184 -1 0 0 0 1 0 0 0 -1 567c05.dat
+1 511 0 0 -150 0 0 1 1 0 0 0 300 0 993.dat
+1 16 0 0 -184 1 0 0 0 1 0 0 0 1 u9607c06.dat

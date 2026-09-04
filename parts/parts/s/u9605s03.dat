@@ -1,0 +1,15 @@
+0 ~Electric Train 12V Transformer Cable Bending Protection - Type  1
+0 Name: s\u9605s03.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 4 11 0 0 0 0 11 0 -4 0 4-4cylc.dat
+1 16 0 0 0 16 0 0 0 0 16 0 -1 0 4-4disc.dat
+1 16 0 0 0 16 0 0 0 0 16 0 1 0 4-4edge.dat
+1 16 0 0 0 4 0 0 0 0 4 0 -54 0 4-4con3.dat
+1 16 0 0 -54 2 0 0 0 0 2 0 -27 0 4-4con5.dat
+1 16 0 0 -81 10 0 0 0 0 10 0 1 0 4-4edge.dat
+1 16 0 0 -81 10 0 0 0 0 10 0 1 0 4-4disc.dat

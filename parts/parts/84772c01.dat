@@ -1,0 +1,16 @@
+0 Wheel 20 x 62 Motorcycle Solid with Dark Bluish Grey Tyre 28 / 70 x 62
+0 Name: 84772c01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS 100.6 x 28, Apollo, Bricklink 84772c01, Lunar Roving Vehicle, NASA
+0 !KEYWORDS Set 42182
+
+0 !CMDLINE -c72
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 84772.dat
+1 10072 0 0 0 1 0 0 0 1 0 0 0 1 4456.dat

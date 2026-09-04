@@ -1,0 +1,15 @@
+0 ~Control Lab Serial Interface B - LED
+0 Name: 2956.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Exhaust
+
+1 16 0 0 0 4 0 0 0 12 0 0 0 4 4-4cylo.dat
+1 16 0 15 0 8 0 0 0 -1 0 0 0 8 4-4disc.dat
+1 16 0 12 0 8 0 0 0 3 0 0 0 8 4-4cylo.dat
+1 16 0 12 0 4 0 0 0 1 0 0 0 4 4-4ring1.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat

@@ -1,0 +1,18 @@
+0 Tile  1 x  6 with Red and White Danger Stripes Leaning Left Sticker
+0 Name: 6636d05.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Not completly sure about the shortcut numbering.
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 6636pb020L, Construct-a-Buzz, set 7592, Toy Story
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6636.dat
+
+0 // Sticker
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4566038b.dat

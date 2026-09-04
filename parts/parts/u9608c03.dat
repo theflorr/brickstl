@@ -1,0 +1,18 @@
+0 Electric Plug Triple Female (Complete)
+0 Name: u9608c03.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink 3waycona, Rebrickable 3waycona
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9608.dat
+1 494 0 6 0 1 0 0 0 1 0 0 0 1 u9606.dat
+1 494 10 0 0 1 0 0 0 1 0 0 0 1 u9606.dat
+1 494 -10 0 0 1 0 0 0 1 0 0 0 1 u9606.dat
+1 494 0 0 17 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 u9021.dat
+1 494 10 -6 17 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 u9021.dat
+1 494 -10 -6 17 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 u9021.dat

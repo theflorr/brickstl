@@ -1,0 +1,13 @@
+0 ~Tile  4 x  8 Inverted with Gold 'Concorde' Details and Border, Black 'Model nr. 10318' and Background Pattern - Uppercase Y
+0 Name: s\83496p01suy.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Letter
+4 16 5.065 0 -5 5.065 0 -.948 4.181 0 .668 3.319 0 -.948
+4 16 1.853 0 5 0 0 5 3.319 0 -.948 4.181 0 .668
+3 16 3.319 0 -5 5.065 0 -5 3.319 0 -.948
+4 16 6.53 0 5 4.181 0 .668 5.065 0 -.948 8.384 0 5

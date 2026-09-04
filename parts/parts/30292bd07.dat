@@ -1,0 +1,18 @@
+0 Flag  8 x  3 with Rod with Black Foot Clan Logo on Medium Lilac Sticker
+0 Name: 30292bd07.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 79122stk01, BrickOwl 781858, Nickelodeon
+0 !KEYWORDS Rebrickable 17444, Set 79122, Shredders Lair Rescue
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30292b.dat
+
+0 // Sticker
+1 16 2 0 83 0 -1 0 -1 0 0 0 0 -1 6071314d.dat

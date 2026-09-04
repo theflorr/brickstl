@@ -1,0 +1,14 @@
+0 ~Moved to 821c
+0 Name: 821.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Moved
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Garage Door Frame 1 x 6 x 4
+1 16 70 -96 0 1 0 0 0 1 0 0 0 1 821c.dat

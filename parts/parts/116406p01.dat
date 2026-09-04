@@ -1,0 +1,20 @@
+0 Minifig Body SMART Tag with Arms, Hands and Legs with SW Luke Skywalker Tunic and Belt Pattern
+0 Name: 116406p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink bb1407pb002c01, Brickowl 132594, Brickset 116406
+0 !KEYWORDS Rebrickable 116406pr0001, Set 75420, Set 75426
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 8058p02.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 .985 -.12 .12 .17 .696 -.696 0 .707 .707 3820.dat
+1 78 23.69 26.774 -9.898 .985 .12 -.12 -.17 .696 -.696 0 .707 .707 3820.dat
+1 16 0 32 0 1 0 0 0 1 0 0 0 1 3398p01.dat
+1 19 0 44 0 1 0 0 0 1 0 0 0 1 3816cp0w.dat
+1 19 0 44 0 1 0 0 0 1 0 0 0 1 3817cp0w.dat

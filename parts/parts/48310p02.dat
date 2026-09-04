@@ -1,0 +1,34 @@
+0 Cone  8 x  4 x  6 Half with Light Bluish Grey SW Millennium Falcon (2011) Pattern
+0 Name: 48310p02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Cone
+0 !KEYWORDS A New Hope, Bricklink 47543pb05, BrickOwl 660282, Brickset 65262
+0 !KEYWORDS Corellian YT-1300 Light Freighter, Episode IV, Episode IX
+0 !KEYWORDS Episode VI, Han Solo, Original Trilogy, Rebrickable 47543pr0006
+0 !KEYWORDS Set 75105, Set 75257, Set 7965, Star Wars, The Force Awakens
+0 !KEYWORDS The Rise of Skywalker, Yavin
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48310s01.dat
+
+0 // Pattern
+0 // Transparent Areas
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s01.dat
+
+0 // Main Hull
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s02.dat
+1 71 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s02.dat
+
+0 // Details
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s03.dat
+1 72 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s03.dat
+
+0 // Top Ornament
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s04.dat
+1 71 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s04.dat

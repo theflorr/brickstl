@@ -1,0 +1,16 @@
+0 Tile  1 x  2 with Yellow Stripe on Blue Background Sticker
+0 Name: 3069bd13.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 3069pb0751, Ferrari 250 GTO Polybag, Racers, Set 40192
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3069b.dat
+
+0 // Sticker-Front
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6083355a.dat

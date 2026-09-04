@@ -1,0 +1,19 @@
+0 ~Duplo Track Ramp  6 x 12 x 3 - 10 Grip Sections
+0 Name: s\77274s02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -2.35 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -4.7 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -7.05 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -9.4 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -11.75 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -14.1 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -16.45 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -18.8 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+1 16 0 0 -21.15 1 0 0 0 1 0 0 0 1 s\77274s03.dat
+

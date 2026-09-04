@@ -1,0 +1,24 @@
+0 Sticker  1.0 x  9.9 with Black "SANTA FE" on Transparent Background
+0 Name: 4174735c.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 10020stk01, Brickowl 672398, Limited Edition
+0 !KEYWORDS Rebrickable 43822, Set 10020, stamp, Super Chief
+
+0 // Based on 4188571b by Gerald Lasser
+
+0 // Small box
+1 16 0 -0.25 0 99 0 0 0 0.25 0 0 0 10 box5-12.dat
+
+0 // Background
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4188571bs01.dat
+
+0 BFC NOCLIP
+
+0 // Text
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\4188571bs02.dat

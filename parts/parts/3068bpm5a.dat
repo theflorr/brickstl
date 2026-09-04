@@ -1,0 +1,17 @@
+0 Tile 2 x 2 with Bar Code and Funky Kong Pattern
+0 Name: 3068bpm5a.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bar Code, Bricklink 3068bpb2310, Mario, Scanner Code, Set 71425
+0 !KEYWORDS Super Mario
+
+0 !HISTORY 2022-12-17 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-03-06 [kuramapika1] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3068b.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s252.dat

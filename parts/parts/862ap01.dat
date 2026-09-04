@@ -1,0 +1,35 @@
+0 Train Track 12V Straight Insert Type 2 with Isolation and Black Triangle Pattern
+0 Name: 862ap01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP There exist 2 more variants of this part,
+0 !HELP one without a black top triangle at the part center
+0 !HELP and another with a black top triangle at one end.
+0 !HELP Note that the central underside rim fully extends
+0 !HELP to the part bottom (different than 3240a, 3240b)
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+0 !KEYWORDS Set 7860
+
+0 !CMDLINE -c7
+
+0 !HISTORY 2024-07-12 [Blechtaler] made from 862a.dat by [Steffen]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\862as01.dat
+
+0 // Pattern
+3 0 -12 8 -6 12 8 -6 0 8 6
+3 16 0 8 6 2 8 8 -2 8 8
+4 16 -2 8 8 -35 8 8 -12 8 -6 0 8 6
+3 16 -12 8 -6 -35 8 8 -35 8 0
+3 16 -12 8 -6 -35 8 0 -35 8 -8
+3 16 -12 8 -6 -35 8 -8 -2 8 -8
+4 16 12 8 -6 -12 8 -6 -2 8 -8 2 8 -8
+3 16 12 8 -6 2 8 -8 35 8 -8
+3 16 12 8 -6 35 8 -8 35 8 0
+3 16 12 8 -6 35 8 0 35 8 8
+4 16 35 8 8 2 8 8 0 8 6 12 8 -6

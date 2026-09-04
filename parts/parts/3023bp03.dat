@@ -1,0 +1,27 @@
+0 Plate  1 x  2 with White and Black Rectangles Pattern
+0 Name: 3023bp03.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plate
+0 !KEYWORDS Baby Pig's Birthday Celebration, Bricklink 3023pb11, BrickOwl 294112
+0 !KEYWORDS Brickset 110023, Minecraft, Rebrickable 3023pr0009, Set 21281
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3023bs01.dat
+
+0 // Pattern
+4 15 -6.5 7.5 -10 -6.5 .5 -10 -19.5 .5 -10 -19.5 7.5 -10
+4 15 19.5 7.5 -10 19.5 .5 -10 6.5 .5 -10 6.5 7.5 -10
+4 0 6.5 7.5 -10 6.5 .5 -10 -6.5 .5 -10 -6.5 7.5 -10
+4 16 -20 0 -10 -6.5 .5 -10 6.5 .5 -10 20 0 -10
+4 16 6.5 7.5 -10 -6.5 7.5 -10 -20 8 -10 20 8 -10
+4 16 19.5 .5 -10 19.5 7.5 -10 20 8 -10 20 0 -10
+4 16 -20 8 -10 -19.5 7.5 -10 -19.5 .5 -10 -20 0 -10
+3 16 -20 0 -10 -19.5 .5 -10 -6.5 .5 -10
+3 16 20 0 -10 6.5 .5 -10 19.5 .5 -10
+3 16 20 8 -10 19.5 7.5 -10 6.5 7.5 -10
+3 16 -19.5 7.5 -10 -20 8 -10 -6.5 7.5 -10

@@ -1,0 +1,23 @@
+0 Dish  6 x  6 Inverted - No Studs with Handle with SW 8 Spoke Radial Cockpit with Yellow Triangles and Red Dots Pattern
+0 Name: 18675psc.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS Bricklink 18675pb24, Rebrickable 18675pr0038, Set 75360 Star Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675pscs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675pscs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\18675pscs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\18675pscs01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\18675pscs01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\18675pscs01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675pscs02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675pscs02.dat

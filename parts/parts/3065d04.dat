@@ -1,0 +1,16 @@
+0 Brick  1 x  2 without Centre Stud with Red "2" and White Logos on Black Background Right Sticker
+0 Name: 3065d04.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS 2017, Bricklink 3065pb19R, Fiesta, Ford, M-Sport, Martin Järveoja
+0 !KEYWORDS Ott Tänak, Set 75885, Speed Champions, WRC
+
+0 !CMDLINE -c40
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3065.dat
+1 15 0 12 -10 1 0 0 0 0 -1 0 1 0 6218812j.dat

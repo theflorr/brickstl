@@ -1,0 +1,47 @@
+0 Sticker  5.9 x  1.9 with  1 Family Portrait and  2 Flower Pots in Front of a Window
+0 Name: 6372648c.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 43202stk01, Brickowl 380689, Disney, Encanto, Madrigal
+0 !KEYWORDS Rebrickable 83896, Set 43202
+
+0 // 0 !LPE PNG 0 0 -.25 0 -90 0 76 59 /Users/asterkevin/ShadowDrive/LEGO assets/6372648c.png
+
+1 16 -15 0 55 -4 0 0 0 -1 0 0 0 4 1-4chrd.dat
+1 16 -15 0 55 -4 0 0 0 -.25 0 0 0 4 1-4cyli.dat
+1 16 15 0 55 4 0 0 0 -1 0 0 0 4 1-4chrd.dat
+1 16 15 0 55 4 0 0 0 -.25 0 0 0 4 1-4cyli.dat
+1 16 15 0 -55 4 0 0 0 -1 0 0 0 -4 1-4chrd.dat
+1 16 15 0 -55 4 0 0 0 -.25 0 0 0 -4 1-4cyli.dat
+1 16 -15 0 -55 -4 0 0 0 -1 0 0 0 -4 1-4chrd.dat
+1 16 -15 0 -55 -4 0 0 0 -.25 0 0 0 -4 1-4cyli.dat
+1 16 0 -.25 0 15 0 0 0 .25 0 0 0 59 box3u12.dat
+4 16 -15 0 -59 -19 0 -55 -19 0 55 -15 0 59
+4 16 19 0 55 19 0 -55 15 0 -59 15 0 59
+4 16 -15 -.25 59 15 -.25 59 15 0 59 -15 0 59
+4 16 -19 -.25 -55 -19 -.25 55 -19 0 55 -19 0 -55
+4 16 15 -.25 -59 -15 -.25 -59 -15 0 -59 15 0 -59
+4 16 19 -.25 55 19 -.25 -55 19 0 -55 19 0 55
+0 !TEXMAP START PLANAR -19 -0.25 59 19 -0.25 59 -19 -0.25 -59 6372648c.png
+1 16 -15 -.25 55 -4 0 0 0 1 0 0 0 4 1-4chrd.dat
+1 16 15 -.25 55 4 0 0 0 1 0 0 0 4 1-4chrd.dat
+1 16 15 -.25 -55 4 0 0 0 1 0 0 0 -4 1-4chrd.dat
+1 16 -15 -.25 -55 -4 0 0 0 1 0 0 0 -4 1-4chrd.dat
+4 16 15 -.25 -59 15 -.25 59 -15 -.25 59 -15 -.25 -59
+4 16 -19 -.25 55 -19 -.25 -55 -15 -.25 -59 -15 -.25 59
+4 16 15 -.25 -59 19 -.25 -55 19 -.25 55 15 -.25 59
+0 !TEXMAP FALLBACK
+0 // Needs Work: fallback pattern
+1 16 -15 -.25 55 -4 0 0 0 1 0 0 0 4 1-4chrd.dat
+1 16 15 -.25 55 4 0 0 0 1 0 0 0 4 1-4chrd.dat
+1 16 15 -.25 -55 4 0 0 0 1 0 0 0 -4 1-4chrd.dat
+1 16 -15 -.25 -55 -4 0 0 0 1 0 0 0 -4 1-4chrd.dat
+4 16 15 -.25 -59 15 -.25 59 -15 -.25 59 -15 -.25 -59
+4 16 -19 -.25 55 -19 -.25 -55 -15 -.25 -59 -15 -.25 59
+4 16 15 -.25 -59 19 -.25 -55 19 -.25 55 15 -.25 59
+0 !TEXMAP END

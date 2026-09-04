@@ -1,0 +1,30 @@
+0 Sticker  1.5 x  7.5 with Octan Logo on White Background
+0 Name: 170876b.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP For Left Door place on 3009.dat at 20 20 -10
+0 !HELP For Right Door place on 3009.dat at -20 20 -10
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BA238pb01L, BA238pb01R, Bricklink 6335stk01, BrickOwl 592858
+0 !KEYWORDS Indy Transport, Race, Racing, Rebrickable 170876, Runaway Truck
+0 !KEYWORDS Set 6335, stamp, town
+
+1 16 0 -0.25 0 75 0 0 0 0.25 0 0 0 15 box5-12.dat
+
+0 // Logo
+1 15 -54 -.25 0 1.15 0 0 0 1 0 0 0 1.15 logo-octan.dat
+1 15 21 -.25 0 1.61 0 0 0 1 0 0 0 1.61 logo-octantext.dat
+
+0 // Border
+4 15 -72.4 -.25 -13.225 -72.4 -.25 13.225 -75 -.25 15 -75 -.25 -15
+4 15 74.13 -.25 14.49 74.13 -.25 -14.49 75 -.25 -15 75 -.25 15
+4 15 -32.13 -.25 -14.49 -32.13 -.25 14.49 -35.6 -.25 13.225 -35.6 -.25 -13.225
+4 15 -72.4 -.25 -13.225 -75 -.25 -15 -32.13 -.25 -14.49 -35.6 -.25 -13.225
+4 15 -72.4 -.25 13.225 -35.6 -.25 13.225 -32.13 -.25 14.49 -75 -.25 15
+4 15 -75 -.25 15 -32.13 -.25 14.49 74.13 -.25 14.49 75 -.25 15
+4 15 -75 -.25 -15 75 -.25 -15 74.13 -.25 -14.49 -32.13 -.25 -14.49

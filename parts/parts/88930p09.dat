@@ -1,0 +1,21 @@
+0 Slope Brick Curved  2 x  4 with Underside Studs with Large Black and Reddish Brown Eye (Left Side) Pattern
+0 Name: 88930p09.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+0 !KEYWORDS animal, Anime, Bricklink 88930pb209L, Brickowl 1166164
+0 !KEYWORDS Brickset 115946, Eevee, Kanto, Manga, Nintendo, Pocket Monsters
+0 !KEYWORDS Pokémon, Rebrickable 88930pr0048, Set 72151
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61068s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
+
+0 // Pattern
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\88930p08s01.dat

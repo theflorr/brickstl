@@ -1,0 +1,19 @@
+0 Tile  2 x  2 Round with Mirror Surface Sticker
+0 Name: 14769d0q.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 14769pb303, H-D, Harley-Davidson, mc, Motorcycle
+0 !KEYWORDS Set 10269
+
+0 // 0 !KEYWORDS 14769pb303, Harley-Davidson Fat Boy, Set 10269, Creator Expert
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4150.dat
+
+0 // Sticker
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6270452a.dat

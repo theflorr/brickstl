@@ -1,0 +1,17 @@
+0 Animal Shark Hammerhead Head with Black Eyes Pattern
+0 Name: 67229p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place on 14518 at Y=-28, Z=-27.4
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Bricklink 67229pb02, Rebrickable 67229pr0002, Set 60377
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67229s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67229s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67229p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67229p02s01.dat

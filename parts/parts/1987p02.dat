@@ -1,0 +1,23 @@
+0 Minifig Hair Female Long Wavy, High Back Ponytail with Marbled Trans Dark Pink Pattern
+0 Name: 1987p02.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 1987pb02, Brickowl 876122, Brickset 1987, Dizzy, Dreamzzz
+0 !KEYWORDS Rebrickable 1987pat0002, Set 71478, Set 71481, Set 71486
+
+0 !HISTORY 2023-11-17 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-12-27 [LisaWinter] File preparation for LDraw Parts Tracker
+
+0 // Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1987s01.dat
+
+0 // Outside
+0 // Color 16
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1987p02s01.dat
+0 // Marbled
+1 37 0 0 0 1 0 0 0 1 0 0 0 1 s\1987p02s02.dat

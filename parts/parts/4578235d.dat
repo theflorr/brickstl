@@ -1,0 +1,15 @@
+0 Sticker  3.8 x  5.4 with White Airline Bird and "LC-3222" Left on Blue Background
+0 Name: 4578235d.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 3222stk01, Brickowl 305996, Helicopter and Limousine
+0 !KEYWORDS Rebrickable 89505, Set 3222
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\stickerback038x054a.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\4578235cs01.dat
+1 16 -23.75 -.25 -33 1 0 0 0 1 0 0 0 1 s\4578235cs02.dat

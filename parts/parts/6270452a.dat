@@ -1,0 +1,20 @@
+0 Sticker  1.8 x  1.8 Round with Chrome Silver Surface
+0 Name: 6270452a.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 10269stk01a, Brickowl 426466, mc, Mirror, Motorcycle
+0 !KEYWORDS Rebrickable 58480, Set 10269
+
+0 // 0 !KEYWORDS Bricklink 10269stk01a, Brickowl 426466, Rebrickable 58480
+0 // 0 !KEYWORDS Harley-Davidson Fat Boy, Set 10269, Creator Expert
+
+0 // Sticker-Bottom
+1 16 0 0 0 18 0 0 0 -0.25 0 0 0 18 4-4cylc3.dat
+
+0 // Sticker-Front
+1 383 0 -.25 0 18 0 0 0 1 0 0 0 18 4-4disc.dat

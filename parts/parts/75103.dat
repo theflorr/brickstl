@@ -1,0 +1,24 @@
+0 Minifig Lower Body with  4 x  4 Round Robe
+0 Name: 75103.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Hips
+0 !KEYWORDS Queen Amidala, skirt, Star Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75103s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75103s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\75103s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\75103s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\75103s03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75103s04.dat
+
+4 16 18 0 -10 -18 0 -10 -13.7772 11 -12.8927 13.7772 11 -12.8927
+4 16 12.05505 15.78 -14.212125 13.7772 11 -12.8927 -13.7772 11 -12.8927 -12.05505 15.78 -14.212125
+4 16 12.05505 15.78 -14.212125 -12.05505 15.78 -14.212125 -9.3168 20.5 -15.8986 9.3168 20.5 -15.8986
+3 16 -9.3168 20.5 -15.8986 0 24 -17.703 9.3168 20.5 -15.8986

@@ -1,0 +1,21 @@
+0 Dish  2 x  2 Inverted with White Lightning Bolts Pattern
+0 Name: 4740p09.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS Baxter Robot Rampage, Baxter Stockman, Bricklink 4740pb008
+0 !KEYWORDS BrickOwl 398665, Brickset 13601, energy, Rebrickable 4740pr0015
+0 !KEYWORDS Set 79105, Stockman Pod, Teenage Mutant Ninja Turtles, TMNT
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740p09s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\4740p09s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\4740p09s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\4740p09s01.dat

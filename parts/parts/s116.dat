@@ -1,0 +1,19 @@
+0 Sticker 1.8 x 1.8 with Bar Code and Freezie
+0 Name: s116.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bar Code, Mario, Rebrickable u-unknown, Scanner Code, Sets 71402
+0 !KEYWORDS Super Mario
+
+
+0 !TEXMAP START PLANAR -21 0 21 21 0 21 -21 0 -21 s116.png
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\sticker_templates01.dat
+0 !TEXMAP FALLBACK
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\sticker_templates01.dat
+0 !TEXMAP END
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\sticker_templates02.dat

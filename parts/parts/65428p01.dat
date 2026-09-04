@@ -1,0 +1,21 @@
+0 Animal Dragon Head Jaw Upper with White Eyes and Teeth, and Bright Light Orange and Dark Red Markings Pattern
+0 Name: 65428p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Bricklink 65428pb01, Ninjago, Rebrickable 65428pr0001, set 71701
+
+1 16 0 0 -10 0 0 -1 1 0 0 0 -1 0 connhol3.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65428s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\65428s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65428p01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\65428p01s02.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\65428s03.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\65428s03.dat

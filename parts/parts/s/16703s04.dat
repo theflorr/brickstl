@@ -1,0 +1,15 @@
+0 ~Duplo Cannon with Firing Button - Common Front Quarter
+0 Name: s\16703s04.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+3 16 0 -40.3 -100.5 -2.75 -17 -100.5 2.75 -17 -100.5
+4 16 2.75 -17 -100.5 2.75 -2.75 -100.5 17 -2.75 -100.5 28.4961 -28.4961 -100.5
+4 16 37.2332 -15.4228 -100.5 28.4961 -28.4961 -100.5 17 -2.75 -100.5 40.3 0 -100.5
+4 16 2.75 -17 -100.5 28.4961 -28.4961 -100.5 15.4228 -37.2332 -100.5 0 -40.3 -100.5
+0 BFC INVERTNEXT
+1 16 0 -9.875 -65 2.75 0 0 0 0 -7.125 0 35.5 0 box3-7a.dat
+1 16 9.875 -2.75 -65 0 0 7.125 0 -1 0 -35.5 0 0 rect.dat

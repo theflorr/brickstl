@@ -1,0 +1,27 @@
+0 Tile  2 x  2 with Green Monitor Screen, Plain Power Button and Dark Grey Window Pattern
+0 Name: 3068bp7f.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS BrickLink 3068pb0021, Brickowl 677598, Brickset 47369
+0 !KEYWORDS Rebrickable 3068bpr0091, Set 4851, set 7047, Spider-Man, World City
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+0 // Pattern Sub-Files
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp72s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp72s02.dat
+1 8 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp72s03.dat
+
+0 // Power Button
+4 16 12.11 0 -15.46 12.02 0 -16.4 12.94 0 -15.14 12.32 0 -15.28
+4 16 15.4 0 -16.4 14.48 0 -15.14 12.94 0 -15.14 12.02 0 -16.4
+4 16 14.48 0 -15.14 15.4 0 -16.4 15.31 0 -15.46 15.1 0 -15.28
+4 16 15.31 0 -17.44 15.4 0 -16.4 14.48 0 -17.71 15.12 0 -17.63
+4 16 12.02 0 -16.4 12.94 0 -17.71 14.48 0 -17.71 15.4 0 -16.4
+4 16 12.94 0 -17.71 12.02 0 -16.4 12.11 0 -17.44 12.3 0 -17.63

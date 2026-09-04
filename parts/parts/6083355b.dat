@@ -1,0 +1,43 @@
+0 Sticker  1.8 x  1.8 with Yellow Stripe on Blue Background
+0 Name: 6083355b.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 40192stk01, Brickowl 212506, Rebrickable 18436
+
+0 // 0 !KEYWORDS Bricklink 40192stk01, Brickowl 212506, Rebrickable 18436
+0 // 0 !KEYWORDS Ferrari 250 GTO Polybag, Set 40192, Racers
+
+0 // Sticker-Bottom
+1 16 -17 0 17 -1 0 0 0 -1 0 0 0 1 1-4chrd.dat
+1 16 17 0 17 1 0 0 0 -1 0 0 0 1 1-4chrd.dat
+1 16 -17 0 -17 -1 0 0 0 -1 0 0 0 -1 1-4chrd.dat
+1 16 17 0 -17 1 0 0 0 -1 0 0 0 -1 1-4chrd.dat
+4 16 18 0 17 -18 0 17 -17 0 18 17 0 18
+4 16 18 0 -17 -18 0 -17 -18 0 17 18 0 17
+4 16 17 0 -18 -17 0 -18 -18 0 -17 18 0 -17
+
+0 // Sticker-Side
+1 16 -17 0 17 -1 0 0 0 -.25 0 0 0 1 1-4cyli.dat
+1 16 17 0 17 1 0 0 0 -.25 0 0 0 1 1-4cyli.dat
+1 16 -17 0 -17 -1 0 0 0 -.25 0 0 0 -1 1-4cyli.dat
+1 16 17 0 -17 1 0 0 0 -.25 0 0 0 -1 1-4cyli.dat
+4 16 -17 0 18 -17 -.25 18 17 -.25 18 17 0 18
+4 16 -18 0 17 -18 0 -17 -18 -.25 -17 -18 -.25 17
+4 16 18 -.25 17 18 -.25 -17 18 0 -17 18 0 17
+4 16 17 0 -18 17 -.25 -18 -17 -.25 -18 -17 0 -18
+
+0 // Sticker-Front
+1 1 -17 -.25 17 0 0 -1 0 1 0 1 0 0 1-4chrd.dat
+1 1 17 -.25 17 1 0 0 0 1 0 0 0 1 1-4chrd.dat
+1 1 -17 -.25 -17 -1 0 0 0 1 0 0 0 -1 1-4chrd.dat
+1 1 17 -.25 -17 0 0 1 0 1 0 -1 0 0 1-4chrd.dat
+4 14 -6 -.25 18 -6 -.25 -18 6 -.25 -18 6 -.25 18
+4 1 18 -.25 -17 18 -.25 17 17 -.25 18 17 -.25 -18
+4 1 17 -.25 -18 17 -.25 18 6 -.25 18 6 -.25 -18
+4 1 -18 -.25 -17 -17 -.25 -18 -17 -.25 18 -18 -.25 17
+4 1 -6 -.25 18 -17 -.25 18 -17 -.25 -18 -6 -.25 -18

@@ -1,0 +1,25 @@
+0 Bar Flexible H-shaped with Holders (Formed for Engine Compartment)
+0 Name: 30191-f1.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Bar
+0 !KEYWORDS Car, Ford, Mustang, Set 10265
+
+0 !HISTORY 2026-07-29 [Holly-Wood] Subbed, regenerated to avoid collision
+
+1 16 0 0 10 4 0 0 0 0 4 0 -20 0 4-4cyli.dat
+1 16 0 0 14 -1 0 0 0 -1 0 0 0 1 30191k03.dat
+1 16 0 0 -14 1 0 0 0 -1 0 0 0 -1 30191k03.dat
+
+0 // Tube I
+1 16 0 0 -14 1 0 0 0 1 0 0 0 1 s\30191s01-f1.dat
+0 // Tube II
+1 16 0 0 14 1 0 0 0 1 0 0 0 1 s\30191s02-f1.dat
+0 // Tube III
+1 16 0 0 -14 -1 0 0 0 1 0 0 0 1 s\30191s01-f1.dat
+0 // Tube IV
+1 16 0 0 14 -1 0 0 0 1 0 0 0 1 s\30191s02-f1.dat

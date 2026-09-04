@@ -1,0 +1,26 @@
+0 Tile  2 x  2 with Black Adidas Trefoil Logo Pattern
+0 Name: 3068bpzg.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Adidas Originals Superstar, Bricklink 3068pb1752, Brickowl 465047
+0 !KEYWORDS Brickset 76306, Rebrickable 3068bpr0542, Sculptures, Set 10282
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+0 // Pattern
+1 0 0 0 0 0.65 0 0 0 1 0 0 0 0.65 logo-adidas-trefoil.dat
+1 16 0 0 0 0.65 0 0 0 1 0 0 0 0.65 logo-adidas-trefoil-box.dat
+3 16 -20 0 20 -19.175 0 5.525 -19.175 0 13.325
+4 16 -19.175 0 -13.325 -19.175 0 5.525 -20 0 20 -20 0 -20
+3 16 20 0 20 19.175 0 13.325 19.175 0 5.525
+4 16 20 0 20 19.175 0 5.525 19.175 0 -13.325 20 0 -20
+4 16 0 0 -13.325 -19.175 0 -13.325 -20 0 -20 20 0 -20
+3 16 19.175 0 -13.325 0 0 -13.325 20 0 -20
+3 16 -20 0 20 -19.175 0 13.325 0 0 13.325
+4 16 -20 0 20 0 0 13.325 19.175 0 13.325 20 0 20

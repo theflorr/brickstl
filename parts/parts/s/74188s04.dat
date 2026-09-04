@@ -1,0 +1,15 @@
+0 ~Animal Sheep Eye Area
+0 Name: s\74188s04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+3 16 4.1 0 -45.9 7 -.9 -42.3 5.9 -4.8 -44.2
+3 16 4.1 0 -45.9 5.1 2.1 -44.1 7 -.9 -42.3
+3 16 7 -.9 -42.3 5.1 2.1 -44.1 5.2 5.1 -42
+3 16 5.2 5.1 -42 6.6 2.9 -40.1 7 -.9 -42.3
+3 16 7 -.9 -42.3 6.6 2.9 -40.1 7.9 1 -38
+3 16 8.6 -3.2 -39.5 7 -.9 -42.3 7.9 1 -38
+3 16 5.9 -4.8 -44.2 7 -.9 -42.3 8.6 -3.2 -39.5

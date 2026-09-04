@@ -1,0 +1,17 @@
+0 Boat Hull Floating 51 x 12 Bottom with "POLICE 7287" and Life Preserver Stickers
+0 Name: 54100d01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Police boat, Set 7287, ship
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 54100.dat
+0 // 1 16 0 0 0 1 0 0 0 1 0 0 0 1 54779c02.dat
+1 16 113.6409 36 100 0 -.99637 .08513 0 -.08513 -.99637 1 0 0 4599941b.dat
+1 16 -113.6409 36 100 0 .99637 -.08513 0 .08513 -.99637 -1 0 0 4599941a.dat
+1 16 113.9827 32 -320 0 -.99637 .08513 0 -.08513 -.99637 1 0 0 4599941f.dat
+1 16 -113.9827 32 -320 0 .99637 -.08513 0 .08513 -.99637 -1 0 0 4599941f.dat

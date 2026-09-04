@@ -1,0 +1,17 @@
+0 Minifig Hat Wizard without Brim with Copper Triangle and Gold Border and Ornate Circles Pattern
+0 Name: 17349p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Architect, Bricklink 17349pb04, Castle, cone, drooping, Harry Potter
+0 !KEYWORDS Hogwarts, HP, Rebrickable 17349pr0208, Set 76419, sorcerer
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17349s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\17349s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17349s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17349p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\17349p01s01.dat

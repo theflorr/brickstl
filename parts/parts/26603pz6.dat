@@ -1,0 +1,23 @@
+0 Tile  2 x  3 with RED "F1" Pattern
+0 Name: 26603pz6.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 26603pb604, BrickOwl 523498, Brickset 116305, City
+0 !KEYWORDS F1 Display Truck with Audi F1 Race Car, Race
+0 !KEYWORDS Rebrickable 26603pr0036, Set 60493, town
+
+0 // Subpart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
+0 // Logo primitives
+1 4 0 0 0 1.05 0 0 0 1 0 0 0 1.05 logo-f1-text-01.dat
+1 16 0 0 0 1.05 0 0 0 1 0 0 0 1.05 logo-f1-text-outerbox-01.dat
+0 // Faces
+4 16 -30 0 20 -21 0 5.25 21 0 5.25 30 0 20
+4 16 -30 0 20 -30 0 -20 -21 0 -5.25 -21 0 5.25
+4 16 30 0 -20 30 0 20 21 0 5.25 21 0 -5.25
+4 16 30 0 -20 21 0 -5.25 -21 0 -5.25 -30 0 -20

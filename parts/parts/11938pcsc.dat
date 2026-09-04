@@ -1,0 +1,16 @@
+0 Minifig Torso with Bird Wing Arms with Yellow and Blue Feathers Pattern
+0 Name: 11938pcsc.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973pb6431c01, Brickowl 105030, Brickset 11938, CMF
+0 !KEYWORDS Collectable, Parrot Costume, Rebrickable 11938pr0003, Series 28
+0 !KEYWORDS Set 71051
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pcsc.dat
+1 16 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 11263p01.dat
+1 16 -15.552 9 0 -.985 -.17 0 -.17 .985 0 0 0 -1 11263p01.dat

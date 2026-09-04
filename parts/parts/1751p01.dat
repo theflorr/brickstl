@@ -1,0 +1,19 @@
+0 Tile  4 x  4 with Super Mario Big Goomba Face Pattern
+0 Name: 1751p01.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Big Bad Island - Expansion Set, Bricklink 751pb003
+0 !KEYWORDS Rebrickable 1751pr0003, Set 71412, Super Mario
+0 !KEYWORDS Super Mario - Expansion Set
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1751s01.dat
+
+0 // Pattern
+1 16 0 0 0 0.8 0 0 0 1 0 0 0 0.8 s\1751p01s01.dat
+1 16 0 0 0 -0.8 0 0 0 1 0 0 0 0.8 s\1751p01s01.dat

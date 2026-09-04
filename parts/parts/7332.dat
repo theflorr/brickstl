@@ -1,0 +1,16 @@
+0 Technic Gearbox  4 x  4 x  2 for Track with Gear Rack
+0 Name: 7332.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Computer and AI, Education, Science
+
+1 16 0 0 0 0 0 -40 0 1 0 40 0 0 recte4.dat
+1 16 0 0 -30 1 0 0 0 1 0 0 0 1 stug2-1x4.dat
+1 16 0 0 30 1 0 0 0 1 0 0 0 1 stug2-1x4.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7332s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\7332s01.dat

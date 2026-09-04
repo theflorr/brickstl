@@ -1,0 +1,21 @@
+0 Minifig Hips and Legs with Robot Limbs and Talons (Kraangdroid 2013) Pattern
+0 Name: 73200bpxe.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpxe.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Alien, Bricklink 970c42pb02, BrickOwl 196396, Brickset 13478
+0 !KEYWORDS Exo-Skeleton, Krang, Mini Lower Part No 482, Nickelodeon
+0 !KEYWORDS Rebrickable 970c32pr0482, Set 30270, Set 79104, Set 79120
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT, Utrom
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 3815bpxe.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpxe.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpxe.dat

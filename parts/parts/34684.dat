@@ -1,0 +1,19 @@
+0 Minifig Shield Octagonal
+0 Name: 34684.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Stop Sign
+
+0 !HISTORY 2025-01-30 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-01-30 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\34684s01.dat
+
+4 16 -8.154 -19.763 -12.275 -19.777 -8.154 -12.275 19.777 -8.154 -12.275 8.154 -19.763 -12.275
+4 16 19.777 -8.154 -12.275 -19.777 -8.154 -12.275 -19.777 8.154 -12.275 19.777 8.154 -12.275
+4 16 -8.154 19.763 -12.275 8.154 19.763 -12.275 19.777 8.154 -12.275 -19.777 8.154 -12.275

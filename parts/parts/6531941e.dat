@@ -1,0 +1,15 @@
+0 Sticker  1.5 x  7.6 with Black Rectangles
+0 Name: 6531941e.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 10356stk01a, Brickowl 985574, Rebrickable 10111843
+0 !KEYWORDS Set 10356, Star Trek, U.S.S. Enterprise NCC-1701-D, windows
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback015x076.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6531941es01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\6531941es01.dat

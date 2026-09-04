@@ -1,0 +1,20 @@
+0 ~Keychain Minifig Head - Hollow Stud without Outer Face
+0 Name: s\22878s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-03 [Blechtaler] made from 3626bs02.dat
+
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring3.dat
+1 16 0 0 0 6 0 0 0 -4 0 0 0 6 4-4cylo.dat
+1 16 0 -4 0 3 0 0 0 1 0 0 0 3 4-4ring1.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 3 0 0 0 8 0 0 0 3 4-4cylo.dat
+1 16 0 4 0 3 0 0 0 -1 0 0 0 3 4-4ring1.dat
+0 BFC INVERTNEXT
+1 16 0 4 0 6 0 0 0 20 0 0 0 6 4-4cylo.dat
+1 16 0 24 0 2 0 0 0 -1 0 0 0 2 4-4ring3.dat
+1 16 0 21 0 8 0 0 0 3 0 0 0 8 4-4cylo.dat

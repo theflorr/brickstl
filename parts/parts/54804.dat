@@ -1,0 +1,14 @@
+0 Duplo Train Base  4 x  2 with 2 Axles with 28mm Wheels
+0 Name: 54804.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 53052.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 53053.dat
+1 16 0 37 -40 1 0 0 0 1 0 0 0 1 70461c01.dat
+1 16 0 37 40 1 0 0 0 1 0 0 0 1 70461c01.dat

@@ -1,0 +1,17 @@
+0 Slope Brick 55  1 x  6 x  5 with Bottom Stud Holders with Dark Bluish Grey Wide Stripe and Diagonal Panels Sticker Right
+0 Name: 2937d01.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 2937pb001R, Set 75367, Star Wars The Clone Wars
+0 !KEYWORDS Venator-Class Republic Attack Cruiser - UCS
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2937.dat
+
+0 // Sticker
+1 16 10 0 0 0 -1 0 0 0 -1 1 0 0 6454800d.dat

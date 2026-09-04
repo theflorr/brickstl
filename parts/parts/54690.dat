@@ -1,0 +1,16 @@
+0 Electric Cable Converter with NXT and RCX Connectors
+0 Name: 54690.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS BrickLink x1676, Peeron x1676, Set 8528, Set 9797
+
+1 47 0 0 174 1 0 0 0 -1 0 0 0 -1 933c01.dat
+1 0 0 0 80 0 0 1 1 0 0 0 80 0 932.dat
+1 16 0 0 0 15 0 0 0 15 0 0 0 80 box.dat
+1 0 0 0 -80 0 0 -1 1 0 0 0 -83 0 993.dat
+1 16 0 -4.5 -180 0 0 -1 0 1 0 1 0 0 6625c01.dat

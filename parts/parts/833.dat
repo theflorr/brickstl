@@ -1,0 +1,27 @@
+0 Electric Switch: Remote Control for Train Point  2 x  7 (Complete)
+0 Name: 833.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place 3068ap01.dat and 3068ap02.dat
+0 !HELP 1 15 0 -8 0 1 0 0 0 1 0 0 0 1 3068ap01.dat
+0 !HELP place electrical plugs like 567c01.dat or 567c04.dat
+0 !HELP 1 1 20 10 -10 0 0 1 0 -1 0 1 0 0 567c01.dat
+0 !HELP place switch plugs like u9608c01.dat or u9608c02.dat
+0 !HELP 1 1 0 19 20 -1 0 0 0 -1 0 0 0 1 u9608c01.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink 7852, Rebrickable 7852, Set 753, Set 754, Train
+
+0 !CMDLINE -c1
+
+0 !HISTORY 2024-02-15 [Steffen] separated into ~parts
+0 !HISTORY 2024-11-11 [Blechtaler] moved origin to top, separated electric contacts
+
+1 16 0 32 -50 1 0 0 0 1 0 0 0 1 u9256.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9257.dat
+1 4 0 0 -60 1 0 0 0 1 0 0 0 1 u9258.dat
+1 494 0 0 0 1 0 0 0 1 0 0 0 1 u9259.dat

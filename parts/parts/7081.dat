@@ -1,0 +1,14 @@
+0 Cone  8 x  8 x 12 Quarter with  6 x  6 Cutout
+0 Name: 7081.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Cone
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7081s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7081s03.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\7081s03.dat

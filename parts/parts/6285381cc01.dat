@@ -1,0 +1,33 @@
+0 Sticker  0.8 x  3.0 with Black Line and Orange Light on Transparent Background (Formed)
+0 Name: 6285381cc01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 911, Bricklink 75895stk01, Brickowl 178456, bumper, front, Porsche
+0 !KEYWORDS Rebrickable 65827, set 75895
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+0 !HISTORY 2025-11-14 [Sirio] Modified for changes in 50950; introduced stickerback; changed description; make geometry in common with set 75888
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50950b01.dat
+0 // Subparts
+1 16 0 .5872 18.9266 1 0 0 0 .9986 -.053 0 .053 .9986 s\6221655zs01.dat
+1 16 0 14.1072 -21.6589 1 0 0 0 .881 -.4731 0 .4731 .881 s\6221655zs02.dat
+1 16 0 14.1072 -21.6589 1 0 0 0 .8167 -.577 0 .577 .8167 s\6221655zs03.dat
+0 // Complementary faces
+0 // Black faces
+4 0 -4.5 .3383 18.9002 -4.5 2.0837 7.9871 4.5 2.0837 7.9871 4.5 .3383 18.9002
+4 0 -4.5 2.0837 7.9871 -4.5 4.9588 -2.5528 4.5 4.9588 -2.5528 4.5 2.0837 7.9871
+4 0 -4.5 4.9588 -2.5528 -4.5 8.9229 -12.5324 4.5 8.9229 -12.5324 4.5 4.9588 -2.5528
+0 // Green faces
+4 16 -4.5 .3383 18.9 -8 .3383 18.9002 -8 2.0837 7.9871 -4.5 2.0837 7.9871
+4 16 4.5 .3383 18.9002 4.5 2.0837 7.9871 8 2.0837 7.9871 8 .3383 18.9002
+4 16 -4.5 2.0837 7.9871 -8 2.0837 7.9871 -8 4.9588 -2.5528 -4.5 4.9588 -2.5528
+4 16 4.5 2.0837 7.9871 4.5 4.9588 -2.5528 8 4.9588 -2.5528 8 2.0837 7.9871
+4 16 -4.5 4.9588 -2.5528 -8 4.9588 -2.5528 -8 8.9229 -12.5324 -4.5 8.9229 -12.5324
+4 16 4.5 4.9588 -2.5528 4.5 8.9229 -12.5324 8 8.9229 -12.5324 8 4.9588 -2.5528

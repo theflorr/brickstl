@@ -1,0 +1,16 @@
+0 Animal Sheep with White Eyes and Wool Pattern
+0 Name: 74188p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Bricklink 74188pb01, Rebrickable 74188pr0001, Set 10775, Set 60346
+0 !KEYWORDS Set 60461
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\74188s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\74188s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\74188p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\74188p01s01.dat

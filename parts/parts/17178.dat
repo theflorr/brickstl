@@ -1,0 +1,28 @@
+0 Duplo Cannon with Locking Ring and Red Firing Button
+0 Name: 17178.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place cannon ball with 1 16 0 -55.5 -33.5 1 0 0 0 0 1 0 1 0 54043b.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS BrickLink 17178c01, Rebrickable 17178c01
+
+0 // spring has not been modeled
+0 // internal structure greatly simplified
+
+0 // back piece
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 16702.dat
+
+0 // front piece
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 16703.dat
+
+0 // red button
+1 4 0 -103.5 9.5 1 0 0 0 1 0 0 0 1 94887.dat
+
+0 // screws
+1 383 28.45 -55.5 -20.5 1 0 0 0 0 1 0 -1 0 u9013.dat
+1 383 -28.45 -55.5 -20.5 1 0 0 0 0 1 0 -1 0 u9013.dat

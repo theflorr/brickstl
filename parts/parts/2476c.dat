@@ -1,0 +1,21 @@
+0 Plate  2 x  2 with Pin Type 1 and Small Support Ring
+0 Name: 2476c.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plate
+0 !KEYWORDS BrickLink 2476, Brickowl 968790, Brickset 2476, Rebrickable 2476a
+
+0 !HISTORY 2026-05-16 [GeraldLasser] Derived from 2476a by James Jessiman
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2476cs01.dat
+
+1 16 0 8 0 1 0 0 0 -1 0 0 0 1 connect.dat
+1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 4 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
+1 16 0 4 0 8 0 0 0 4 0 0 0 8 4-4cyli.dat

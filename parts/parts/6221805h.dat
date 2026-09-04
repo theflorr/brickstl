@@ -1,0 +1,29 @@
+0 Sticker  1.0 x  3.8 with Logos on Red Background Left
+0 Name: 6221805h.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 1962, 1979, 24h, 250, 312, 488, BrickLink 75889stk01
+0 !KEYWORDS Brickowl 152169, Equipe nationale belge, Ferrari, Garage
+0 !KEYWORDS Gilles Villeneuve, GTE, GTO, Jean "Beurly" Blaton, Le Mans
+0 !KEYWORDS Léon "Eldé" Dernier, Rebrickable 37841, Set 75889, Speed Champions
+0 !KEYWORDS T4, Ultimate
+
+0 // Logo primitives
+1 4 -6 -.25 0 1.1 0 0 0 1 0 0 0 1.1 logo-ferrari-badge-simplified-rounded.dat
+1 4 -6 -.25 0 1.1 0 0 0 1 0 0 0 1.1 logo-ferrari-badge-rounded-box.dat
+1 16 -24.5 -.25 -1.5 .5 0 0 0 1 0 0 0 .5 logo-fiat-square.dat
+0 // Subparts
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6221805gs01.dat
+1 16 18 0 0 1 0 0 0 1 0 0 0 1 s\6221805gs02.dat
+0 // Complementary faces
+0 // Red faces
+3 4 -34.75 -.25 1 -13 -.25 3 -38 -.25 3
+4 4 -12.75 -.25 1 -12.006 -.25 1.65 -13 -.25 3 -34.75 -.25 1
+4 4 -12.75 -.25 1 -14.25 -.25 -4 -12.006 -.25 -8.36 -12.006 -.25 1.65
+4 4 -36.25 -.25 -4 -34.75 -.25 1 -38 -.25 3 -38 -.25 -8.5
+4 4 -36.25 -.25 -4 -38 -.25 -8.5 -12.006 -.25 -8.36 -14.25 -.25 -4

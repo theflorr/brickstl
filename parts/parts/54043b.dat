@@ -1,0 +1,20 @@
+0 Duplo Cannon Ball with 4 Holes
+0 Name: 54043b.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\54043bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\54043bs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\54043bs01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\54043bs01.dat
+
+1 16 0 -87 0 42 0 0 0 1 0 0 0 42 48\4-4edge.dat
+1 16 0 -87 0 1 0 0 0 -1 0 0 0 1 48\4-4ring37.dat
+1 16 0 -87 0 2 0 0 0 -1 0 0 0 2 48\4-4ring19.dat
+1 16 0 -87 0 2 0 0 0 -1 0 0 0 2 48\4-4ring20.dat
+1 16 0 -87 0 37 0 0 0 1 0 0 0 37 48\4-4edge.dat

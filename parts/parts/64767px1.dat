@@ -1,0 +1,15 @@
+0 Minifig Head Squidward with Neutral Pattern
+0 Name: 64767px1.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 64767pb01, Carlo le Calamar, Rebrickable 64767pr0001
+0 !KEYWORDS Set 3818, Set 3834, Set 852713, SpongeBob SquarePants
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\64767px1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\64767px1s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\64767s00.dat

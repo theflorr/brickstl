@@ -1,0 +1,20 @@
+0 Minifig Feeding Bottle
+0 Name: 18855.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Baby, Brickowl 368404, Milk, water
+
+0 !HISTORY 2026-01-06 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-06 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18855s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18855s01.dat
+1 16 0 -4.8 0 1 0 0 0 -1.2 0 0 0 1 stud4a.dat
+3 16 0 -21 -6 -6 -21 0 6 -21 0
+3 16 0 -4.8 6 6 -4.8 0 -6 -4.8 0
+1 16 0 -12.9 0 0 0 -6 -8.1 0 0 0 1 0 rect.dat

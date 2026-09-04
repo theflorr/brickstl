@@ -1,0 +1,32 @@
+0 Sticker  1.3 x  1.6 with Football and Danish Flag on Red
+0 Name: 4141964c.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 3407stk02a, BrickOwl 16380, Dannebrog, Denmark
+0 !KEYWORDS Football 2000, Rebrickable 23051, Red Team Bus, Set 3407, Soccer
+
+0 // Sticker Back
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback013x016a.dat
+
+0 // Flag
+1 4 0 -.25 1 .48 0 0 0 1 0 0 0 .48 s\4141964as04.dat
+1 15 0 -.25 1 .48 0 0 0 1 0 0 0 .48 s\4141964as05.dat
+
+0 // Logo
+1 16 0 -.25 1 .48 0 0 0 1 0 0 0 .48 s\4141964as02.dat
+
+0 // Background
+1 4 0 -.25 1 .48 0 0 0 1 0 0 0 .48 s\4141964as01.dat
+3 4 -12 -.25 13.5 -12 -.25 12.52 12 -.25 13.5
+3 4 12 -.25 13.5 -12 -.25 12.52 12 -.25 12.52
+3 4 12 -.25 13.5 12 -.25 12.52 16.5 -.25 -13.5
+3 4 16.5 -.25 -13.5 12 -.25 12.52 12 -.25 -10.52
+3 4 16.5 -.25 -13.5 12 -.25 -10.52 -12 -.25 -10.52
+3 4 16.5 -.25 -13.5 -12 -.25 -10.52 -16.5 -.25 -13.5
+3 4 -16.5 -.25 -13.5 -12 -.25 -10.52 -12 -.25 12.52
+3 4 -16.5 -.25 -13.5 -12 -.25 12.52 -12 -.25 13.5

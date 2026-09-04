@@ -1,0 +1,27 @@
+0 ~Electric  4.5V Battery Box  7 x 11 x  3 Type 2 Lid without patternable Surfaces
+0 Name: s\u9023s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-11-24 [Blechtaler] Subfiled without front from the official u9023s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9023as01.dat
+0 BFC INVERTNEXT
+1 16 40 54 -110 8 0 0 0 0 -8 0 4 0 2-4cylo.dat
+1 16 40 54 -106 8 0 0 0 0 -8 0 -1 0 2-4ndis.dat
+1 16 40 54 -110 8 0 0 0 0 -8 0 1 0 2-4ndis.dat
+1 16 48 59 -108 0 1 0 0 0 5 2 0 0 rect3.dat
+1 16 32 59 -108 0 -1 0 0 0 5 2 0 0 rect3.dat
+3 16 32 64 -110 32 54 -110 -70 64 -110
+3 16 70 64 -110 48 54 -110 48 64 -110
+3 16 66 64 -106 48 64 -106 48 54 -106
+3 16 -66 64 -106 32 54 -106 32 64 -106
+4 16 48 64 -110 48 64 -106 66 64 -106 70 64 -110
+4 16 -70 64 -110 -66 64 -106 32 64 -106 32 64 -110
+2 24 48 64 -110 70 64 -110
+2 24 -70 64 -110 32 64 -110
+2 24 32 64 -106 -66 64 -106
+2 24 66 64 -106 48 64 -106

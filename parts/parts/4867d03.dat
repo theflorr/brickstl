@@ -1,0 +1,15 @@
+0 Tail Plane with Launch Command Logo, Blue and Red Lines on Both Sides Stickers
+0 Name: 4867d03.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 4867pb18, BrickOwl 203815, Launch Command, Plane, Set 6544
+0 !KEYWORDS Shuttle Transcon 2, space port, town
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4867.dat
+1 16 -2 13.3 57.9 0 1 0 0 0 -1 -1 0 0 169655g.dat
+1 16 2 13.3 57.9 0 -1 0 0 0 -1 1 0 0 169655h.dat

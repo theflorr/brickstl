@@ -1,0 +1,22 @@
+0 Minifig Sponge
+0 Name: 94723.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS animal, BrickLink 92355a, Friends, Horse, Multipack 92355, pet
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2020-10-22 [RainbowDolphin] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-06-24 [Blechtaler] Rework with prims
+
+
+1 16 0 6.223 0 1 0 0 0 1 0 0 0 1 s\94723s01.dat
+1 16 0 6.223 0 -1 0 0 0 1 0 0 0 1 s\94723s01.dat
+1 16 0 6.223 0 1 0 0 0 -1 0 0 0 1 s\94723s01.dat
+1 16 0 6.223 0 -1 0 0 0 -1 0 0 0 1 s\94723s01.dat
+4 16 0 9.3946 1.4692 -13.1716 6.223 1.4692 0 3.0514 1.4692 13.1716 6.223 1.4692
+4 16 -12.3044 6.223 -1.5308 0 8.5274 -1.5308 12.3044 6.223 -1.5308 0 3.9186 -1.5308

@@ -1,0 +1,23 @@
+0 ~Minifig Head Alien Na'vi with Pointed Ears without Patternable Surfaces
+0 Name: s\1576s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+
+1 16 0 32 0 2 0 0 0 -1 0 0 0 2 4-4ring3.dat
+1 16 0 32 0 .5 0 0 0 -1 0 0 0 .5 4-4ring16.dat
+1 16 0 32 0 8.5 0 0 0 -1 0 0 0 8.5 4-4edge.dat
+1 16 0 32 0 8.5 0 0 0 -7.9 0 0 0 8.5 4-4cyli.dat
+
+0 BFC INVERTNEXT
+1 16 0 5.5 0 6 0 0 0 26.5 0 0 0 6 4-4cylc.dat
+
+1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4disc.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stud2.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1576s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1576s02.dat

@@ -1,0 +1,11 @@
+0 ~Animal Panda - Half
+0 Name: s\16674s01.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\16674s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\16674s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\16674s04.dat

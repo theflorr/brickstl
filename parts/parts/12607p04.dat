@@ -1,0 +1,22 @@
+0 Minifig Head Ninja Turtle with Donatello Frown Pattern
+0 Name: 12607p04.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 12607pb06, Don, Donnie, Nickelodeon
+0 !KEYWORDS Rebrickable 12607c04pr0001, Set 79101, Teenage Mutant Ninja Turtles
+0 !KEYWORDS TMNT
+
+0 // Main Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12607s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12607s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12607s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12607p04s03.dat
+
+0 // Mask
+1 85 0 0 0 1 0 0 0 1 0 0 0 1 s\12607s02.dat
+1 85 0 0 0 1 0 0 0 1 0 0 0 1 s\12607p04s04.dat

@@ -1,0 +1,12 @@
+0 ~Minifig Visor for Hazmat Suit
+0 Name: u9636.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9636s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9636s01.dat

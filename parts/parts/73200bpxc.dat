@@ -1,0 +1,23 @@
+0 Minifig Hips and Legs with Dark Blue Jeans Shorts with Pockets Pattern
+0 Name: 73200bpxc.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpxc.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS April O'Neil, Baxter Robot Rampage, Bricklink 970c11pb13
+0 !KEYWORDS Brickowl 231420, Brickset 13320, Mini Lower Part No 474, Nickelodeon
+0 !KEYWORDS Rebrickable 970c03pr0474, Set 79105, Silver Buttons
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT
+
+0 !CMDLINE -c0
+
+1 272 0 0 0 1 0 0 0 1 0 0 0 1 3815bpxc.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpxc.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpxc.dat

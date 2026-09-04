@@ -1,0 +1,15 @@
+0 Minifig Cap with Black Antenna Pattern
+0 Name: 12892p01.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS BAM 2020, BrickLink 12892pb01, Bug, Bumblebee Girl, CMF, Insect
+0 !KEYWORDS Ladybug Girl, Rebrickable 12892pr0001, Series 10, Series 21
+0 !KEYWORDS Set 71001, Set 71029
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12892s00.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\12892s04.dat

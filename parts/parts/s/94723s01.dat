@@ -1,0 +1,31 @@
+0 ~Minifig Sponge - Quarter
+0 Name: s\94723s01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2020-10-22 [RainbowDolphin] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-06-24 [Blechtaler] Rework with prims
+
+
+1 16 11 1 0 5 0 0 0 0 5 0 5 0 t04o8000.dat
+1 16 11 1 0 5 0 0 0 0 5 0 -5 0 t04o8000.dat
+1 16 11 1 0 5 0 0 0 0 5 0 5 0 t04i8000-05.dat
+1 16 11 1 0 5 0 0 0 0 5 0 -5 0 t04i8000-075.dat
+1 16 0 6 0 0 11 0 4 0 0 0 0 4 3-8cyli.dat
+1 16 0 6 0 0 11 0 4 0 0 0 0 -4 7-16cyli.dat
+1 16 16 0 0 4 0 0 0 1 0 0 0 4 3-8cyli.dat
+1 16 16 0 0 4 0 0 0 1 0 0 0 -4 7-16cyli.dat
+1 16 11 1 -1.5308 1.3044 0 0 0 0 1.3044 0 1 0 1-4chrd.dat
+1 16 11 1 -1.5308 1.3044 0 0 0 0 1.3044 0 1 0 1-4edge.dat
+1 16 11 1 1.4692 2.1716 0 0 0 0 2.1716 0 -1 0 1-4chrd.dat
+0 BFC INVERTNEXT
+1 16 11 1 1.4692 2.1716 0 0 0 0 2.1716 0 1.3592 0 1-4cylo.dat
+4 16 11 2.3044 -1.5308 12.3044 1 -1.5308 12.3044 0 -1.5308 0 2.3044 -1.5308
+4 16 13.1716 0 1.4692 13.1716 1 1.4692 11 3.1716 1.4692 0 3.1716 1.4692
+1 16 13.1716 .5 2.1488 0 1 0 .5 0 0 0 0 .6796 rect2p.dat
+1 16 5.5 3.1716 2.1488 5.5 0 0 0 1 0 0 0 .6796 rect2p.dat
+2 24 12.3044 0 -1.5308 12.3044 1 -1.5308
+2 24 11 2.3044 -1.5308 0 2.3044 -1.5308

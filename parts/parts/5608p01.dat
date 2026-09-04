@@ -1,0 +1,15 @@
+0 Minifig Bottle Florence Flask with Inside Trans-Yellow Fluid
+0 Name: 5608p01.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 5608PB01, Brickowl 605413, Brickset 5608
+0 !KEYWORDS Colour Combination, Rebrickable 5608pat0001, Set 40230, Set 76431
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5608s01.dat
+0 BFC NOCLIP
+1 46 0 20 0 1 0 0 0 1 0 0 0 1 s\5608s02.dat

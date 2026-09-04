@@ -1,0 +1,16 @@
+0 Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Dark Brown Arrow on Olive Green Background Pattern
+0 Name: 18603c02p15.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Bricklink 18605c01pb37, Dimensions, Electronic, Legolas Greenleaf
+0 !KEYWORDS Lord of the Rings, LOTR, NFC, Rebrickable 19981pr0037, Set 71219
+0 !KEYWORDS Toy Tag
+
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 18603.dat
+1 47 0 11 0 1 0 0 0 1 0 0 0 1 u9512.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 18605p15.dat

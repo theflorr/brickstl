@@ -1,0 +1,12 @@
+0 ~Sticker Top "Celebrimbor Forging the Rings of Power"
+0 Name: s\6422763as01.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+0 // Top surface
+1 16 0 -.25 36 -38.5 0 0 0 1 0 0 0 38.5 2-4chrd.dat
+4 16 38.5 -.25 -74.5 38.5 -.25 36 -38.5 -.25 36 -38.5 -.25 -74.5

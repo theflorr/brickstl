@@ -1,0 +1,32 @@
+0 ~Electric Bluetooth Remote Control Case Bottom (Needs Work)
+0 Name: u9526.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2025-08-22 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-09-24 [Philo] File preparation for LDraw Parts Tracker
+
+0 // Needs Work: no internal skin
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9526s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9526s01.dat
+1 16 0 -5 0 0 0 -1 0 -1.25 0 1 0 0 stug4-3x3.dat
+1 16 40 -5 0 0 0 -1 0 -1.25 0 1 0 0 stug4-1x3.dat
+1 16 -40 -5 0 0 0 -1 0 -1.25 0 1 0 0 stug4-1x3.dat
+1 16 0 -2.5 -36 -50 0 0 0 0 -2.5 0 -1 0 rect2p.dat
+1 16 0 0 -38 0 0 -50 0 -1 0 -2 0 0 rect1.dat
+4 16 10 -7 40 -10 -7 40 -10 -8 38.8 10 -8 38.8
+1 16 0 -8 38.3 10 0 0 0 1 0 0 0 .5 rect2p.dat
+2 24 10 -7 40 -10 -7 40
+4 16 -17 -7 40 17 -7 40 50 0 40 -50 0 40
+1 16 0 -2.5 36 50 0 0 0 0 -2.5 0 1 0 rect2p.dat
+1 16 0 0 38 0 0 50 0 -1 0 2 0 0 rect1.dat
+4 16 47.7 -5 35.3 -47.7 -5 35.3 -50 -5 36 50 -5 36
+4 16 47.7 -5 -35.3 50 -5 -36 -50 -5 -36 -47.7 -5 -35.3
+4 16 -47.7 -5 -35.3 -47.7 -5 35.3 47.7 -5 35.3 47.7 -5 -35.3
+1 16 0 -12 -40 0 0 -50 -12 0 0 0 1 0 rect1.dat

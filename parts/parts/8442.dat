@@ -1,0 +1,22 @@
+0 Plate  2 x  2 with Cutouts
+0 Name: 8442.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plate
+0 !KEYWORDS Brickowl 969100
+
+0 !HISTORY 2026-08-31 [OrionP] Official Update 2026-08
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\8442s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\8442s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\8442s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\8442s01.dat
+4 16 0 4 12 12 4 0 0 4 -12 -12 4 0
+4 16 14 0 0 0 0 14 -14 0 0 0 0 -14

@@ -1,0 +1,13 @@
+0 ~Duplo Train Movable Hitch with Stoppers - Short
+0 Name: 4561.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4561s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9094s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9094s03.dat

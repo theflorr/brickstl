@@ -1,0 +1,17 @@
+0 Minifig Head with Dark Green Mask, Lime Eyes, Stubbles and Serious/Bared Teeth 2-Sided Pattern
+0 Name: 3626cp17.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS BrickLink 3626pb1276, Green Arrow, Rebrickable 3626cpr1633
+0 !KEYWORDS Set 71342, Set 76028
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3626bs05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cp17s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cp17s01.dat

@@ -1,0 +1,22 @@
+0 Brick 16 x  8 Sports Field Section with Basketball Free-Throw Line Pattern
+0 Name: 30489p02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS basketball, Bricklink 30489pb02, NBA, Rebrickable 30489pr0002
+0 !KEYWORDS Set 3432, Set 3433, Sports
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30489s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30489p02s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30489p02s01.dat
+3 4 -50 -8 0 -58.864 -8 4 -58.864 -8 -4
+4 4 -79 -8 -51 -58.864 -8 -4 -58.864 -8 4 -79 -8 51
+3 16 80 -8 60 59 -8 0 80 -8 -60
+4 16 -79 -8 51 -80 -8 60 -80 -8 -60 -79 -8 -51

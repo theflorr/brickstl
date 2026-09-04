@@ -1,0 +1,17 @@
+0 Electric  4.5V Battery Box  7 x 11 x  3 Type 1 (Complete) with Red Dot Pattern
+0 Name: 561p01c01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink bb0045c02pb01, electronic train, Rebrickable 468c02pr0001
+0 !KEYWORDS Set 138-1, whistle
+
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 561p01.dat
+1 1 0 4 -90 1 0 0 0 1 0 0 0 1 u9039.dat
+1 15 0 34 -98 1 0 0 0 1 0 0 0 1 563.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 560.dat
+1 494 0 64 36 1.06066 0 -1.06066 0 -1.5 0 1.06066 0 1.06066 u9020.dat

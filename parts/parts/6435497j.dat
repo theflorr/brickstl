@@ -1,0 +1,20 @@
+0 Sticker  6.5 x  2.9 with Rivendell Tapestry
+0 Name: 6435497j.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 10316stk02, Brickowl 259152, Lord of the Rings
+0 !KEYWORDS Rebrickable 10103464, Set 10316
+
+
+1 16 0 -.25 0 -29 0 0 0 .25 0 0 0 -65 box5-12.dat
+
+0 !TEXMAP START PLANAR -29 -.25 65 29 -.25 65 -29 -.25 -65 6435497j.png
+0 !: 4 16 29 -.25 -65 29 -.25 65 -29 -.25 65 -29 -.25 -65
+0 !TEXMAP FALLBACK
+4 16 29 -.25 -65 29 -.25 65 -29 -.25 65 -29 -.25 -65
+0 !TEXMAP END

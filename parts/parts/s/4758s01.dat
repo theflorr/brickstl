@@ -1,0 +1,17 @@
+0 ~Electric Plate  2 x  8 with Contacts - Half
+0 Name: s\4758s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 70 0 0 0 0 -1 0 1 0 1 0 0 s\4755s01.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 s\4757s02.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 s\4757s02.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 s\4757s02.dat
+
+4 16 -80 8 -20 -76 8 -16 76 8 -16 80 8 -20
+
+1 494 0 6 -16 76 0 0 0 0 2 0 -1 0 rect.dat
+3 494 70 4 4 64 4 16 76 4 16

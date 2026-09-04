@@ -1,0 +1,12 @@
+0 =Window  1 x  2 x  2 Pane Lattice Diamond
+0 Name: 3273.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Window
+0 !KEYWORDS BrickLink 38320, Rebrickable 38320
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 38320.dat

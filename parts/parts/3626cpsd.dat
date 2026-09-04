@@ -1,0 +1,23 @@
+0 Minifig Head with Black Female Eyebrows, Reddish Brown Lips, Cheek Lines and Dimple Pattern
+0 Name: 3626cpsd.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS BrickLink 3626pb2928, Rebrickable 3626cpr3531, Set 21337, Set 40557
+0 !KEYWORDS Set 40755, Set 75313, Set 75320, Set 75348, Set 75370, Set 75393
+0 !KEYWORDS Set 75394, Star Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cpsds01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cpsds01.dat
+
+1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat

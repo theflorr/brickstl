@@ -1,0 +1,16 @@
+0 Slope Plate 45.73  2 x  1 with Black Stripes on Light Bluish Grey Background Sticker
+0 Name: 92946dy3.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Helmet Colletions, Jango Fett, Star Wars
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 92946.dat
+
+0 // Sticker
+1 16 0 -6 -10.25 0 0 1 .716 .698101 0 -.698101 .716 0 6536046c.dat

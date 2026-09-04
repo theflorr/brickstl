@@ -1,0 +1,15 @@
+0 Electric Technic Fiber Optics Cable Thick 28L
+0 Name: 109497.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS BrickLink x400c28, Light Pipe, Porsche GT4 e-Performance
+0 !KEYWORDS Rebrickable 40002c28, Set 42176
+
+1 16 0 0 270 1 0 0 0 0 1 0 -1 0 40002k01.dat
+1 16 0 0 270 1 0 0 0 0 1 0 -540 0 40002k02.dat
+1 16 0 0 -270 1 0 0 0 0 -1 0 1 0 40002k01.dat

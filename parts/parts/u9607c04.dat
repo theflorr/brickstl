@@ -1,0 +1,15 @@
+0 Electric Cable White with Grey Plug (Type 2) Twin Extra-Wide Cross-Cut Pin and Train Track Connector
+0 Name: u9607c04.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS 12V, Bricklink 2913c04, Set 1152-1, Set 28-1, Set 726-1
+
+
+1 16 31.25 -4.5 167 1 0 0 0 1 0 0 0 1 511c01.dat
+1 511 0 0 -150 0 0 1 1 0 0 0 300 0 993.dat
+1 7 0 0 -184 1 0 0 0 1 0 0 0 1 u9607c02.dat

@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Hands with Tattered Green Vest, Yellow Neck and Silver Dagger Pattern
+0 Name: 76382pny.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973px14c01, BrickOwl 833855, Mini Upper Part No 288, Ninja
+0 !KEYWORDS Rebrickable 973c22h01pr0014, Robber Baron, Robber Chief, samurai
+0 !KEYWORDS Set 1099, Set 1184, Set 3016, Set 4805, Set 6033, Set 6045, Set 6088
+0 !KEYWORDS set 6089
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pny.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

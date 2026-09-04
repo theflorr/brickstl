@@ -1,0 +1,16 @@
+0 Figure Friends Legs with Full Length Skirt with Black Pleat Lines Pattern
+0 Name: 1011322p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Bricklink 36187c00pb019, Set 42639
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1011322s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1011322s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1011322p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1011322p01s01.dat
+1 16 0 0 -1 1 0 0 0 1 0 0 0 1 s\1023035s02.dat

@@ -1,0 +1,15 @@
+0 Duplo Pram with Thin Yellow Wheels Pattern
+0 Name: 2147c01p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS Bricklink 2147c01, Brickowl 663516, Brickset 74202
+0 !KEYWORDS Rebrickable 92937c01, Set 5639, Set 9152, stroller
+
+1 16 0 -25 0 1 0 0 0 1 0 0 0 1 2147.dat
+1 14 0 -25 33 0 0 1 0 1 0 -1 0 0 4077c01.dat
+1 14 0 -25 -33 0 0 1 0 1 0 -1 0 0 4077c01.dat

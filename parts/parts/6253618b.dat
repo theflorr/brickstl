@@ -1,0 +1,29 @@
+0 Sticker  1.8 x  3.8 with Black Arc on Red Background (Needs Work)
+0 Name: 6253618b.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Needs work: halftone black and silver simplified with light grey faces
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 75890stk01, Brickowl 828129, Competizione, F40, Ferrari
+0 !KEYWORDS Rebrickable 49141, Set 75890, Speed Champions
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback018x038.dat
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6253618bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6253618bs01.dat
+0 // Top face
+0 // Black faces
+3 0 -.5035 -.25 -14.2531 .5035 -.25 -14.2531 0 -.25 -11.8
+4 0 -.5035 -.25 -14.2531 -.5475 -.25 -14.3892 .5475 -.25 -14.3892 .5035 -.25 -14.2531
+4 0 -.6366 -.25 -14.501 .6366 -.25 -14.501 .5475 -.25 -14.3892 -.5475 -.25 -14.3892
+4 0 -.6366 -.25 -14.501 -.7593 -.25 -14.5744 .7593 -.25 -14.5744 .6366 -.25 -14.501
+4 0 -3.5 -.25 -16.4 3.5 -.25 -16.4 .7593 -.25 -14.5744 -.7593 -.25 -14.5744
+4 0 -3.5 -.25 -16.4 -33.0944 -.25 -18 33.0944 -.25 -18 3.5 -.25 -16.4
+0 // Red face
+3 4 -36.5 -.25 18 0 -.25 3.1 36.5 -.25 18

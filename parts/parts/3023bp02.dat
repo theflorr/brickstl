@@ -1,0 +1,21 @@
+0 Plate  1 x  2 with White Stripe Pattern
+0 Name: 3023bp02.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plate
+0 !KEYWORDS Bricklink 3023pb12, BrickOwl 160156, Brickset 112500, Ferrari SF-24
+0 !KEYWORDS Rebrickable 3023pr0011, Set 77242, Speed Champions
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3023bs01.dat
+
+0 // Pattern
+4 15 19 6 -10 19 2 -10 -19 2 -10 -19 6 -10
+4 16 19 6 -10 -19 6 -10 -20 8 -10 20 8 -10
+4 16 19 2 -10 19 6 -10 20 8 -10 20 0 -10
+4 16 -19 2 -10 19 2 -10 20 0 -10 -20 0 -10
+4 16 -19 2 -10 -20 0 -10 -20 8 -10 -19 6 -10

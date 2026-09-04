@@ -1,0 +1,26 @@
+0 Brick Braille 2 x 4 with 1 Stud (DOTS-3) with "'" Pattern
+0 Name: 65551p01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS ⠄ Unicode U+2804 (10244), Apostrophe, Bricklink 65551pb01
+0 !KEYWORDS Rebrickable 65551pr0001, Set 4000503, set 4000506, set 40655
+0 !KEYWORDS set 40656
+
+0 !HISTORY 2024-08-18 [MagFors] Changed orientation, added keywords
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s02.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+
+0 // Pattern
+0 // Character
+4 0 25.7 0 .979 25.7 0 -.634 29.274 0 -.75 29.274 0 .326
+0 // Background
+4 16 25.7 0 -.634 -40 0 -20 40 0 -20 29.274 0 -.75
+4 16 40 0 20 29.274 0 .326 29.274 0 -.75 40 0 -20
+4 16 25.7 0 .979 -40 0 20 -40 0 -20 25.7 0 -.634
+4 16 29.274 0 .326 40 0 20 -40 0 20 25.7 0 .979

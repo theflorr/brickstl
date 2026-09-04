@@ -1,0 +1,16 @@
+0 Tile  5 x  5 x  0.667 Pentagonal
+0 Name: 7894.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+
+0 !HISTORY 2026-01-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-01 [Philo] File preparation for LDraw Parts Tracker
+
+3 16 -15.279 -16 47.023 -49.443 -16 0 -15.279 -16 -47.023
+4 16 -15.279 -16 47.023 -15.279 -16 -47.023 40 -16 -29.062 40 -16 29.062
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7894s01.dat

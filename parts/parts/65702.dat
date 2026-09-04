@@ -1,0 +1,50 @@
+0 Plate  4.5 x  4.5 with Melting Drops on Side
+0 Name: 65702.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Accessory Hole x=32.1734 y=7.3 z=-32.1734
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plate
+0 !KEYWORDS cake, Frosting, Icing
+
+0 !HISTORY 2025-02-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-09-23 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4h.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+
+1 16 0 4 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+0 BFC INVERTNEXT
+1 16 0 4 0 16 0 0 0 4 0 0 0 16 box4.dat
+1 16 0 4 0 20 0 0 0 4 0 0 0 20 box4.dat
+4 16 -20 8 -20 -16 8 -16 16 8 -16 20 8 -20
+4 16 20 8 -20 16 8 -16 16 8 16 20 8 20
+4 16 -20 8 20 20 8 20 16 8 16 -16 8 16
+4 16 -20 8 -20 -20 8 20 -16 8 16 -16 8 -16
+4 16 -16 4 -16 -8 4 -8 8 4 -8 16 4 -16
+4 16 16 4 -16 8 4 -8 8 4 8 16 4 16
+4 16 16 4 16 8 4 8 -8 4 8 -16 4 16
+4 16 -16 4 16 -8 4 8 -8 4 -8 -16 4 -16
+
+3 16 -41.5 4 0 -20 4 20 -20 4 -20
+3 16 -20 4 -20 20 4 -20 0 4 -41.5
+3 16 20 4 -20 20 4 20 41.5 4 0
+3 16 20 4 20 -20 4 20 0 4 41.5
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65702s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\65702s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\65702s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\65702s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\65702s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\65702s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\65702s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\65702s01.dat
+
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stug-2x1.dat
+1 16 30 0 0 1 0 0 0 1 0 0 0 1 stug-2x1.dat

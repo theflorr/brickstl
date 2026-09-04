@@ -1,0 +1,15 @@
+0 Tile  1 x  4 with Dark Bluish Grey Vehicle Grille and Trapezoidal Logo, and Yellow and Orange Headlights Pattern
+0 Name: 2431p7a.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 2431pb0820, Brickowl 777553, Brickset 101398, City
+0 !KEYWORDS Rebrickable 2431pr0192, Set 60370, set 60382
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431p7as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2431p7as01.dat

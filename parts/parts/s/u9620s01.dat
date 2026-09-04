@@ -1,0 +1,31 @@
+0 ~Electric Train 4.5V Whistle Control Block  4 x  8 x  2 Circuit Plate - Common
+0 Name: s\u9620s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 -1 -74 0 0 36 1 0 0 0 150 0 box3u4a.dat
+
+1 16 20 -1 -64 5.8 0 0 0 0 1 0 -10 0 box5-2p.dat
+1 16 0 -1 -64 5.8 0 0 0 0 1 0 -10 0 box5-2p.dat
+1 16 -20 -1 -64 5.8 0 0 0 0 1 0 -10 0 box5-2p.dat
+
+1 16 35.1 -1 -69 0 0 -.9 1 0 0 0 -5 0 box2-5.dat
+1 16 -35.1 -1 -69 0 0 .9 1 0 0 0 -5 0 box2-5.dat
+
+1 16 30 -1 -64 4.2 0 0 0 0 1 0 1 0 rect2p.dat
+1 16 10 -1 -64 4.2 0 0 0 0 1 0 1 0 rect2p.dat
+1 16 -10 -1 -64 4.2 0 0 0 0 1 0 1 0 rect2p.dat
+1 16 -30 -1 -64 4.2 0 0 0 0 1 0 1 0 rect2p.dat
+
+4 16 36 -2 76 34.2 -2 -64 34.2 -2 -74 36 -2 -74
+4 16 34.2 0 -64 36 0 76 36 0 -74 34.2 0 -74
+4 16 -34.2 -2 -74 -34.2 -2 -64 -36 -2 76 -36 -2 -74
+4 16 -36 0 76 -34.2 0 -64 -34.2 0 -74 -36 0 -74
+
+1 494 30 0 -80 1 0 0 0 1 0 0 0 1 s\u9620s02.dat
+1 494 10 0 -80 1 0 0 0 1 0 0 0 1 s\u9620s02.dat
+1 494 -10 0 -80 1 0 0 0 1 0 0 0 1 s\u9620s02.dat
+1 494 -30 0 -80 1 0 0 0 1 0 0 0 1 s\u9620s02.dat

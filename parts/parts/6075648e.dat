@@ -1,0 +1,41 @@
+0 Sticker  0.9 x  1.8 with Slide Lever, Horizon Screen and Magenta and Lime Buttons
+0 Name: 6075648e.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 41036stk01a, Brickowl 176099, Cockpit, Friends, helicopter
+0 !KEYWORDS Jungle bridge rescue, Rebrickable 17768, Set 41036
+
+0 !HISTORY 2026-04-17 [Sirio] Adapted top face; moved some primitives to subpart
+
+0 // Sticker back
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback009x018.dat
+0 // Subparts
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6075648es01.dat
+1 27 0 -.25 0 1 0 0 0 1 0 0 0 -1 s\6075648es01.dat
+0 // Primitives
+1 30 -13.5 -0.25 3.5 2.5 0 0 0 1 0 0 0 2.5 4-4ndis.dat
+1 30 -13.5 -0.25 -3.5 2.5 0 0 0 1 0 0 0 2.5 4-4ndis.dat
+1 27 -13.5 -0.25 3.5 2 0 0 0 1 0 0 0 2 4-4disc.dat
+1 15 -13.5 -0.25 3.5 0.5 0 0 0 1 0 0 0 0.5 4-4ring4.dat
+1 26 -13.5 -0.25 -3.5 2 0 0 0 1 0 0 0 2 4-4disc.dat
+1 15 -13.5 -0.25 -3.5 0.5 0 0 0 1 0 0 0 0.5 4-4ring4.dat
+1 26 2.6 -0.25 0 0.8 0 0 0 1 0 0 0 0.8 4-4disc.dat
+1 15 2.6 -0.25 0 0.8 0 0 0 1 0 0 0 0.8 4-4ndis.dat
+0 // Top face
+4 30 -18 -.25 -7.7732 -16 -.25 -1 -16 -.25 1 -18 -.25 7.7732
+4 30 -13.5 -.25 1 -16 -.25 1 -16 -.25 -1 -13.5 -.25 -1
+4 30 -13.5 -.25 1 -13.5 -.25 -1 -11 -.25 -1 -11 -.25 1
+4 30 -9.7 -.25 .4 -11 -.25 1 -11 -.25 -1 -9.7 -.25 -.4
+4 26 -6.9 -.25 6.2 -7.7 -.25 .4 -7.7 -.25 -.4 -6.9 -.25 -6.2
+4 30 -5.2 -.25 -2.6 -5.2 -.25 2.6 -6.9 -.25 6.2 -6.9 -.25 -6.2
+3 15 -4.2 -.25 0 -5.2 -.25 2.6 -5.2 -.25 -2.6
+3 15 10.4 -.25 2.6 9.4 -.25 0 10.4 -.25 -2.6
+4 30 11.5 -.25 -1.2 11.5 -.25 1.2 10.4 -.25 2.6 10.4 -.25 -2.6
+4 15 12.2 -.25 -.4 12.2 -.25 .4 11.5 -.25 1.2 11.5 -.25 -1.2
+4 15 15.8 -.25 1.2 14.9 -.25 .4 14.9 -.25 -.4 15.8 -.25 -1.2
+4 30 18 -.25 -7.7732 18 -.25 7.7732 15.8 -.25 1.2 15.8 -.25 -1.2

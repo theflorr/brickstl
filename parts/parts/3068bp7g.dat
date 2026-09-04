@@ -1,0 +1,38 @@
+0 Tile  2 x  2 with Green Monitor Screen, Dark Bluish Grey Switch Button and Window Pattern
+0 Name: 3068bp7g.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS BrickLink 3068pb0381, City, Rebrickable 3068bpr9407, set 31079
+0 !KEYWORDS Set 60050, Set 60052, set 60077, set 60244, Set 70170, set 70357
+0 !KEYWORDS Set 79115
+
+0 // Modified from 3068bp7e.dat by Vincent Messenet [Cheenzo]
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+0 // Pattern Sub-Files
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp72s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp72s02.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp72s03.dat
+
+0 // Power Button
+1 72 13.7 0 -16.5 1 0 0 0 1 0 0 0 1 4-4disc.dat
+1 16 13.7 0 -16.5 1 0 0 0 1 0 0 0 1 4-4ndis.dat
+3 16 12.7 0 -16.5 12.02 0 -16.4 12.11 0 -17.44
+3 16 12.32 0 -15.28 12.11 0 -15.46 12.7 0 -15.5
+4 16 12.7 0 -16.5 12.11 0 -17.44 12.3 0 -17.63 12.7 0 -17.5
+4 16 12.11 0 -15.46 12.02 0 -16.4 12.7 0 -16.5 12.7 0 -15.5
+4 16 12.94 0 -17.71 13.7 0 -17.5 12.7 0 -17.5 12.3 0 -17.63
+4 16 12.94 0 -17.71 14.48 0 -17.71 14.7 0 -17.5 13.7 0 -17.5
+4 16 15.12 0 -17.63 15.31 0 -17.44 14.7 0 -17.5 14.48 0 -17.71
+4 16 15.4 0 -16.4 14.7 0 -16.5 14.7 0 -17.5 15.31 0 -17.44
+4 16 15.31 0 -15.46 14.7 0 -15.5 14.7 0 -16.5 15.4 0 -16.4
+4 16 15.1 0 -15.28 14.48 0 -15.14 14.7 0 -15.5 15.31 0 -15.46
+4 16 14.7 0 -15.5 14.48 0 -15.14 12.94 0 -15.14 13.7 0 -15.5
+4 16 12.94 0 -15.14 12.32 0 -15.28 12.7 0 -15.5 13.7 0 -15.5

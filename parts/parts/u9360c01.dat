@@ -1,0 +1,19 @@
+0 ~Electric Bluetooth Motor Body Assembly
+0 Name: u9360c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9360.dat
+1 16 0 72 0 1 0 0 0 1 0 0 0 1 u9359.dat
+1 16 0 34 -60 1 0 0 0 1 0 0 0 1 u9358.dat
+1 16 -30 62 -50 -1 0 0 0 -1 0 0 0 1 u9475.dat
+1 16 30 62 -50 -1 0 0 0 -1 0 0 0 1 u9475.dat
+1 16 0 72 57.8 -1 0 0 0 1 0 0 0 -1 u9361.dat
+1 16 0 56.3 56.3 -1 0 0 0 1 0 0 0 -1 u9590.dat
+1 16 0 39.9 51.8 0 0 1 -1 0 0 0 -1 0 7275.dat
+1 16 0 39.9 51.8 0 0 1 -1 0 0 0 -1 0 u9362.dat

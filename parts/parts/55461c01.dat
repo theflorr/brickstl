@@ -1,0 +1,36 @@
+0 ~Train Base  6 x 30 with IR Receiver - Battery Holder Assembly without Batteries
+0 Name: 55461c01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Put Batteries as follows:
+0 !HELP 1 16 3.5 -40 0 1 0 0 0 1 0 0 0 1 u9284.dat
+0 !HELP 1 16 -3.5 -7 18.5 -1 0 0 0 1 0 0 0 -1 u9284.dat
+0 !HELP 1 16 -3.5 -7 -18.5 -1 0 0 0 1 0 0 0 -1 u9284.dat
+0 !HELP 1 16 3.5 25 37 1 0 0 0 1 0 0 0 1 u9284.dat
+0 !HELP 1 16 -3.5 25 0 -1 0 0 0 1 0 0 0 -1 u9284.dat
+0 !HELP 1 16 3.5 25 -37 1 0 0 0 1 0 0 0 1 u9284.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 55461.dat
+1 16 69 45 0 0 0 1 0 1 0 -1 0 0 55463.dat
+1 16 -69 45 0 0 0 -1 0 1 0 1 0 0 55462.dat
+
+1 494 -66 -7 18.5 0 -1 0 -.86603 0 .5 -.5 0 -.86603 u9571.dat
+1 494 -66 25 0 0 -1 0 0 0 -1 1 0 0 u9571.dat
+1 494 66 25 37 0 1 0 0 0 -1 1 0 0 u9571.dat
+1 494 66 25 -37 0 1 0 .86603 0 -.5 -.5 0 -.86603 u9571.dat
+1 494 66 -39 0 0 1 0 -.86603 0 .5 -.5 0 -.86603 u9571.dat
+1 494 -66 -39 0 0 -1 0 -1 0 0 0 0 -1 u9573.dat
+1 494 -66 -7 -18.5 0 -1 0 1 0 0 0 0 1 u9572.dat
+
+1 494 71 14 19 0 -1 0 -1 0 0 0 0 -1 u9549.dat
+1 494 71 14 -19 0 -1 0 -1 0 0 0 0 -1 u9549.dat
+1 494 71 -19 0 0 -1 0 -1 0 0 0 0 -1 u9549.dat
+1 494 -71 14 -19 0 1 0 -1 0 0 0 0 1 u9549.dat
+1 494 -71 14 19 0 1 0 -1 0 0 0 0 1 u9549.dat
+1 494 -71 -19 0 0 1 0 -1 0 0 0 0 1 u9549.dat

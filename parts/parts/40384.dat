@@ -1,0 +1,35 @@
+0 Animal Dinosaur Head  4 x  2 x  2
+0 Name: 40384.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP to place horn in back:
+0 !HELP 1 16 0 -14.019 23.582 -1 0 0 0 -.93969 .34202 0 .34202 .93969 40379.dat
+0 !HELP to place on stud in mouth:
+0 !HELP 1 16 0 -18.38 11.601 1 0 0 0 .34202 -.93969 0 .93969 .34202 6141.dat
+0 !HELP to place bar between jaws:
+0 !HELP 1 16 40 -16.128 .246 0 -1 0 .34202 0 .93969 .93969 0 -.34202 30374.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS 2001, Bricklink x158, Brickowl 774335, Dinosaurs, Studios
+
+0 // Main Halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40384s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\40384s01.dat
+
+0 // Neck Bar
+1 16 0 0 0 0 0 4 0 -1 0 -4 0 0 4-4ndis.dat
+1 16 0 0 0 0 0 4 0 7.5 0 -4 0 0 4-4cylo.dat
+1 16 0 7.5 0 0 0 4 0 -1 0 -4 0 0 4-4disc.dat
+
+0 // Back Hole and Stud
+1 16 0 -15.644 19.119 1 0 0 0 .34202 -.93969 0 .93969 .34202 stud2a.dat
+1 16 0 -15.644 19.119 0 0 6 5.63816 1 0 -2.05212 0 0 4-4ndis.dat
+1 16 0 -15.644 19.119 0 0 6 5.63816 1 0 -2.05212 0 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 -14.019 23.582 0 0 4 3.75877 -1.6246 0 -1.36808 -4.46354 0 4-4cyli.dat
+1 16 0 -14.019 23.582 0 0 4 3.75877 1 0 -1.36808 0 0 4-4edge.dat
+1 16 0 -14.019 23.582 0 0 4 3.75877 -1 0 -1.36808 0 0 4-4ndis.dat

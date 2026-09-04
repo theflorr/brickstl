@@ -1,0 +1,22 @@
+0 ~Electric Cable Triple 3LDU with One White Lead Segment
+0 Name: u9609.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+1 511 0 0 2.7717 0 0 1.5 0 1 0 1.5 0 0 7-16cyli.dat
+1 511 0 0 2.7717 0 0 -1.5 0 1 0 1.5 0 0 7-16cyli.dat
+1 16 0 0 0 1.5 0 0 0 1 0 0 0 1.5 3-16cyli.dat
+1 16 0 0 0 1.5 0 0 0 1 0 0 0 -1.5 3-16cyli.dat
+1 16 0 0 0 -1.5 0 0 0 1 0 0 0 1.5 3-16cyli.dat
+1 16 0 0 0 -1.5 0 0 0 1 0 0 0 -1.5 3-16cyli.dat
+1 16 0 0 -2.7717 0 0 1.5 0 1 0 -1.5 0 0 7-16cyli.dat
+1 16 0 0 -2.7717 0 0 -1.5 0 1 0 -1.5 0 0 7-16cyli.dat
+2 24 .57405 0 1.38585 .57405 1 1.38585
+2 24 -.57405 0 1.38585 -.57405 1 1.38585
+2 24 .57405 0 -1.38585 .57405 1 -1.38585
+2 24 -.57405 0 -1.38585 -.57405 1 -1.38585

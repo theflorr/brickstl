@@ -1,0 +1,30 @@
+0 ~Technic Steering Wheel Bearing with 2 Pegholes and 2 Axleholes Arms Half with Slots
+0 Name: s\23801s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+0 !HISTORY 2023-10-06 [jb70] Subfiled to s\23801s02.dat
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\23801s02.dat
+1 16 40 20 0 0 -1 0 0 0 1 1 0 0 bush0.dat
+1 16 40 13.5 0 -1 0 0 0 0.5 0 0 0 1 4-4con7.dat
+1 16 40 13 0 -1 0 0 0 0.5 0 0 0 1 4-4con8.dat
+1 16 40 26.5 0 -1 0 0 0 -0.5 0 0 0 -1 4-4con7.dat
+1 16 40 27 0 -1 0 0 0 -0.5 0 0 0 -1 4-4con8.dat
+1 16 40 14 0 -7 0 0 0 1 0 0 0 7 4-4edge.dat
+1 16 40 26 0 -7 0 0 0 -1 0 0 0 -7 4-4edge.dat
+1 16 40 27 0 -9 0 0 0 -1 0 0 0 -9 4-4edge.dat
+1 16 40 13 0 -9 0 0 0 1 0 0 0 -9 4-4edge.dat
+4 16 32.9998 26 -0.0001 31 27 0 31 13 0 32.9998 14 -0.0001
+4 16 31.5327 27 -2.6789 33.5327 26 -2.6789 33.5327 14 -2.6789 31.5327 13 -2.6789
+2 24 31 13 0 32.9998 14 -0.0001
+2 24 32.9998 14 -0.0001 32.9998 26 -0.0001
+2 24 32.9998 26 -0.0001 31 27 0
+2 24 31.5327 27 -2.6789 33.5327 26 -2.6789
+2 24 33.5327 26 -2.6789 33.5327 14 -2.6789
+2 24 31.5327 13 -2.6789 33.5327 14 -2.6789

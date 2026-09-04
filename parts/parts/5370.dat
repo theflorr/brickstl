@@ -1,0 +1,22 @@
+0 Duplo Train Track Straight with  2 x  8 Plates on Both Sides
+0 Name: 5370.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+0 // big sleeper
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6377s03.dat
+
+0 // Halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5370s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\5370s01.dat
+
+0 // top studs on plates
+1 16 140 0 0 0 0 1 0 2.75 0 1 0 0 stug7-1x8.dat
+1 16 180 0 0 0 0 1 0 2.75 0 1 0 0 stug7-1x8.dat
+1 16 -140 0 0 0 0 1 0 2.75 0 1 0 0 stug7-1x8.dat
+1 16 -180 0 0 0 0 1 0 2.75 0 1 0 0 stug7-1x8.dat

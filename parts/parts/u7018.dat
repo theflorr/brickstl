@@ -1,0 +1,15 @@
+0 Modulex Tile  1 x  1
+0 Name: u7018.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Modulex
+0 !KEYWORDS Bricklink Mx1011A, Peeron x710, Rebrickable 1011A
+
+0 !HISTORY 2024-01-15 [MagFors] Original design by Tore Eriksson as brk0101t
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u7018s01.dat
+4 16 6.25 0 6.25 -6.25 0 6.25 -6.25 0 -6.25 6.25 0 -6.25

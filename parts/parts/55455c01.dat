@@ -1,0 +1,31 @@
+0 Train Base  6 x 30 Assembly without Battery Holder and Battery Cover
+0 Name: 55455c01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+0 // IR Channel Selector
+0 // Channel 1: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9570.dat
+0 // Channel 2: 1 16 0 0 5 1 0 0 0 1 0 0 0 1 u9570.dat
+0 // Channel 3: 1 16 0 0 10 1 0 0 0 1 0 0 0 1 u9570.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9570.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 55455.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9542.dat
+
+1 16 0 16 0 1 0 0 0 1 0 0 0 1 55456.dat
+
+1 494 -86.5 -34 -28.5 1 0 0 0 -1 0 0 0 -1 u9288.dat
+1 494 -86.5 -34 28.5 1 0 0 0 -1 0 0 0 -1 u9288.dat
+1 494 86.5 -29 -28.5 1 0 0 0 -1 0 0 0 -1 u9288.dat
+1 494 86.5 -29 28.5 1 0 0 0 -1 0 0 0 -1 u9288.dat
+1 494 25 -49 0 1 0 0 0 -1 0 0 0 -1 u9288.dat
+1 494 -38 -49 0 1 0 0 0 -1 0 0 0 -1 u9288.dat
+1 494 0 10.5 -45 1 0 0 0 -1 0 0 0 -1 u9549.dat
+1 494 0 10.5 45 1 0 0 0 -1 0 0 0 -1 u9549.dat

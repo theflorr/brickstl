@@ -1,0 +1,15 @@
+0 Slope Brick 10  6 x  8 with U.S.S. Enterprise Name Plate and Blueprint Pattern
+0 Name: 4515p04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+0 !KEYWORDS Bricklink 4515pb086, Brickowl 273437, Brickset 114633
+0 !KEYWORDS Rebrickable 4515pr0009, Set 10356, Star Trek
+0 !KEYWORDS U.S.S. Enterprise NCC-1701-D
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4515s01.dat
+1 16 0 9.5 0 1 0 0 0 1 -0.158333 0 0 1 s\4515p04s01.dat

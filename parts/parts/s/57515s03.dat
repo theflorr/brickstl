@@ -1,0 +1,17 @@
+0 ~Technic Suspension Arm  2 x  6 - Cutout
+0 Name: s\57515s03.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+2 24 14 -6.36 -54 14 6.36 -54
+2 24 8 6.36 -64 8 -6.36 -64
+
+1 16 10 0 -70 0 -2 0 -1 0 0 0 0 -1 npeghol7a.dat
+1 16 20 0 -50 0 -6 0 1 0 0 0 0 1 npeghol7a.dat
+
+4 16 8 6.36 -64 8 -6.36 -64 8 -6.36 -70 8 6.36 -70
+4 16 14 6.36 -54 14 -6.36 -54 8 -6.36 -64 8 6.36 -64
+4 16 14 -6.36 -50 14 -6.36 -54 14 6.36 -54 14 6.36 -50

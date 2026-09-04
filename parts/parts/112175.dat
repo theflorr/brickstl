@@ -1,0 +1,12 @@
+0 Wheel 14 x 54 with 4 Spokes with Integral Tyre
+0 Name: 112175.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\112175s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\112175s03.dat

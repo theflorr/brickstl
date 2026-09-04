@@ -1,0 +1,14 @@
+0 Duplo Arm  3L with Locking Ring
+0 Name: 65082.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Crane
+
+0 !HISTORY 2025-08-26 [KnightOfTarenta] modified from 65082p01 by Philippe Hurbain [Philo]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65082s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65082s02.dat

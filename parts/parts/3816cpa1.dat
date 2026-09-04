@@ -1,0 +1,19 @@
+0 Minifig Leg Right with Medium Blue and Green Maxtlatl Pattern
+0 Name: 3816cpa1.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3816cpa1.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Leg
+0 !KEYWORDS Achu, Adventurers, Aztec, Bricklink 970c03pb02, BrickOwl 22571
+0 !KEYWORDS Jungle, Rebrickable 970c01pr0003, Set 5906, set 5976, set 5986
+
+0 // Base Part
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817cpa1.dat

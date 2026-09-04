@@ -1,0 +1,17 @@
+0 Minifig Hair Female Ponytail Long Straight with Gold Tie Pattern
+0 Name: 17347p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS BrickLink 17347pb01, CMF, Collectible Minifigures, Genie Girl
+0 !KEYWORDS Rebrickable 17347pr0002, Series 12, set 5004422, Set 71007
+0 !KEYWORDS TRU Exclusive, Warriors
+
+0 // Hair
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17347s01.dat
+0 // Tie
+1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\17347s02.dat

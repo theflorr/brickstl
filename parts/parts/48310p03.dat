@@ -1,0 +1,36 @@
+0 Cone  8 x  4 x  6 Half with White SW Millennium Falcon (2018) Pattern
+0 Name: 48310p03.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Cone
+0 !KEYWORDS Bricklink 47543pb08, BrickOwl 632373, Brickset 38215
+0 !KEYWORDS Corellian YT-1300 Light Freighter, Han Solo, Kessel Run
+0 !KEYWORDS Rebrickable 47543pr0004, Set 75212, Solo A Star Wars Story
+0 !KEYWORDS Star Wars
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48310s01.dat
+
+0 // Pattern
+0 // Transparent Areas
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s01.dat
+
+0 // Main Hull
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s02.dat
+
+0 // Details
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\48310p02s03.dat
+1 71 0 0 0 -1 0 0 0 1 0 0 0 1 s\48310p02s03.dat
+
+0 // Top Section
+0 BFC NOCLIP
+3 15 10.365 137 -78.741 20.555 137 -76.716 9.107 103.5 -69.184
+3 15 -10.365 137 -78.741 -9.107 103.5 -69.184 -20.555 137 -76.716
+4 15 9.107 103.5 -69.184 0 103.5 -69.784 0 137 -79.424 10.365 137 -78.741
+4 15 -9.107 103.5 -69.184 -10.365 137 -78.741 0 137 -79.424 0 103.5 -69.784

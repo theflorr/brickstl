@@ -1,0 +1,22 @@
+0 Minifig Ninja Turtle Shell with Dark Bluish Grey Horizontal and Diagonal Belts Pattern
+0 Name: 12610p02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS 2012, Event Exclusive, Leo, New York Comic Con 2012, Nickelodeon
+0 !KEYWORDS NYCC, promotional, Rebrickable 12610pr0002, Set comcon025-1
+0 !KEYWORDS Set Leonardo-1, Shadow Leonardo, Teenage Mutant Ninja Turtles, TMNT
+
+0 !PREVIEW 16 0 0 0 -1 0 0 0 1 0 0 0 -1
+
+0 // Shell
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12610s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12610s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12610s03.dat
+
+0 // Belt
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s\12610s02.dat

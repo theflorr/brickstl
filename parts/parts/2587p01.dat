@@ -1,0 +1,20 @@
+0 Minifig Armour Plate with Dark Red Ornaments Pattern
+0 Name: 2587p01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS Ankoria, Armor, Bricklink 2587pb05, Brickowl 935005, Brickset 49260
+0 !KEYWORDS Castle, Chess Bishop, Knights Kingdom II, Morcia
+0 !KEYWORDS Rebrickable 2587pr0008, Set 851499, Set 8777, Set 8779, Set 8781
+0 !KEYWORDS Set 8800, Shadow Knight, Vladek
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2587s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2587p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2587p01s01.dat

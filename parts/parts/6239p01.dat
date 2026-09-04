@@ -1,0 +1,19 @@
+0 Tail Shuttle  2 x  6 x  4 with Airline Bird on White Circle Pattern
+0 Name: 6239p01.dat
+0 Author: Johann Eisner [technicbasics]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 6239pb072, Design 38860, Rebrickable 6239pr0001
+0 !KEYWORDS Rudder 2X6X4 No.1, Set 10764
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6239s01.dat
+0 // left side
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6239p01s01.dat
+0 // right side
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6239p01s01.dat

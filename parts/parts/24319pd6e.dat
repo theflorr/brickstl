@@ -1,0 +1,15 @@
+0 Minifig Torso with Flipper Arms with White Orca Belly Pattern
+0 Name: 24319pd6e.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973pb2561c01, CMF, DC comics, Mini Upper Part No 3628
+0 !KEYWORDS Rebrickable 24319pr3628, series 1, set 71017, The Lego Batman Movie
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pd6e.dat
+1 16 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 24074.dat
+1 16 -15.552 9 0 -.985 -.17 0 -.17 .985 0 0 0 -1 24074.dat

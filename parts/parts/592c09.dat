@@ -1,0 +1,28 @@
+0 Electric Plugs (Type 1) Single with Hollow Pin with Cable End Extra Wide
+0 Name: 592c09.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP this cable end has the pins at 40 LDU apart
+0 !HELP place on 593c01.dat
+0 !HELP 1 16 0 0 0 1 0 0 0 1 0 0 0 1 593c01.dat
+0 !HELP 1 16 40 34 -103 0 1 0 1 0 0 0 0 -1 592c09.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 592c04.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 592c04.dat
+1 511 0 0 33 0 0 1 1 0 0 0 1 0 993.dat
+1 511 -5.6352 0 33 0 0 4.25 0 4.25 0 -4.25 0 0 t04q3529.dat
+1 511 -15.75 0 28.75 0 10.1148 0 1.5 0 0 0 0 -1.5 4-4cyli.dat
+1 511 -15.75 0 24.5 -4.25 0 0 0 -4.25 0 0 0 4.25 t04q3529.dat
+1 511 -20 0 24.5 0 0 1.5 1.5 0 0 0 -4 0 4-4cyli.dat
+2 24 0 0 32.4229 0 .5755 33
+2 24 0 0 32.4229 0 -.5755 33
+1 511 5.6352 0 33 0 0 -4.25 0 4.25 0 -4.25 0 0 t04q3529.dat
+1 511 15.75 0 28.75 0 -10.1148 0 1.5 0 0 0 0 -1.5 4-4cyli.dat
+1 511 15.75 0 24.5 4.25 0 0 0 -4.25 0 0 0 4.25 t04q3529.dat
+1 511 20 0 24.5 0 0 1.5 1.5 0 0 0 -4 0 4-4cyli.dat

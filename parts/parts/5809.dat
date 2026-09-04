@@ -1,0 +1,31 @@
+0 Tyre  11/ 14 x 11 Smooth
+0 Name: 5809.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tyre
+0 !KEYWORDS Brickowl 60876
+
+0 !HISTORY 2026-01-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-15 [Blechtaler] File preparation for LDraw Parts Tracker
+
+0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm) [optional qualifier]
+
+1 16 0 0 12 16 0 0 0 0 16 0 16 0 t01o1250.dat
+1 16 0 0 12 18 0 0 0 0 18 0 -24 0 4-4cyli.dat
+1 16 0 0 -12 16 0 0 0 0 16 0 -16 0 t01o1250.dat
+1 16 0 0 14 2 0 0 0 0 2 0 -1 0 4-4ring7.dat
+0 BFC INVERTNEXT
+1 16 0 0 3 14 0 0 0 0 14 0 11 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 0 3 2 0 0 0 0 2 0 -1 0 4-4con6.dat
+0 BFC INVERTNEXT
+1 16 0 0 2 12 0 0 0 0 12 0 -4 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 0 -3 2 0 0 0 0 2 0 1 0 4-4con6.dat
+0 BFC INVERTNEXT
+1 16 0 0 -3 14 0 0 0 0 14 0 -11 0 4-4cylo.dat
+1 16 0 0 -14 2 0 0 0 0 2 0 1 0 4-4ring7.dat

@@ -1,0 +1,19 @@
+0 Electric Powered Up Hub with  3 Integrated Motors and  6 Lights Case Assembly
+0 Name: u9586c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 // 1 47 -70 60 90 0 0 1 0 1 0 -1 0 0 hubbottom middle.dat
+
+1 16 0 0 160 -1 0 0 0 1 0 0 0 -1 u9586.dat
+1 16 0 0 -160 1 0 0 0 1 0 0 0 1 u9587.dat
+1 72 -80 0 50 -1 0 0 0 1 0 0 0 -1 u9588.dat
+1 72 80 0 50 1 0 0 0 1 0 0 0 1 u9589.dat
+1 0 -66 20 -40 0 0 1 0 1 0 -1 0 0 u9590.dat
+1 72 0 60 50 1 0 0 0 -1 0 0 0 -1 u9591.dat
+1 0 0 31 -28 1 0 0 0 -1 0 0 0 -1 u9592.dat

@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms, Right Hand and Left Limb Reduction
+0 Name: 109868.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP 1 37 25.0327 32.7176 -17.8913 .9903 .1199 -.0641 -.1298 .6939 -.7077 -.0404 .7098 .7033 5059.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973.dat
+
+1 16 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 3818.dat
+1 16 -23.6904 26.774 -9.8982 .985 -.1202 .1202 .17 .6964 -.6964 0 .707 .707 3820.dat
+
+1 16 15.552 9 0 .985 .1202 -.1202 -.17 .6965 -.6965 0 .7071 .7071 6828.dat

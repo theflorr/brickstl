@@ -1,0 +1,49 @@
+0 Electric Train 12V Transformer Type 1 (Complete)
+0 Name: 740ac01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP connect cables for the tracks (0-13V= via 511c01.dat)
+0 !HELP place electrical plugs for the tracks like u9607.dat
+0 !HELP 1 1 135 134.5 -80 0 0 1 1 0 0 0 1 0 u9607c01.dat
+0 !HELP connect cables for electric switches (16V~)
+0 !HELP place electrical plugs for the tracks like u9607.dat
+0 !HELP 1 1 135 134.5 -44 0 0 1 1 0 0 0 1 0 u9607c01.dat
+0 !HELP place electric switch 833.dat
+0 !HELP 1 1 120 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP place more electric switches 833.dat
+0 !HELP 1 1 80 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP 1 1 40 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP 1 1 0 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP 1 1 -40 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP 1 1 -80 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP 1 1 -120 -32 110 1 0 0 0 1 0 0 0 1 833.dat
+0 !HELP connect cables for lamps (3,6V~ for 4V= lamps 265ac01.dat)
+0 !HELP place electrical plugs for the tracks like u9607.dat
+0 !HELP 1 1 135 134.5 -8 0 0 1 1 0 0 0 1 0 u9607c01.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS BrickLink 740, Rebrickable 740
+
+0 // Bottom imprint (view from below)
+
+0 // ╔═╦════════════════════════════╦═╗
+0 // ║ ║ Siemens .................. ║ ║
+0 // ╠═╬════════════════════════════╬═╣
+0 // ║ ║ Transformator~ ....... 740 ║ ║
+0 // ║ ║ prim 220V ........ 50/60Hz ║ ║
+0 // ║ ║ secI 0-13V-.......... 11VA ║ ║
+0 // ║ ║ secII 16V~ .......... 16VA ║ ║
+0 // ║ ║ secIII 3,6V~ ......... 6VA ║ ║
+0 // ╠═╬════════════════════════════╬═╣
+0 // ║ ║ (lotsa electrical permits) ║ ║=== Cable
+0 // ╚═╩════════════════════════════╩═╝
+0 // electric contacts are on the left side
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9602.dat
+1 7 0 192 0 1 0 0 0 1 0 0 0 1 u9603.dat
+1 4 0 31.5359 -72.6218 1 0 0 0 .866 -.5 0 .5 .866 u9604.dat
+1 494 0 31.5359 -72.6218 20 0 0 0 3.4641 -10 0 2 17.3205 4-4cylo.dat

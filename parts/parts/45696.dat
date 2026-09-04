@@ -1,0 +1,15 @@
+0 Brick  5 x 12 with  1 x  2 Cutouts and  3 Pegholes on Side with Dual Pins
+0 Name: 45696.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS BrickLink 45403c01, Rebrickable 45403c01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 45403.dat
+
+1 16 -20 10 -60 0 0 1 0 1 0 -1 0 0 42865.dat
+1 16 20 10 -60 0 0 1 0 1 0 -1 0 0 42865.dat

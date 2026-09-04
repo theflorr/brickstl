@@ -1,0 +1,17 @@
+0 ~Electric Bluetooth Motor Drive Hub without Pointer Area
+0 Name: s\5319s00.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5319s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\5319s01.dat
+1 16 20 0 10 1 0 0 0 0 -1 0 1 0 connhol3.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\5319s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\5319s01.dat
+1 16 -20 0 10 -1 0 0 0 0 -1 0 1 0 connhol3.dat
+1 16 0 0 15.5 -29 0 0 0 0 29 0 -8.5 0 48\2-4cyli.dat
+1 16 0 0 15.5 -29 0 0 0 0 -29 0 -8.5 0 48\11-48cyli.dat
+1 16 0 0 15.5 29 0 0 0 0 -29 0 -8.5 0 48\11-48cyli.dat

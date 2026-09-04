@@ -1,0 +1,27 @@
+0 Figure Friends Legs with Short Skirt with Medium Brown Legs and Dark Blue Ballerina Shoes with White Sole Pattern
+0 Name: 1023000p05.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Aliya, Bricklink 35216ac00pb027, Rebrickable 2241c01pr0009
+0 !KEYWORDS Set 42655, Set 42669
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023000s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1023000s01.dat
+1 370 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657s02.dat
+1 370 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657s02.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 16 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+
+1 272 10 0 0 1 0 0 0 1 0 0 0 1 s\100937p01s01.dat
+1 15 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 370 10 0 0 1 0 0 0 1 0 0 0 1 s\1023000p05s01.dat
+
+1 272 -10 0 0 -1 0 0 0 1 0 0 0 1 s\100937p01s01.dat
+1 15 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 370 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023000p05s01.dat

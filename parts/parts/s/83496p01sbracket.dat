@@ -1,0 +1,16 @@
+0 ~Tile  4 x  8 Inverted with Gold 'Concorde' Details and Border, Black 'Model nr. 10318' and Background Pattern - Bracket
+0 Name: s\83496p01sbracket.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Letter
+4 16 2.236 0 -6.05 2.236 0 -5.44137 1.78 0 -4.55081 1.244 0 -4.93317
+4 16 .147 0 1.76781 0 0 0 .131 0 -1.64439 1.194 0 0
+4 16 1.194 0 0 1.454 0 3.22586 .589 0 3.4243 .147 0 1.76781
+4 16 .521 0 -3.30693 1.454 0 -3.32145 1.194 0 0 .131 0 -1.64439
+4 16 .521 0 -3.30693 1.244 0 -4.93317 1.78 0 -4.55081 1.454 0 -3.32145
+4 16 .589 0 3.4243 1.454 0 3.22586 2.236 0 5.45831 1.328 0 5.03118
+3 16 2.236 0 5.45831 2.258 0 6.05 1.328 0 5.03118

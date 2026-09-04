@@ -1,0 +1,19 @@
+0 Sticker  1.8 x  1.8 Round with Dark Red Surface
+0 Name: 6059341a.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 75039stk01, Brickowl 988140, Rebrickable 16418
+
+0 // 0 !KEYWORDS Bricklink 75039stk01, Brickowl 988140, Rebrickable 16418
+0 // 0 !KEYWORDS V-Wing Starfighter, Set 75039, Star Wars Episode 3
+
+0 // Sticker-Bottom
+1 16 0 0 0 18 0 0 0 -0.25 0 0 0 18 4-4cylc3.dat
+
+0 // Sticker-Front
+1 320 0 -.25 0 18 0 0 0 1 0 0 0 18 4-4disc.dat

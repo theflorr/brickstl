@@ -1,0 +1,17 @@
+0 Constraction Shell Neck Cover
+0 Name: 35897.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Constraction
+0 !KEYWORDS Brickowl 494430, CCBS, Darth Maul, Han Solo, Set 75535, Set 75537
+0 !KEYWORDS Star Wars, Ultrabuild
+
+0 !HISTORY 2024-12-10 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-12-11 [notmaster] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35897s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35897s01.dat

@@ -1,0 +1,16 @@
+0 Arrow with Solid Shaft and Trans Orange Liquid Shaped Tip
+0 Name: 70694p01.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Constraction Accessory
+0 !KEYWORDS BrickLink 70694pb01, Brickowl 1185026, Brickset 70694
+0 !KEYWORDS Colour Combination, Rebrickable 70694c01, Set 71411, Set 72042
+
+0 !HISTORY 2026-03-25 [MagFors] Corrected colouring
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70694s01.dat
+1 57 0 0 0 1 0 0 0 1 0 0 0 1 s\70694s02.dat

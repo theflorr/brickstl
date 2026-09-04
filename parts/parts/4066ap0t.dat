@@ -1,0 +1,18 @@
+0 Duplo Brick  1 x  2 x  2 with Red Telephone Pattern
+0 Name: 4066ap0t.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS bricklink 4066pb100, Brickowl 744656, Fire Station, police
+0 !KEYWORDS Rebrickable 4066pr0158, Set 2701, Train
+
+0 !HISTORY 2026-03-28 [Blechtaler] made from 4066bp0t by [RainbowDolphin]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066as01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp0ts01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp0ts02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp0ts03.dat

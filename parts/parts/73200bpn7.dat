@@ -1,0 +1,19 @@
+0 Minifig Hips and Legs with Light Bluish Grey Sandals Pattern
+0 Name: 73200bpn7.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpn7.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 970c00pb0708, Nya, Rebrickable 970c75pr9987, Set 70611
+0 !KEYWORDS Set 70617, Set 70618, The LEGO Ninjago Movie, Zori
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpn7.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpn7.dat

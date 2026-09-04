@@ -1,0 +1,20 @@
+0 Dish  4 x  4 Inverted with White "HOGWARTS EXPRESS" on Red Background with Metallic Gold Frame and White "5972" Pattern
+0 Name: 3960ph5.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS BrickLink 3960pb076, Harry Potter, Rebrickable 3960pr9973, Set 10132
+0 !KEYWORDS Set 4758
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960ph0s01.dat
+
+4 16 -3.84975 4 -29.2463 -4.5675 6 -34.699 0 6 -35 0 4 -29.5
+4 16 3.84975 4 -29.2463 0 4 -29.5 0 6 -35 4.5675 6 -34.699
+4 16 3.84975 4 -29.2463 4.5675 6 -34.699 9.058 6 -33.8065 7.6346 4 -28.49405

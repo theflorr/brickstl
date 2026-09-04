@@ -1,0 +1,12 @@
+0 =Technic Panel  5 x 13 Curved #51 Tapered Right
+0 Name: 3583.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS BrickLink 68196, Rebrickable 68196
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 68196.dat

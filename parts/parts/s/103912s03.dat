@@ -1,0 +1,13 @@
+0 ~Minifig Leg Right Mechanic Prosthetic - Lower Leg
+0 Name: s\103912s03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+3 16 -18.638 10 -5.75 -18.7819 14.222 -5.75 -15.406 14.222 -5.75
+4 16 -4.526 14.222 -5.75 -1.25 10 -5.75 -18.638 10 -5.75 -15.406 14.222 -5.75
+3 16 -1.25 14.222 -5.75 -1.25 10 -5.75 -4.526 14.222 -5.75
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\103912s04.dat

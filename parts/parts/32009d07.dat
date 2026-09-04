@@ -1,0 +1,18 @@
+0 Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double with Silver Ellipses on Black Background
+0 Name: 32009d07.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 32009pb035, Bugatti Chiron, Lego Technic, set 42083
+
+0 !PREVIEW 16 0 0 0 -1 0 0 0 1 0 0 0 -1
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32009.dat
+
+0 // Sticker
+1 16 13.59 0 -13.59 .70711 .70711 0 0 0 1 .70711 -.70711 0 6228775u.dat

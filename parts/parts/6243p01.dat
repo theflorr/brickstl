@@ -1,0 +1,22 @@
+0 Animal Dog Head  2 x  3 x  2.333 with Black Ears, Nose and Eyes Pattern
+0 Name: 6243p01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Basic 1998, Bricklink 6243px1, Bricks and More, Classic 1998
+0 !KEYWORDS Creator, dacta, Freestyle, Max and Tina, Rebrickable 6243pr0001
+0 !KEYWORDS Set 4116, Set 4133, Set 4134, Set 4142, Set 4143, Set 4145, Set 4146
+0 !KEYWORDS Set 4147, Set 4169, Set 4175, Set 4215, Set 4216, Set 9277, spot
+
+0 // Main Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6243s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6243s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6243s02.dat
+
+0 // Patternable Areas
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6243p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6243p01s01.dat

@@ -1,0 +1,19 @@
+0 Minifig Torso with Dual Mould Arms and Hands with  3 Yellow Clasps, Collar, Belt and "R" on Black Oval Pattern
+0 Name: 16360pxu.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973pb2625c01, DC comics, Dimensions
+0 !KEYWORDS Mini Upper Part No 3642, Rebrickable 973g06c02h06pr3642, Robin
+0 !KEYWORDS Set 70902, set 70905, Set 70912, set 70916, set 70917, set 71264
+0 !KEYWORDS The Lego Batman Movie
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pxu.dat
+1 10 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 16000p02.dat
+1 10 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 16001p02.dat
+1 10 -23.6904 26.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+1 10 23.6904 26.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat

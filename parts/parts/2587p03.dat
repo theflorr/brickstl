@@ -1,0 +1,20 @@
+0 Minifig Armour Plate with White Ornaments Pattern
+0 Name: 2587p03.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS Armor, Bricklink 2587pb02, Brickowl 650790, Brickset 49262, Castle
+0 !KEYWORDS Chess Bishop, Jayko, Knights Kingdom II, Morcia
+0 !KEYWORDS Rebrickable 2587pr0005, Set 851499, Set 8779, Set 8781, Set 8799
+0 !KEYWORDS Talonjay
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2587s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2587p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2587p03s01.dat

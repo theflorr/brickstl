@@ -1,0 +1,16 @@
+0 Slope Brick 31  1 x  1 x  0.667 with 12 White Dots on Black Background Sticker
+0 Name: 54200dyn.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 54200pb072, Ferrari F12 Berlinetta polybag, Set 40191
+
+0 // Sticker-Base
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 54200.dat
+
+0 // Sticker
+1 16 0 -9.8 -.3334 -1 0 0 0 .85749 .5145 0 .5145 -.85749 6083353b.dat

@@ -1,0 +1,28 @@
+0 Figure Friends Legs with Cargo Pants with Light Nougat Legs, Dark Blue Shoes with Sand Blue Laces and Soles Pattern
+0 Name: 1023035p0c.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Bricklink 35216bc00pb011, Rebrickable 2268c01pr0002, Set 42631
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s01.dat
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+
+1 272 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035p01s01.dat
+1 379 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 379 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035p01s02.dat
+1 379 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat
+
+1 272 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035p01s01.dat
+1 379 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 379 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035p01s02.dat
+1 379 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat

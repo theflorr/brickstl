@@ -1,0 +1,17 @@
+0 Sheet Plastic  1.7 x  3.6 Flag
+0 Name: 82545c.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Plastic
+0 !KEYWORDS Bricklink 10294pls01b, Brickowl 395492, Set 10294, Titanic
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\82545bs02.dat
+1 16 0 -.5 0 1 0 0 0 1 0 0 0 1 s\82545bs01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\82545bs01.dat
+4 16 61 -.5 -17 61 -.5 17 5 -.5 17 5 -.5 -17
+4 16 5 0 17 61 0 17 61 0 -17 5 0 -17
+1 16 -1 -.25 0 0 62 0 .25 0 0 0 0 17 box3u4a.dat

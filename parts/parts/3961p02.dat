@@ -1,0 +1,17 @@
+0 Dish  8 x  8 Inverted with Blue Ring with 11 Tapered Stripes Pattern
+0 Name: 3961p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS BrickLink 3961pb19, Brickowl 1451210, Brickset 114389
+0 !KEYWORDS Rebrickable 3961pr0017, Set 21360
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3961s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3961p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3961p02s01.dat

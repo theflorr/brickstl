@@ -1,0 +1,17 @@
+0 Technic Dome  4 x  4 x  2 with Pin Hole with Dark Pink / Dark Azure / Black Marking Soccer Ball Pattern
+0 Name: 8181p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Bricklink 8181pb01, Brickowl 1429480, Brickset 117418, football
+0 !KEYWORDS Rebrickable 8181pr0001, Set 43015, Set 43016, Set 66818
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\8181s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\8181p01s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\8181p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\8181p01s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\8181p01s01.dat

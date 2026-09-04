@@ -1,0 +1,44 @@
+0 Sticker  0.8 x  5.8 with Black Air Vent on Red Background (Needs Work)
+0 Name: 6253618n.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Needs work: halftone black and red simplified with dark red faces
+0 !HELP Needs work: halftone black and silver in the grille semplified with incomplete grille
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 75890stk01, Brickowl 828129, Competizione, F40, Ferrari
+0 !KEYWORDS Rebrickable 49141, Set 75890, Speed Champions
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x058.dat
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6253618ns01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6253618ns01.dat
+0 // Top face
+0 // Black faces
+3 0 0 -.25 6 -.9335 -.25 3.6565 .9335 -.25 3.6565
+4 0 -.5685 -.25 3.2915 .5685 -.25 3.2915 .9335 -.25 3.6565 -.9335 -.25 3.6565
+4 0 -.5685 -.25 3.2915 -.65 -.25 3.21 .65 -.25 3.21 .5685 -.25 3.2915
+4 0 -.1625 -.25 2.7225 .1625 -.25 2.7225 .65 -.25 3.21 -.65 -.25 3.21
+3 0 -.1625 -.25 2.7225 0 -.25 2.56 .1625 -.25 2.7225
+3 0 -.365 -.25 2.195 .365 -.25 2.195 0 -.25 2.56
+4 0 -.365 -.25 2.195 -.65 -.25 1.91 .65 -.25 1.91 .365 -.25 2.195
+4 0 -.285 -.25 1.545 .285 -.25 1.545 .65 -.25 1.91 -.65 -.25 1.91
+4 0 -.285 -.25 1.545 -.65 -.25 1.18 .65 -.25 1.18 .285 -.25 1.545
+4 0 -.325 -.25 .855 .325 -.25 .855 .65 -.25 1.18 -.65 -.25 1.18
+3 0 -.325 -.25 .855 0 -.25 .53 .325 -.25 .855
+4 0 0 -.25 -.2 -.65 -.25 -.85 0 -.25 -1.5 .65 -.25 -.85
+4 0 0 -.25 -2.23 -.65 -.25 -2.88 0 -.25 -3.53 .65 -.25 -2.88
+0 // Dark red face
+3 320 -.66 -.25 -3.6 0 -.25 -5 .66 -.25 -3.6
+0 // Red faces
+3 4 0 -.25 6 56.5 -.25 8 -56.5 -.25 8
+3 4 0 -.25 -5 -56.5 -.25 -8 56.5 -.25 -8
+0 // Silver faces
+4 80 0 -.25 -.2 .365 -.25 .165 0 -.25 .53 -.365 -.25 .165
+4 80 0 -.25 -2.23 .365 -.25 -1.865 0 -.25 -1.5 -.365 -.25 -1.865
+3 80 -.66 -.25 -3.6 .66 -.25 -3.6 0 -.25 -3.53

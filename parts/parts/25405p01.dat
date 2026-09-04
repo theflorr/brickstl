@@ -1,0 +1,17 @@
+0 Minifig Hair Female Wavy Ponytail with Long Bangs with Silver Band Pattern
+0 Name: 25405p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS BrickLink 25405pb01, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 25405pr0001, Set 70607, Set 70617, Set 70658, Set 71708
+0 !KEYWORDS Set 71741, Set 71745, Set 891837, The LEGO Ninjago Movie
+
+0 // Hair
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25405s01.dat
+0 // Hair band
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\25405s02.dat

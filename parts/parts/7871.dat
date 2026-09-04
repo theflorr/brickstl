@@ -1,0 +1,21 @@
+0 Brick Round  4 x  6 x  0.667 Oval
+0 Name: 7871.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Brickowl 671545
+
+0 !HISTORY 2026-01-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-01 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 -12 0 1 0 0 0 -3 0 0 0 1 stug4-1x3.dat
+4 16 -28 -12 8 28 -12 8 28 -12 -8 -28 -12 -8
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\7871s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7871s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7871s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\7871s04.dat
+5 24 -20 -16 0 20 -16 0 -20 -15.6524 -7.384 20 -15.6524 7.384

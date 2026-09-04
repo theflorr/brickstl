@@ -1,0 +1,20 @@
+0 Sticker  1.9 x  1.8 with Ferrari Logo and White 63 on Green Square and White Stripes on Red Background Right
+0 Name: 6221654n.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2017, 488, 63, BrickLink 75886stk01, Brickowl 731696
+0 !KEYWORDS Christina Nielsen, Corsa, Ferrari, GT3, IMSA, Rebrickable 37800
+0 !KEYWORDS Scuderia, Set 75886, Speed Champions
+
+1 16 0 0 -13.8789 -1 0 0 0 1 0 0 0 -1 s\6221654ns01.dat
+1 16 0 0 -13.8547 -1 0 0 0 1 0 0 0 -1 s\6221654ns02.dat
+1 16 0 0 .7172 -1 0 0 0 1 0 0 0 -1 s\6221654ns03.dat
+1 16 0 0 .7428 -1 0 0 0 1 0 0 0 -1 s\6221654ns04.dat
+1 16 0 0 14.6522 -1 0 0 0 1 0 0 0 -1 s\6221654ns05.dat
+1 16 0 0 14.681 -1 0 0 0 1 0 0 0 -1 s\6221654ns06.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\stickerback018x019.dat

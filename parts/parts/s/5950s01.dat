@@ -1,0 +1,16 @@
+0 ~Dish  8 x  8  Inverted No Studs with Hinge Locking with Two Dual Fingers - without Patternable Surfaces
+0 Name: s\5950s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 -90 0 0 1 0 1 0 -1 0 0 s\5950s02.dat
+1 16 0 0 -90 0 0 -1 0 1 0 -1 0 0 s\5950s02.dat
+1 16 0 0 -90 -1 0 0 0 1 0 0 0 -1 s\5950s02.dat
+1 16 0 0 -90 -1 0 0 0 1 0 0 0 1 s\5950s02.dat
+1 16 0 0 -90 1 0 0 0 1 0 0 0 -1 s\5950s02.dat
+1 16 0 0 -90 1 0 0 0 1 0 0 0 1 s\5950s02.dat
+1 16 0 0 -90 0 0 1 0 1 0 1 0 0 s\5950s03.dat
+1 16 0 0 -90 0 0 -1 0 1 0 1 0 0 s\5950s03.dat

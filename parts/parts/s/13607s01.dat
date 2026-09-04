@@ -1,0 +1,29 @@
+0 ~Duplo Long Tipper Bucket Bed with Lip - Half
+0 Name: s\13607s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // common
+4 16 80 -91 -240 80 -91 -4 74 -91 -4 74 -91 -234
+4 16 74 -19 16 74 -19 -234 74 -91 -234 74 -91 -4
+2 24 74 -91 -234 74 -91 -4
+2 24 80 -91 -240 80 -91 -4
+
+0 // end section
+1 16 0 -19 -160 1 0 0 0 1 0 0 0 1 s\14094s07.dat
+1 16 37 -85 -239 3 0 0 0 90 0 0 0 -1 box4-3p.dat
+0 BFC INVERTNEXT
+1 16 56.25 -40 -239 16.25 0 0 0 -45 0 0 0 1 box2-11.dat
+2 24 72.5 -85 -240 40 -85 -240
+3 16 34 -85 -240 40 -85 -240 37 -91 -240
+4 16 40 -85 -240 72.5 -85 -240 80 -91 -240 37 -91 -240
+
+0 // middle sections
+1 16 0 -19 -160 1 0 0 0 1 0 0 0 1 s\14094s03.dat
+1 16 0 -19 -80 1 0 0 0 1 0 0 0 1 s\14094s03.dat
+
+0 // lip section
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14094s02.dat

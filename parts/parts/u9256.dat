@@ -1,0 +1,21 @@
+0 ~Electric Switch: Remote Control for Train Point  2 x  7 Bottom
+0 Name: u9256.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2024-02-15 [Steffen] separated into ~parts
+0 !HISTORY 2026-07-01 [MagFors] closed mesh
+
+1 16 0 0 0 20 0 0 0 -8 0 0 0 70 box5.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 16 0 0 0 -4 0 0 0 66 box5.dat
+1 16 0 -4 0 0 0 1 0 -1 0 1 0 0 stug4-1x6.dat
+4 16 16 0 -66 16 0 66 20 0 70 20 0 -70
+4 16 20 0 70 16 0 66 -16 0 66 -20 0 70
+4 16 -20 0 70 -16 0 66 -16 0 -66 -20 0 -70
+4 16 -20 0 -70 -16 0 -66 16 0 -66 20 0 -70

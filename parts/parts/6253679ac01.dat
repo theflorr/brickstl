@@ -1,0 +1,22 @@
+0 Sticker  0.8 x  1.9 with Taillamp on Blue Background Right (Formed) (Needs Work)
+0 Name: 6253679ac01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Needs work: The dark blue areas (272) are actually an halftone of black (0) discs on blue (1) background
+0 !HELP Needs work: The dark red areas (320) are actually an halftone of black (0) discs on red (4) background
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2019, BrickLink 75891stk01, Brickowl 337420, Camaro, Chevrolet
+0 !KEYWORDS Nascar, race car, Rebrickable 49142, Set 75891, Speed Champions, ZL1
+
+1 16 0 -15.6524 12.616 1 0 0 0 .998894 -.047023 0 .047023 .998894 s\6253679as01.dat
+1 16 0 -15.6524 12.616 1 0 0 0 .989715 -.143056 0 .143056 .989715 s\6253679as02.dat
+1 16 0 -12.8827 -1.648 1 0 0 0 .971148 -.238478 0 .238478 .971148 s\6253679as03.dat
+1 16 0 -12.8827 -1.648 1 0 0 0 .941616 -.336689 0 .336689 .941616 s\6253679as04.dat
+1 16 0 -7.5316 -14.436 1 0 0 0 .900072 -.435742 0 .435742 .900072 s\6253679as05.dat
+1 16 0 -7.5316 -14.436 1 0 0 0 .844289 -.535889 0 .535889 .844289 s\6253679as06.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11477b01.dat

@@ -1,0 +1,17 @@
+0 Container  4 x  4 x  4 with 2 Click Hinges
+0 Name: 30639.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-01-04 [mikeheide] Code cleanup
+0 !HISTORY 2014-01-23 [cwdee] Used stud group
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2024-04-14 [MagFors] Reworked due to subfile for pattern, original by jriley
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30639s01.dat
+4 16 -40 96 40 -40 20 40 40 20 40 40 96 40
+4 16 40 20 -40 -40 20 -40 -40 96 -40 40 96 -40

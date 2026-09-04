@@ -1,0 +1,19 @@
+0 Boat Hull Floating 38 x 10 with Light Grey Decks with Light Grey Stripes, White "4021" and "POLICE" Sticker
+0 Name: 73741d02.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS boat, Bricklink bfloat3c01pb01, Police patrol, set 4021, ship
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 73741.dat
+0 // 1 16 107.3288 -92 -100 0 -.98842 .15175 0 -.15175 -.98842 1 0 0 163175a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163175ac01.dat
+0 // 1 16 -107.3288 -92 -100 0 .98842 -.15175 0 -.15175 -.98842 -1 0 0 163175b.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163175bc01.dat
+1 16 105.026 -77 240 0 -.98842 .15175 0 -.15175 -.98842 1 0 0 163175c.dat
+1 16 -105.026 -77 240 0 .98842 -.15175 0 -.15175 -.98842 -1 0 0 163175d.dat
+1 16 0 -80 395.4865 -1 0 0 0 -.15175 -.98842 0 -.98842 .15175 163175e.dat

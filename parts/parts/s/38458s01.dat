@@ -1,0 +1,16 @@
+0 ~Minifig Head with Exaggerated Chimpanzee Features - Head
+0 Name: s\38458s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-07 [notmaster] subparted removed edges added what needs work
+0 !HISTORY 2025-08-27 [GeraldLasser] Moved origin, removed needs work
+
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\38458s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\38458s05.dat
+1 16 0 0 0 20.2 0 0 0 1 0 0 0 20.2 2-4edge.dat
+5 24 0 0 -20.2 0 7.8785 -20.2 7.7305 5.4539 -18.6628 -7.7305 5.4539 -18.6628

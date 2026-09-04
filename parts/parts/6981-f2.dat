@@ -1,0 +1,14 @@
+0 Chain  2L with Bar Attachments Hanging from Side
+0 Name: 6981-f2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 6981, Rebrickable 6981
+
+1 16 0 0 0 0 0 -1 1 0 0 0 -1 0 6981k01.dat
+1 16 0 8.7 -11.8 0 0 -1 0 1 0 1 0 0 6981k02.dat
+1 16 0 29.2 -11.8 0 0 -1 0 -1 0 -1 0 0 6981k01.dat

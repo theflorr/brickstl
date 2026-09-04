@@ -1,0 +1,19 @@
+0 Sticker  0.8 x  3.0 with Headlamp on Blue Background Left (Formed)
+0 Name: 6253679tc01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2019, BrickLink 75891stk01, Brickowl 337420, Camaro, Chevrolet
+0 !KEYWORDS Nascar, race car, Rebrickable 49142, Set 75891, Speed Champions, ZL1
+
+1 16 0 .5872 18.9266 -1 0 0 0 .998597 -.052953 0 .052953 .998597 s\6253679ss01.dat
+1 16 0 .5872 18.9266 1 0 0 0 .98745 -.157931 0 .157931 .98745 s\6253679ts01.dat
+1 16 0 5.1963 -2.4735 -1 0 0 0 .96475 -.263169 0 .263169 .96475 s\6253679ss03.dat
+1 16 0 5.1963 -2.4735 -1 0 0 0 .929367 -.369158 0 .369158 .929367 s\6253679ss04.dat
+1 16 0 14.1072 -21.6589 1 0 0 0 .881021 -.473077 0 .473077 .881021 s\6253679ts02.dat
+1 16 0 14.1072 -21.6589 -1 0 0 0 .816739 -.577007 0 .577007 .816739 s\6253679ss06.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50950b01.dat

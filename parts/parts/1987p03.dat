@@ -1,0 +1,23 @@
+0 Minifig Hair Female Long Wavy, High Back Ponytail with Marbled Opal Trans Yellow Pattern
+0 Name: 1987p03.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 1987pb03, Brickowl 776941, Brickset 1987, Friends, Gigi
+0 !KEYWORDS Rebrickable 1987pat0003, Set 42649
+
+0 !HISTORY 2023-11-17 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-04 [LisaWinter] File preparation for LDraw Parts Tracker
+
+0 // Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1987s01.dat
+
+0 // Outside
+0 // Color 16
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1987p01s01.dat
+0 // Marbled
+1 376 0 0 0 1 0 0 0 1 0 0 0 1 s\1987p01s02.dat

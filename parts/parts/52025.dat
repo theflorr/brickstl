@@ -1,0 +1,38 @@
+0 Duplo Roof Spire - Castle
+0 Name: 52025.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS Castle
+
+0 // Tile grooves implemented only as lines. Anyone may edit subfile.
+
+0 // common top with stud
+1 16 0 0 9 20 0 0 0 1 0 0 0 11 rect3.dat
+4 16 -20 0 -2 -19.318 0 -6.6584 19.318 0 -6.6584 20 0 -2
+4 16 -19.318 0 -6.6584 -17.32 0 -11 17.32 0 -11 19.318 0 -6.6584
+4 16 -17.32 0 -11 -14.142 0 -14.7278 14.142 0 -14.7278 17.32 0 -11
+4 16 -14.142 0 -14.7278 -10 0 -17.588 10 0 -17.588 14.142 0 -14.7278
+4 16 -10 0 -17.588 -5.176 0 -19.3862 5.176 0 -19.3862 10 0 -17.588
+3 16 -5.176 0 -19.3862 0 0 -20 5.176 0 -19.3862
+1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stud7.dat
+
+0 // inside top
+1 16 0 4 9 17 0 0 0 -1 0 0 0 11 rect3.dat
+1 16 0 4 -2 17 0 0 0 -1 0 0 0 -14 2-4chrd.dat
+
+0 // halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\52025s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\52025s01.dat
+
+0 // surfaces shared between mirrored subparts
+4 16 -2 384 -104 2 384 -104 2 384 -136 -2 384 -136
+3 16 0 384 -140 -2 384 -136 2 384 -136
+4 16 2 384 -104 -2 384 -104 -40 384 -100 40 384 -100
+1 16 0 372 -100 40 0 0 0 0 12 0 -1 0 rect.dat
+4 16 20 0 20 17 4 20 -17 4 20 -20 0 20
+4 16 -40 360 -100 -15 360 -130 15 360 -130 40 360 -100

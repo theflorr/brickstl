@@ -1,0 +1,14 @@
+0 Brick  1 x  8 with White "POLICE" Sticker on Both Sides
+0 Name: 3008d0d.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 3008pb029, helicopter, Police station, Set 6386
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3008.dat
+1 16 0 12 -10 1 0 0 0 0 -1 0 1 0 190805a.dat
+1 16 0 12 10 -1 0 0 0 0 -1 0 -1 0 190805a.dat

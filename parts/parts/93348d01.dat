@@ -1,0 +1,16 @@
+0 Wedge  4 x  4 with Stud Notches and with Blacktron I Logo Sticker
+0 Name: 93348d01.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Blacktron Cruiser, Set 40580
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 93348.dat
+
+0 // Sticker
+1 16 0 10 -40 1 0 0 0 .949 -.316 0 .316 .949 6429457d.dat

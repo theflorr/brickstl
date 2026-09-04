@@ -1,0 +1,22 @@
+0 ~Train Base  6 x 30 with IR Receivers and Battery Compartment - IR Channel Selector
+0 Name: u9570.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+1 0 70 -63 -5 -2 0 0 0 -10 0 0 0 2 box5.dat
+0 BFC INVERTNEXT
+1 0 70 -66 -5 -2.2 0 0 0 -1 0 0 0 2.2 box4.dat
+4 0 64 -67 15 67.8 -67 -2.8 72.2 -67 -2.8 76 -67 15
+4 0 76 -67 -25 76 -67 15 72.2 -67 -2.8 72.2 -67 -7.2
+4 0 76 -67 -25 72.2 -67 -7.2 67.8 -67 -7.2 64 -67 -25
+4 0 64 -67 -25 67.8 -67 -7.2 67.8 -67 -2.8 64 -67 15
+4 0 72.1 -66 -2.9 67.9 -66 -2.9 64 -66 15 76 -66 15
+4 0 72.1 -66 -2.9 76 -66 15 76 -66 -25 72.1 -66 -7.1
+4 0 67.9 -66 -7.1 72.1 -66 -7.1 76 -66 -25 64 -66 -25
+4 0 67.9 -66 -2.9 67.9 -66 -7.1 64 -66 -25 64 -66 15
+1 0 70 -66 -5 -6 0 0 0 -1 0 0 0 20 box4.dat

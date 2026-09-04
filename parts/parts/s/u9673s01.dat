@@ -1,0 +1,21 @@
+0 ~Electric Plug USB-A - Plug
+0 Name: s\u9673s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // metal sleeve
+1 494 0 0 0 15 0 0 0 0 5.5 0 -31 0 box4.dat
+0 BFC INVERTNEXT
+1 494 0 -.5 -19.5 0 0 14 0 -4 0 11.5 0 0 box3u4a.dat
+4 494 -15 -5.5 -31 -14 -4.5 -31 14 -4.5 -31 15 -5.5 -31
+4 494 15 -5.5 -31 14 -.5 -31 14 4.5 -31 15 5.5 -31
+4 494 -15 5.5 -31 15 5.5 -31 14 4.5 -31 -14 4.5 -31
+4 494 -15 5.5 -31 -14 4.5 -31 -14 -.5 -31 -15 -5.5 -31
+3 494 -14 -4.5 -31 -15 -5.5 -31 -14 -.5 -31
+3 494 14 -4.5 -31 14 -.5 -31 15 -5.5 -31
+0 // white plastic insert
+1 16 0 2 -19.5 14 0 0 0 -2.5 0 0 0 -11.5 box2-5.dat
+4 16 14 -4.5 -8 -14 -4.5 -8 -14 -.5 -8 14 -.5 -8

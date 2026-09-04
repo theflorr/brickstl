@@ -1,0 +1,18 @@
+0 ~Technic Panel  9 x  1 x  3 Mudguard Arched with Straight Top - Patternable Surfaces - Half
+0 Name: s\6618s03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 9 53.2 0 0 -1 0 -82 0 0 0 0 82 48\1-8tndis.dat
+4 16 9 -31 51 9 -28.8 0 9 -28.8 57.9822 9 -31 60
+4 16 9 -28.8 57.9822 9 -29.275 69 9 -31 69 9 -31 60
+4 16 9 -28.8 57.9822 9 -4.7822 57.9822 9 0 62.1 9 0 69
+3 16 9 -28.8 0 9 -31 51 9 -40 51
+4 16 9 -29.275 69 9 -28.8 57.9822 9 0 69 9 0 72
+4 16 9 -29.275 69 9 0 72 9 -16.25 89 9 -29.275 79.375
+3 16 9 -16.25 89 9 0 72 9 -9 89
+3 16 9 -9 89 9 0 72 9 0 89
+4 16 9 -46.3639 53.6361 9 -46.3639 0 9 -28.8 0 9 -40 51

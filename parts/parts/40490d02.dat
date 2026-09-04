@@ -1,0 +1,16 @@
+0 Technic Beam  9 with Dark Blue Chiron Logo on Light Bluish Grey Background Sticker
+0 Name: 40490d02.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS 40490pb054, Bugatti, Lego Technic, set 42083
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 40490.dat
+
+0 // Sticker
+1 16 9 0 0 0 -1 0 0 0 -1 1 0 0 6228775t.dat

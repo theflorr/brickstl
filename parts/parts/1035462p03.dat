@@ -1,0 +1,28 @@
+0 Figure Friends Legs with Mid-Length Shorts with Reddish Brown Legs and Red Shoes with Light Bluish Grey Socks, Laces and Soles Pattern
+0 Name: 1035462p03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Bricklink 1826fc00pb002, Set 42652, Set 42680, Zac
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1035462s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1035462s01.dat
+1 16 0 0 -.5 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 70 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657s02.dat
+1 70 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657s02.dat
+1 4 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s01.dat
+1 71 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s03.dat
+1 71 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 71 10 0 0 1 0 0 0 1 0 0 0 1 s\1035462p03s01.dat
+1 70 10 0 0 1 0 0 0 1 0 0 0 1 s\1035462p03s02.dat
+1 4 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s01.dat
+1 71 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s03.dat
+1 71 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 71 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1035462p03s01.dat
+1 70 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1035462p03s02.dat
+1 70 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 70 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s03.dat

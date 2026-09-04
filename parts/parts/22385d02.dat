@@ -1,0 +1,17 @@
+0 Tile  3 x  2 with Angled End with Dark Red Semi-Circles on Light Bluish Grey Background Sticker
+0 Name: 22385d02.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 // 0 !KEYWORDS 22385pb196, Anakin's Jedi Interceptor, Set 75281, Star Wars Episode 3
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 22385.dat
+
+0 // Sticker
+1 16 0 0 3 0 0 1 0 1 0 -1 0 0 6310934a.dat

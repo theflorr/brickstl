@@ -1,0 +1,58 @@
+0 Tail  4 x  1 x  3 with Classic Space Logo Pattern
+0 Name: 2340p90.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 2340pb001, Brickowl 739120, Rebrickable 2340pr0001
+0 !KEYWORDS Set 6883
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant (2005-11-04)
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2013-08-10 [Steffen] replaced gold color by 82
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+0 !HISTORY 2026-03-30 [jb70] Using Logo Primitives
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2340s01.dat
+1 16 -2 32.7 -17 0 1 0 0 0 -.31 -.31 0 0 logo-classic-space-box.dat
+1 4 -2 32.7 -17 0 1 0 0 0 -.31 -.31 0 0 logo-classic-space-spaceship.dat
+1 15 -2 32.7 -17 0 1 0 0 0 -.31 -.31 0 0 logo-classic-space-border.dat
+1 16 2 32.7 -17 0 -1 0 0 0 -.31 .31 0 0 logo-classic-space-box.dat
+1 4 2 32.7 -17 0 -1 0 0 0 -.31 .31 0 0 logo-classic-space-spaceship.dat
+1 15 2 32.7 -17 0 -1 0 0 0 -.31 .31 0 0 logo-classic-space-border.dat
+1 82 -2 32.7 -17 0 1 0 0 0 -.31 -.31 0 0 logo-classic-space-planet.dat
+1 82 2 32.7 -17 0 -1 0 0 0 -.31 .31 0 0 logo-classic-space-planet.dat
+4 16 -2 4 -20 -2 4 20 -2 23.865 .205 -2 23.865 -27.106
+3 16 -2 4 -20 -2 23.865 -27.106 -2 23.865 -27.633
+3 16 -2 4 -20 -2 23.865 -27.633 -2 23.865 -34.205
+3 16 -2 4 -20 -2 23.865 -34.205 -2 64 -80
+3 16 -2 64 -80 -2 23.865 -34.205 -2 26.0071 -34.205
+3 16 -2 64 -80 -2 26.0071 -34.205 -2 41.535 -34.205
+4 16 -2 64 -80 -2 41.535 -34.205 -2 41.535 -21.805 -2 64 0
+3 16 -2 41.535 -21.805 -2 41.535 -13.28 -2 64 0
+3 16 -2 64 0 -2 41.535 -13.28 -2 41.535 -4.755
+3 16 -2 64 0 -2 41.535 -4.755 -2 41.535 .205
+3 16 -2 64 0 -2 41.535 .205 -2 4 20
+3 16 -2 4 20 -2 41.535 .205 -2 37.536 .205
+3 16 -2 4 20 -2 37.536 .205 -2 23.865 .205
+4 16 2 23.865 -6.894 2 4 20 2 4 -20 2 23.865 -34.205
+3 16 2 4 20 2 23.865 -6.894 2 23.865 -6.367
+3 16 2 4 20 2 23.865 -6.367 2 23.865 .205
+3 16 2 4 20 2 23.865 .205 2 26.0071 .205
+3 16 2 4 20 2 26.0071 .205 2 41.535 .205
+3 16 2 4 20 2 41.535 .205 2 64 0
+3 16 2 64 0 2 41.535 .205 2 41.535 -12.195
+3 16 2 64 0 2 41.535 -12.195 2 41.535 -20.72
+4 16 2 64 0 2 41.535 -20.72 2 41.535 -29.245 2 64 -80
+3 16 2 41.535 -29.245 2 41.535 -34.205 2 64 -80
+3 16 2 41.535 -34.205 2 37.536 -34.205 2 64 -80
+3 16 2 64 -80 2 37.536 -34.205 2 23.865 -34.205
+3 16 2 64 -80 2 23.865 -34.205 2 4 -20

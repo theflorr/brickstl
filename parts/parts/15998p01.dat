@@ -1,0 +1,17 @@
+0 Minifig Baby Body with Bodysuit with Arms and Yellow Hands Pattern
+0 Name: 15998p01.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 15526c01, Maggie Simpson, Rebrickable 15526c01, Set 71005
+0 !KEYWORDS Set 71006, Set 71009, The Simpsons
+
+1 14 -19.6681 26.53527 -9.8839 .998064 -.043844 .044104 .062189 .705746 -.70573 -.000184 .707107 .707107 3820.dat
+1 16 -13.5 8 0 .998053 -.062372 0 .062372 .998053 0 0 0 1 3818.dat
+1 16 13.5 8 0 .998053 .062372 0 -.062372 .998053 0 0 0 1 3819.dat
+1 14 19.6681 26.53527 -9.8839 .998064 .043844 -.044104 -.062189 .705746 -.70573 .000184 .707107 .707107 3820.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 15526.dat

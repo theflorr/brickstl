@@ -1,0 +1,28 @@
+0 ~Electric Light & Sound Brick  4 x 12 x  2 Laser Drill - Body without Battery Cover
+0 Name: 30346bc01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 // Plastic Parts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30346b.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 30406b.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30347.dat
+
+0 // Electronics
+0 // ToDo
+
+0 // Screws
+0 // Todo
+
+0 // TEMP LED Dummy
+1 47 0 10 -110 4.125 0 0 0 0 4.125 0 -1 0 4-4disc.dat
+1 47 0 10 -110 4.125 0 0 0 0 4.125 0 -1.25 0 4-4cylo.dat
+1 47 0 10 -111.25 .375 0 0 0 0 .375 0 1 0 4-4ring10.dat
+1 47 0 10 -111.25 3.75 0 0 0 0 3.75 0 -7.5 0 4-4cyli.dat
+1 47 0 10 -111.25 3.75 0 0 0 0 3.75 0 1 0 4-4edge.dat
+1 47 0 10 -118.75 3.75 0 0 0 0 3.75 0 -3.75 0 4-8sphe.dat

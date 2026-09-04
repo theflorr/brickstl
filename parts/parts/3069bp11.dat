@@ -1,0 +1,25 @@
+0 Tile  1 x  2 with White "TAXI" Pattern
+0 Name: 3069bp11.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3069pb0012, Rebrickable 3069bpr0034, set 608-2
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2020-12-08 [RainbowDolphin] Subfiled for common pattern, removed T-junctions and overlappings
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+0 // TAXI pattern from 3002p11.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 0 14 1 0 0 0 0 1 0 -1 0 s\3002p11s01.dat
+4 16 17 0 6.5 20 0 10 -20 0 10 -18 0 6.5
+4 16 17 0 -3.5 20 0 -10 20 0 10 17 0 6.5
+4 16 -18 0 -3.5 -20 0 -10 20 0 -10 17 0 -3.5
+4 16 -18 0 6.5 -20 0 10 -20 0 -10 -18 0 -3.5

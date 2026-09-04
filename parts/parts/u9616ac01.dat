@@ -1,0 +1,21 @@
+0 ~Electric Train 4.5V Microphone  4 x  4 x  2 with Horizontal Sockets
+0 Name: u9616ac01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place 592c05.dat
+0 !HELP 1 1 0 24 -40 1 0 0 0 1 0 0 0 -1 592c05.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink x869a, Peeron x869a, Rebrickable upn0311, Set 118-1
+0 !KEYWORDS Set 139-2
+
+0 !CMDLINE -c15
+
+0 !HISTORY 2024-12-02 [Blechtaler] subfiled the bottom
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9616a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9617.dat

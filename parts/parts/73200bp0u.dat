@@ -1,0 +1,19 @@
+0 Minifig Hips and Legs with Dark Purple Jacket Tails with Pockets and Metallic Pink Trim Pattern
+0 Name: 73200bp0u.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bp30.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 970c00pb1847, Brickowl 1550430, Brickset 114385
+0 !KEYWORDS Rebrickable 970c26pr0009, Set 21360, Willy Wonka
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bp0u.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cp0u.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cp0u.dat

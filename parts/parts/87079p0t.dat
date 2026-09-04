@@ -1,0 +1,23 @@
+0 Tile  2 x  4 with Black Small Triangle Pattern
+0 Name: 87079p0t.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS animal, Bricklink 87079pb1720, Brickowl 1561154, Brickset 115947
+0 !KEYWORDS Eevee, Kanto, Nintendo, Nose, Pocket Monsters, Pokémon
+0 !KEYWORDS Rebrickable 87079pr0070, Set 72151
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079p0ts01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\87079p0ts01.dat
+
+0 // Colour 16 Main Colour
+3 16 -34.4 0 0 -40 0 20 -40 0 -20
+3 16 40 0 20 -30 0 0 40 0 -20

@@ -1,0 +1,14 @@
+0 ~Minifig Robe Cloth 13L Tall Surface Patternable Area
+0 Name: s\106700s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 16 0 0 -6.2 0 0 -275.8 21.5 0 -217.1 22.3 0 -193
+4 16 11.8 0 -9.4 0 0 -6.2 22.3 0 -193 19.3 0 -42.1
+4 16 27.9 0 -275.8 25.8 0 -259.4 23.8 0 -247.3 0 0 -275.8
+3 16 23.8 0 -247.3 22.4 0 -235.2 0 0 -275.8
+3 16 22.4 0 -235.2 21.6 0 -223.1 0 0 -275.8
+3 16 21.6 0 -223.1 21.5 0 -217.1 0 0 -275.8

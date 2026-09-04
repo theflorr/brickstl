@@ -1,0 +1,16 @@
+0 Animal Tail Section Middle with Pin with Rectangular Centre Hole
+0 Name: 51274.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP To assemble the end section: rotate about x-axis 45 degree and goto (0/-36/120)
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS BrickLink 40378, Dinosaur, Neck
+
+1 16 0 0 0 1 0 0 0 0 -1 0 1 0 connect10.dat
+1 16 0 0 -2 6 0 0 0 0 -6 0 2 0 4-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40378s01.dat

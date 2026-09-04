@@ -1,0 +1,19 @@
+0 Minifig Hips and Legs with SW Snowtrooper Armour Pattern
+0 Name: 73200bps7.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bps7.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 970c00pb0958, Rebrickable 970c27pr1689, Set 75239
+0 !KEYWORDS Set 75241, Set 75268, Set 75288, Set 75313, Set 75320, Star Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bps7.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cps7.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cps7.dat

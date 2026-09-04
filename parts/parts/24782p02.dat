@@ -1,0 +1,16 @@
+0 Minifig Skirt Wavy with Metallic Silver Top and White Dots Pattern
+0 Name: 24782p02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Hipwear
+0 !KEYWORDS BrickLink 24782pb08, Minnie Mouse, Rebrickable 24782pr0003
+0 !KEYWORDS Set 21317, Steamboat Willie, Vintage
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24782s01.dat
+
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\24782p01s01.dat
+1 80 0 0 0 -1 0 0 0 1 0 0 0 1 s\24782p01s01.dat

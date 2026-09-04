@@ -1,0 +1,40 @@
+0 Sticker  1.8 x  1.8 with Black, Red and Grey Stripes and White "2" in Red Square on White Background Left
+0 Name: 6221657q.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 919, Brendon Hartley, BrickLink 75887stk01, Brickowl 726985
+0 !KEYWORDS Earl Bamber, Hybrid, LMP, Motorsport, Porsche, Rebrickable 37804
+0 !KEYWORDS Set 75887, Speed Champions, Team, Timo Bernhard
+
+0 // Subparts
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6221657ps01.dat
+1 15 -10.4 -.25 .5 .7 0 0 0 1 0 0 0 .7 s\6221657ps02.dat
+1 15 5.4 -.25 0 1 0 0 0 1 0 0 0 1 s\6221657ps03.dat
+0 // Logo primitives
+1 0 -1.8 -.25 11.5 .29 0 0 0 1 0 0 0 .29 logo-chopard-text.dat
+1 15 -1.8 -.25 11.5 .29 0 0 0 1 0 0 0 .29 logo-chopard-box.dat
+0 // Complementary top faces
+0 // Red square
+4 4 -3.2 -.25 4 5.4 -.25 .9 9 -.25 .9 14.8 -.25 4
+3 4 -3.2 -.25 4 1.8 -.25 .9 5.4 -.25 .9
+3 4 -3.2 -.25 4 1.8 -.25 -2.7 1.8 -.25 .9
+4 4 -3.2 -.25 4 1.2453 -.25 -9.2881 1.3803 -.25 -8.6895 1.8 -.25 -2.7
+3 4 -3.2 -.25 4 1.2 -.25 -9.9 1.2453 -.25 -9.2881
+3 4 -3.2 -.25 4 1.2 -.25 -11 1.2 -.25 -9.9
+3 4 -3.2 -.25 4 2.5 -.25 -18 1.2 -.25 -11
+4 4 14.8 -.25 -4 14.8 -.25 4 9 -.25 .9 9 -.25 -2.7
+4 4 14.8 -.25 -4 9 -.25 -2.7 8.9607 -.25 -3.2304 9 -.25 -8.8
+4 4 14.8 -.25 -4 9 -.25 -8.8 9 -.25 -11 14.8 -.25 -13
+4 4 2.5 -.25 -18 14.8 -.25 -13 9 -.25 -11 1.2 -.25 -11
+0 // White faces
+3 15 -16.5 -.25 18 -15.546 -.25 12.95 -13.893 -.25 12.95
+3 15 -16.5 -.25 18 -13.893 -.25 12.95 -6.005 -.25 12.95
+4 15 -16.5 -.25 18 -6.005 -.25 12.95 11.946 -.25 12.95 16.5 -.25 18
+3 15 -3.2 -.25 4 -13.893 -.25 10.05 -15.546 -.25 10.05
+3 15 -3.2 -.25 4 -6.005 -.25 10.05 -13.893 -.25 10.05
+3 15 -3.2 -.25 4 11.946 -.25 10.05 -6.005 -.25 10.05

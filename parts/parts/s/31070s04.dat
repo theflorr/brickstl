@@ -1,0 +1,15 @@
+0 ~Duplo Round Brick with Radiating Bars - Cylinder 2
+0 Name: s\31070s04.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 3 0 0 1 0 0 0 1 0 0 0 1 s\31070s05.dat
+1 16 45 12.3 0 0 -0.6 0 0 0 11.3 11.3 0 0 4-4cyli.dat
+
+1 16 44.4 12.3 0 0 -4 0 -11.3 0 0 0 0 11.3 1-4cyli.dat
+1 16 44.4 12.3 0 0 -4 0 -11.3 0 0 0 0 -11.3 1-16cyli.dat
+1 16 40.4 12.3 0 0 -15 0 11.3 0 0 0 0 11.3 1-16cyls2.dat
+1 16 40.4 12.3 0 0 -6.21334 0 0 0 -11.3 -11.3 0 0 3-16cyls2.dat

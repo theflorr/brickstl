@@ -1,0 +1,17 @@
+0 Minifig Torso with Arms and Hands with Chef Jacket with 8 Buttons without Wrinkles and Long Red Neckerchief Pattern
+0 Name: 76382pcj.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973pb3863c01, Rebrickable 973c27h01pr9999, Set 10312
+0 !KEYWORDS Set 10350, Set 60292, Set 71799
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pcj.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

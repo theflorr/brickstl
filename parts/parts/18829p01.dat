@@ -1,0 +1,17 @@
+0 Minifig Pith Helmet and Dark Orange Hair in Ponytail Pattern
+0 Name: 18829p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 18829pb01, CMF, Collectible Minifigures, Paleontologist
+0 !KEYWORDS Rebrickable 18829pat0001, Series 13, set 71008
+
+0 // Hair
+1 484 0 0 0 1 0 0 0 1 0 0 0 1 s\18829s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18829s04.dat
+0 // Hat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18829s02.dat

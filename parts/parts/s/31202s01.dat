@@ -1,0 +1,14 @@
+0 ~Duplo Brickrunner Car Base - without Side Surfaces
+0 Name: s\31202s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 40 0 0 0 1 0 0 0 80 recte4.dat
+4 16 -3.3 0 -23 3.3 0 -23 3.3 0 23 -3.3 0 23
+
+0 // halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31202s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\31202s02.dat

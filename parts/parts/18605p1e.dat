@@ -1,0 +1,20 @@
+0 ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Superman Logo Pattern
+0 Name: 18605p1e.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS DC comics, Dimensions, Set 71236, Super Heroes
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18605s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18605s02.dat
+
+0 BFC NOCLIP
+
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\18605s03.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\18605s04.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18605p1es01.dat

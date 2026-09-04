@@ -1,0 +1,23 @@
+0 Sticker  1.8 x  1.9 with Black Air Vent on Blue and White Background (Needs Work)
+0 Name: 6218812n.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Needs work: Some parts should be halftones with of black 0 discs above the backgrounds (blue 272, light blue 1 and white 15).
+0 !HELP For now I don't have enough information to create the matrix of dots.
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2, 2017, BrickLink 75885stk01, Brickowl 4802, Fiesta, Ford, M-Sport
+0 !KEYWORDS Martin Järveoja, Ott Tänak, Rebrickable 37575, Set 75885
+0 !KEYWORDS Speed Champions, WRC
+
+1 16 -13.8789 0 0 0 0 -1 0 1 0 1 0 0 s\6218812ns01.dat
+1 16 -13.8547 0 0 0 0 -1 0 1 0 1 0 0 s\6218812ns02.dat
+1 16 .7172 0 0 0 0 -1 0 1 0 1 0 0 s\6218812ns03.dat
+1 16 .7428 0 0 0 0 -1 0 1 0 1 0 0 s\6218812ns04.dat
+1 16 14.6522 0 0 0 0 -1 0 1 0 1 0 0 s\6218812ns05.dat
+1 16 14.681 0 0 0 0 -1 0 1 0 1 0 0 s\6218812ns06.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback018x019.dat

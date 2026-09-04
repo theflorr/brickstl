@@ -1,0 +1,18 @@
+0 Sticker  0.8 x  1.6 with Chevrolet Logos and Light Blue Quads on Black Background Right
+0 Name: 6253679p.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2019, BrickLink 75891stk01, Brickowl 337420, Camaro, Nascar
+0 !KEYWORDS race car, Rebrickable 49142, Set 75891, Speed Champions, ZL1
+
+1 16 -10.8789 0 0 0 0 -1 0 1 0 1 0 0 s\6253679ps01.dat
+1 16 -10.8547 0 0 0 0 -1 0 1 0 1 0 0 s\6253679ps02.dat
+1 16 3.7172 0 0 0 0 -1 0 1 0 1 0 0 s\6253679ps03.dat
+1 16 3.7428 0 0 0 0 -1 0 1 0 1 0 0 s\6253679ps04.dat
+1 16 10.8172 0 0 0 0 -1 0 1 0 1 0 0 s\6253679ps05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x016b.dat

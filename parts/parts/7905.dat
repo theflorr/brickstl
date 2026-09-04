@@ -1,0 +1,24 @@
+0 Plant Round 1 x 3 - 1 Leaf
+0 Name: 7905.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plant
+0 !KEYWORDS Brickowl 514071, leaf, Set 11215, Set 11501, Set 31377
+
+0 !HISTORY 2026-01-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-01 [Evilspyre] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 3 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 4 0 0 0 3 0 0 0 4 4-4cyli.dat
+1 16 0 3 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7905s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7905s01.dat

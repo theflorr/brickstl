@@ -1,0 +1,15 @@
+0 Minifig Balloon with Thin Bar on Handle
+0 Name: 35763.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 35703c01, Brickowl 540713
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 35703.dat
+
+1 16 0 0 -7 0 0 -1 0 1 0 1 0 0 35702.dat
+1 16 0 0 -7 0 0 -1 0 1 0 -1 0 0 35702.dat

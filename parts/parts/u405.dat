@@ -1,0 +1,19 @@
+0 Tail Plane with Integral Jet Engine
+0 Name: u405.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tail
+0 !KEYWORDS Airplane, Boeing 727, Bricklink bb0096, Jetliner
+0 !KEYWORDS Rebrickable upn0101, Trident, Tupolev 154
+
+0 !HISTORY 2025-08-27 [RainbowDolphin] File preparation for LDraw Parts Tracker, original model by Chris Böhnke [KnightOfTarenta]
+
+0 // Special thanks to Gerald Lasser [GeraldLasser], Rene Rechthaler [Blechtaler], Javier Orquera [kuramapika1], Jeff Jones[notmaster]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u405s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u405s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u405s03.dat

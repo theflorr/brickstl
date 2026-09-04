@@ -1,0 +1,24 @@
+0 ~Electric  4.5V Battery Box  7 x 11 x  3 Type 1 Base Support
+0 Name: s\561s03.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 52 0 0 -4 0 0 0 1 0 0 0 1.5 box3u5p.dat
+1 16 48 0 0 -1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 32 0 0 1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 30 0 0 2 0 0 0 1 0 0 0 1.5 box3u8p.dat
+1 16 28 0 0 -1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 12 0 0 1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 10 0 0 2 0 0 0 1 0 0 0 1.5 box3u8p.dat
+1 16 8 0 0 -1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 -8 0 0 1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 -10 0 0 2 0 0 0 1 0 0 0 1.5 box3u8p.dat
+1 16 -12 0 0 -1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 -28 0 0 1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 -30 0 0 2 0 0 0 1 0 0 0 1.5 box3u8p.dat
+1 16 -32 0 0 -1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 -48 0 0 1.5 0 0 0 1 0 0 0 1.5 boxjcyl4.dat
+1 16 -52 0 0 4 0 0 0 1 0 0 0 1.5 box3u5p.dat

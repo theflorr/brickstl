@@ -1,0 +1,21 @@
+0 Sticker  0.8 x  3 with Red/Green "Octan" with Black Border on Transparent Background (Formed)
+0 Name: 168155jc01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Airport, BrickLink 10159stk01, Brickowl 117840, Century skyway, City
+0 !KEYWORDS Rebrickable 168155, set 10159, set 6597, town
+
+0 !HISTORY 2025-02-04 [RainbowDolphin] Colour variant of 170876cc01 by Chris Böhnke [KnightOfTarenta]
+
+0 // Sticker Back
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6081b01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\170876cc01s02.dat
+0 BFC NOCLIP
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\170876cc01s01.dat

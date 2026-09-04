@@ -1,0 +1,17 @@
+0 Minifig Torso with Arms and Hands with Suit Jacket Open with Metallic Pink Trim and Shirt with Frills, White Collar and Dark Tan Bow Tie Pattern
+0 Name: 76382pcp.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973pb6380c01, BrickOwl 1380746, Brickset 76382
+0 !KEYWORDS Rebrickable 973c09h02pr0002, Set 21360, Willy Wonka
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pcp.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 78 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

@@ -1,0 +1,15 @@
+0 Sticker  3.8 x  5.4 with White Airline Bird and "LC-3178" Right on Yellow Background
+0 Name: 4569188a.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 3178stk01, Brickowl 313957, Rebrickable 88663, Seaplane
+0 !KEYWORDS Set 3178
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback038x054a.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\4569188as01.dat
+1 16 20.75 -.25 -33 1 0 0 0 1 0 0 0 1 s\4569188as02.dat

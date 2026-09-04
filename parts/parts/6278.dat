@@ -1,0 +1,17 @@
+0 Wheel 15 x 24 with Integral Hard-Plastic Smooth Tyre
+0 Name: 6278.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS Bricklink 6278pb01, Bricklink 6278pb03, Mario Kart
+0 !KEYWORDS Rebrickable 6278pat0001, Rebrickable 6278pat0002
+
+0 !HISTORY 2025-01-28 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-01-28 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6278s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6278s02.dat

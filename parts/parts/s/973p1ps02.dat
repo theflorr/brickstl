@@ -1,0 +1,21 @@
+0 ~Minifig Torso with Gold and Dark Red Trim and Laces Pattern - Ornament detail
+0 Name: s\973p1ps02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Dark red
+4 320 .766 1.381 0 .766 0 0 .516 .578 0 .516 .931 0
+4 320 -.516 .931 0 -.516 .578 0 -.766 0 0 -.766 1.381 0
+4 320 0 .712 0 -.175 .192 0 -.766 0 0 -.516 .578 0
+4 320 0 .712 0 .516 .578 0 .766 0 0 .174 .192 0
+4 320 0 1.064 0 -.516 .931 0 -.766 1.381 0 -.175 1.576 0
+3 320 0 1.064 0 -.175 1.576 0 .174 1.577 0
+4 320 .766 1.381 0 .516 .931 0 0 1.064 0 .174 1.577 0
+3 320 0 .712 0 .174 .192 0 -.175 .192 0
+
+0 // Black
+4 0 0 1.064 0 .516 .931 0 .516 .578 0 0 .712 0
+4 0 0 1.064 0 0 .712 0 -.516 .578 0 -.516 .931 0

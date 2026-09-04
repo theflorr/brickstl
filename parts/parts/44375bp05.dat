@@ -1,0 +1,20 @@
+0 Dish  6 x  6 Inverted with Solid Studs with Four Flowers and Large Magenta Mouth Pattern
+0 Name: 44375bp05.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS Bricklink 44375bpb13, Rebrickable 44375bpr9998, Set 41252, Trolls
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s03.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
+
+0 !TEXMAP START PLANAR -60 0 60 60 0 60 -60 0 -60 44375bp05.png
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s04.dat
+0 !TEXMAP FALLBACK
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s04.dat
+0 !TEXMAP END

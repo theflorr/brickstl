@@ -1,0 +1,38 @@
+0 Brick Curved  2 x  2 x  1.667 with Dark Red Mouth and Dark Pink Tongue Pattern
+0 Name: 7527p01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS animal, Bricklink 7527pb001, Brickowl 1420534, Brickset 115948
+0 !KEYWORDS Eevee, Kanto, Nintendo, Pocket Monsters, Pokémon
+0 !KEYWORDS Rebrickable 7527pr0001, Set 72151
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7527s01.dat
+1 16 -20 40 10 0 40 0 0 0 -40 -40 0 0 48\7-48cylo.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7527p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7527p01s01.dat
+
+0 // Colour 5 Dark Pink
+3 5 0 3.044 -5.308 -7.055 5.36 -10 7.055 5.36 -10
+3 5 7.055 5.36 -10 -7.055 5.36 -10 0 7.362 -13
+
+0 // Colour 16 Main Colour
+3 16 0 8.029 -14 -20 8.264 -14.352 20 8.264 -14.352
+
+0 // Colour 320 Dark Red
+3 320 12.722 1.364 -.352 -12.722 1.364 -.352 0 2.533 -3.8
+3 320 0 .344 4.78 -12.722 1.364 -.352 12.722 1.364 -.352
+
+0 // Conditional Lines
+5 24 20 8.264 -14.352 -20 8.264 -14.352 20 11.716 -18.284 20 5.36 -10
+5 24 20 5.36 -10 -20 5.36 -10 20 8.264 -14.352 20 3.044 -5.308
+5 24 20 3.044 -5.308 -20 3.044 -5.308 20 5.36 -10 20 1.364 -.352
+5 24 20 1.364 -.352 -20 1.364 -.352 20 3.044 -5.308 20 .344 4.78
+5 24 20 .344 4.78 -20 .344 4.78 20 1.364 -.352 20 0 10

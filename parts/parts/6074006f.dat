@@ -1,0 +1,25 @@
+0 Sticker  1.8 x  3.8 with Magenta Paisley Shooting Stars on Yellow Background
+0 Name: 6074006f.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 41034stk01, Brickowl 498549, Friends, Rebrickable 17583
+0 !KEYWORDS Seat, set 41034, Summer caravan
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback018x038.dat
+1 26 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6074006fs01.dat
+1 26 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\6074006fs01.dat
+1 14 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6074006fs02.dat
+1 14 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\6074006fs02.dat
+4 14 -36.5 -.25 18 -9.5 -.25 14.6 9.5 -.25 14.6 36.5 -.25 18
+4 14 -6.5 -.25 10 -36.5 -.25 -18 36.5 -.25 -18 6.5 -.25 10
+4 14 -9.5 -.25 14.6 -8.1 -.25 14.2 8.1 -.25 14.2 9.5 -.25 14.6
+4 14 7 -.25 13.5 8.1 -.25 14.2 -8.1 -.25 14.2 -7 -.25 13.5
+4 14 7 -.25 13.5 -7 -.25 13.5 -6.2 -.25 12.7 6.2 -.25 12.7
+4 14 5.8 -.25 11.9 6.2 -.25 12.7 -6.2 -.25 12.7 -5.8 -.25 11.9
+4 14 5.9 -.25 10.9 5.8 -.25 11.9 -5.8 -.25 11.9 -5.9 -.25 10.9
+4 14 6.5 -.25 10 5.9 -.25 10.9 -5.9 -.25 10.9 -6.5 -.25 10

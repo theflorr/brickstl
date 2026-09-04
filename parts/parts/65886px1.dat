@@ -1,0 +1,21 @@
+0 Tile  2 x  3 with Clips Horizontal (Thick C-Clips) with White Bowser Head Pattern
+0 Name: 65886px1.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 65886pr0001, Rebrickable 30350bpb111, Set 71387, Set 71403
+0 !KEYWORDS Set 71418, Set 71439, Set 71440, Set 71441, Super Mario
+
+0 !HISTORY 2025-06-15 [notmaster] pattern copied from 14769p0s.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65886s01.dat
+4 16 -20 0 -30 -17.1677 0 -3.6201 -17.1677 0 3.6201 -20 0 30
+4 16 -16.819 0 1.1671 -17.0852 0 2.3826 -17.0852 0 -2.3826 -16.819 0 -1.1671
+3 16 -16.819 0 1.1671 -16.819 0 -1.1671 -16.39 0 0
+4 16 -17.0852 0 2.3826 -17.1677 0 3.6201 -17.1677 0 -3.6201 -17.0852 0 -2.3826
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65886px1s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\65886px1s01.dat

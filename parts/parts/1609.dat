@@ -1,0 +1,21 @@
+0 Minifig Mask Snowman
+0 Name: 1609.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place the carrot relative to the head
+0 !HELP 1 25 0 10 -13 1 0 0 0 0 -1 0 1 0 1756.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Sphere
+
+0 !HISTORY 2024-02-09 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-02-09 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1609s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1609s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1609s03.dat

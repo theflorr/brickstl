@@ -1,0 +1,17 @@
+0 Bar with Drafting Machine
+0 Name: 66237.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP The arm moves ~ +/-15 degree
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Bar
+0 !KEYWORDS 3D Print, Inside Tour 2019, Set 4000034
+
+0 !HISTORY 2026-02-04 [MagFors] Created sub parts
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\66237s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\66237s02.dat

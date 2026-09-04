@@ -1,0 +1,17 @@
+0 Wheel Rim 41 x 75 with  7 Spokes and  3 Pins #1 (Left)
+0 Name: 7783.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS 75 x 41, Brickowl 332431, Koenigsegg, Sadairs Spear, Set 42232
+
+0 !HISTORY 2026-07-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-08-14 [jb70] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7783s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\73398s04.dat
+1 16 0 0 -8 1 0 0 0 0 -1 0 1 0 stud2.dat

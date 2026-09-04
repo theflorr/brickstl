@@ -1,0 +1,13 @@
+0 Ring 59 x 0.25
+0 Name: 1-4ring59.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 16 60 0 0 55.434 0 22.962 54.5101 0 22.5793 59 0 0
+4 16 55.434 0 22.962 42.426 0 42.426 41.7189 0 41.7189 54.5101 0 22.5793
+4 16 42.426 0 42.426 22.962 0 55.434 22.5793 0 54.5101 41.7189 0 41.7189
+4 16 22.962 0 55.434 0 0 60 0 0 59 22.5793 0 54.5101
+0 // Build by LDPartEditor (PrimGen 2.X)

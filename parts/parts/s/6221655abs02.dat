@@ -1,0 +1,16 @@
+0 ~Sticker  1.8 x  4.0 with Black Trapezoid on Lime Background Right - Third Face
+0 Name: s\6221655abs02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Faces
+0 // Black faces
+4 0 12.4684 -.25 20.8069 -18 -.25 20.8069 -18 -.25 -.0157 11.2511 -.25 -.0157
+4 0 14.9684 -.25 20.8069 13.4684 -.25 20.8069 12.2511 -.25 -.0157 13.7511 -.25 -.0157
+0 // Green face
+4 27 14.9684 -.25 20.8069 13.7511 -.25 -.0157 18 -.25 -.0157 18 -.25 20.8069
+0 // Grey face
+4 71 12.4684 -.25 20.8069 11.2511 -.25 -.0157 12.2511 -.25 -.0157 13.4684 -.25 20.8069

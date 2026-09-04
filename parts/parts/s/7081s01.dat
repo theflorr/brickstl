@@ -1,0 +1,22 @@
+0 ~Cone  8 x  8 x 12 Quarter with  6 x  6 Cutout without Patternable Surfaces
+0 Name: s\7081s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7081s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\7081s02.dat
+
+1 16 100 283 -100 1 0 0 0 -1.25 0 0 0 1 stud4.dat
+
+0 BFC INVERTNEXT
+1 16 0 280 0 77.4 0 0 0 -276 0 0 0 -77.4 48\1-4con1.dat
+
+1 16 70 0 -10 -1 0 0 0 1 0 0 0 -1 stud2.dat
+1 16 50 0 -50 -1 0 0 0 1 0 0 0 -1 stud2.dat
+1 16 10 0 -70 -1 0 0 0 1 0 0 0 -1 stud2.dat
+
+5 24 56.568 0 -56.568 113.136 283 -113.136 120.3014 283 -105.502 105.502 283 -120.3014
+5 24 84.8383 283 -84.8383 84.83 280 -84.83 79.1263 280 -90.2264 90.2264 280 -79.1263

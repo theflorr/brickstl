@@ -1,0 +1,17 @@
+0 ~Minifig Head Looney Tunes Bugs Bunny Nose Bridge Area
+0 Name: s\74505s08.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Main_Colour
+
+4 16 2.962 -23.886 -15.473 0 -23.909 -15.766 0 -20.303 -16.754 3.199 -20.059 -16.469
+4 16 0 -20.303 -16.754 0 -23.909 -15.766 -2.962 -23.886 -15.473 -3.199 -20.059 -16.469
+
+2 24 2.962 -23.886 -15.473 3.199 -20.059 -16.469
+2 24 -3.199 -20.059 -16.469 -2.962 -23.886 -15.473
+
+5 24 0 -23.909 -15.766 0 -20.303 -16.754 -2.962 -23.886 -15.473 2.962 -23.886 -15.473

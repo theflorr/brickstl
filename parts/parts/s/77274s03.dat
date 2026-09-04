@@ -1,0 +1,13 @@
+0 ~Duplo Track Ramp  6 x 12 x 3 - Single Grip Section
+0 Name: s\77274s03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+2 24 1 0 -1.16 1 0 0
+1 16 .5 -.7 -.58 0 0 .5 0 1 0 -.15 0 0 rect.dat
+1 16 .5 -.35 -.215 .5 0 0 0 1 .35 0 0 .215 rect3.dat
+1 16 .5 -.35 -.945 -.5 0 0 0 1 .35 0 0 -.215 rect3.dat
+4 16 1 -.7 -.43 1 -.7 -.73 1 0 -1.16 1 0 0

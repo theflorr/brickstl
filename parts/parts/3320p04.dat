@@ -1,0 +1,18 @@
+0 Minifig Headdress Batman with Tan Eyes
+0 Name: 3320p04.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 3320pb04, Brickowl 272198, Brickset 3320
+0 !KEYWORDS Colour Combination, Rebrickable 3320pat0003, Set 76330
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3320s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3320s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3320s03.dat
+
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 s\3320s04.dat

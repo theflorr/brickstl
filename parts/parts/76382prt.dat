@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with SW Clone Trooper Commander Armour, 4 Bright Light Orange Dots Pattern
+0 Name: 76382prt.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Armor, Attack of the Clones, Bricklink 973pb4501c01, Episode II
+0 !KEYWORDS Mini Upper Part No 5763, Rebrickable 973c38h03pr5763, republic army
+0 !KEYWORDS Set 40558, Set 75309, Set 75340, Star Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973prt.dat
+1 191 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 191 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 0 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 0 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

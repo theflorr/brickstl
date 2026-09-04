@@ -1,0 +1,18 @@
+0 Brick  2 x  2 with Yellow Star and Black Eyes on Both Sides Pattern
+0 Name: 3003px3.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS BrickLink 3003pb121, Rebrickable 3003pr0139, Set 71367, Set 71377
+0 !KEYWORDS Starman, Super Mario, Super Mario - Expansion Sets, Super Star
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3003s02.dat
+
+0 // Pattern
+1 16 0 0 -20 1 0 0 0 1 0 0 0 1 s\3003px3s01.dat
+1 16 0 0 20 -1 0 0 0 1 0 0 0 -1 s\3003px3s01.dat

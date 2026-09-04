@@ -1,0 +1,16 @@
+0 Electric Train 9V Transformer Europlug
+0 Name: 70928.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP this part is just a static shortcut for display, use both subparts separately
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70928s01.dat
+1 16 0 426 80 1 0 0 0 0 -1 0 1 0 s\70928s02.dat
+0 // cable (or use u9028.dat scaled 2x)
+1 16 -40 157 80 2 0 0 0 0 -2 0 -2 0 s\61930s01.dat

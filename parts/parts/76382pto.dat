@@ -1,0 +1,17 @@
+0 Minifig Torso with Arms and Hands with Race Suit with McLaren Logos and Orange and Silver Stripes Pattern
+0 Name: 76382pto.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS BrickLink 973pb3505c01, Jacket, Rebrickable 973c12h03pr4568, Senna
+0 !KEYWORDS Set 75892, Speed Champions, sport, Uniform
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pto.dat
+1 72 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 3818.dat
+1 72 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 3819.dat
+1 0 -23.69 26.774 -9.898 .985 -.12 .12 .17 .696 -.696 0 .707 .707 3820.dat
+1 0 23.69 26.774 -9.898 .985 .12 -.12 -.17 .696 -.696 0 .707 .707 3820.dat

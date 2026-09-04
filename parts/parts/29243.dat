@@ -1,0 +1,12 @@
+0 ~Animal Big Cat Right Hind Leg
+0 Name: 29243.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\29243s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\29243s02.dat

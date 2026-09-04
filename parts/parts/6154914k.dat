@@ -1,0 +1,24 @@
+0 Sticker  3.0 x  6.8 with Porsche Bag Print and Buckles
+0 Name: 6154914k.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 42056stk01, Brickowl 901585, Lego Technic
+0 !KEYWORDS Porsche 911 GT3 RS, Rebrickable 27056, set 42056
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\stickerback030x068a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6154914ks01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6154914ks01.dat
+1 16 -1.5 -.25 -2.5 1 0 0 0 1 0 0 0 1 logo-porsche-badge.dat
+1 25 -1.5 -.25 -2.5 1 0 0 0 1 0 0 0 1 logo-porsche-badge-box.dat
+4 0 -17.092 -.25 19.4 -17.092 -.25 19 17.092 -.25 19 17.092 -.25 19.4
+4 25 8.44 -.25 6.5 5.44 -.25 6.5 5.44 -.25 -11.5 8.44 -.25 -11.5
+4 25 -17.092 -.25 39.5 -17.092 -.25 19.4 17.092 -.25 19.4 17.092 -.25 39.5
+4 25 17.092 -.25 19 -17.092 -.25 19 -8.44 -.25 6.5 5.44 -.25 6.5
+3 25 5.44 -.25 6.5 8.44 -.25 6.5 17.092 -.25 19
+3 25 8.44 -.25 -11.5 5.44 -.25 -11.5 17.1 -.25 -20.5
+4 25 17.1 -.25 -20.5 5.44 -.25 -11.5 -8.44 -.25 -11.5 -17.1 -.25 -20.5

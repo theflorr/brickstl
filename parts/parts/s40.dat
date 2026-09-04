@@ -1,0 +1,21 @@
+0 Sticker 1.8 x 1.8 with Bar Code and Goomba
+0 Name: s40.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bar Code, Mario, Rebrickable u-unknown, Scanner Code, Sets 71360
+0 !KEYWORDS Sets 71365, Sets 71367, Sets 71368, Sets 71377, Sets 71380
+0 !KEYWORDS Sets 71383, Sets 71391, Sets 71404, Sets 71408, Sets 71412
+0 !KEYWORDS Sets 71418, Super Mario
+
+
+0 !TEXMAP START PLANAR -22 0 22 22 0 22 -22 0 -22 s40.png
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\sticker_templates01.dat
+0 !TEXMAP FALLBACK
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\sticker_templates01.dat
+0 !TEXMAP END
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\sticker_templates02.dat

@@ -1,0 +1,19 @@
+0 Minifig Computer Laptop with Black Car and Indicators on Grey Background Sticker (Open)
+0 Name: 62698d00-f2.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Position of sticker 62698k03.dat: on 1 16 0 -2.75 15.375 1 0 0 0 1 0 0 0 1 6221657l.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS 919, Brendon Hartley, Earl Bamber, Hybrid, LMP, Motorsport, Porsche
+0 !KEYWORDS Set 75887, Speed Champions, Team, Timo Bernhard
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 62698k01.dat
+1 16 0 0 0 1 0 0 0 0.70711 -0.70711 0 0.70711 0.70711 62698k02.dat
+1 16 0 -7.0711 7.0711 1 0 0 0 .38268 -.92388 0 .92388 .38268 62698k03.dat
+0 // Sticker applied on 62698k03.dat
+1 16 0 -22.328125 10.414135 1 0 0 0 .38268 -.92388 0 .92388 .38268 6221657l.dat

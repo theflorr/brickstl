@@ -1,0 +1,24 @@
+0 ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Copper Symbols and Silver Wavy Lines Pattern
+0 Name: 18605p16.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Dimensions, Gimli, Lord of the Rings, LOTR, Set 71220
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18605s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18605s02.dat
+
+0 BFC NOCLIP
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18605p16s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18605p16s01.dat
+
+4 300 .364 0 28.924 -.944 0 26.744 -.425 0 25.948 .898 0 28.073
+4 308 -.364 0 28.924 -.898 0 28.073 -.944 0 26.744 .364 0 28.924
+3 308 0 0 35.04 -.364 0 28.924 .364 0 28.924
+3 308 .425 0 25.948 -.425 0 25.948 0 0 24.65
+4 308 -.425 0 25.948 .425 0 25.948 .944 0 26.744 .898 0 28.073

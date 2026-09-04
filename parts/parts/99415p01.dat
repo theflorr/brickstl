@@ -1,0 +1,18 @@
+0 Minifig Torso Short with Ridged Extended Front with Black Arms and Hands Pattern
+0 Name: 99415p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 98127c01, Foot Soldier, Lord Garmadon, Ninjago
+0 !KEYWORDS Rebrickable 98127pr0002, Robot, set 111901, Set 70505, set 70664
+0 !KEYWORDS set 70679, Set 79122, Set 9446, Set 9450, tall, TMNT
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 98127.dat
+1 0 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 0 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 0 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 0 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

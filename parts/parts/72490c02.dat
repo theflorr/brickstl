@@ -1,0 +1,17 @@
+0 Container Zeppelin with Tail Section and Four  1 x  1 Brick Round in Gondola Attachment
+0 Name: 72490c02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Container
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 72490.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 72490b.dat
+
+1 16 36 -144 -100 0 1 0 0 0 -1 -1 0 0 3062b.dat
+1 16 -36 -144 -100 0 -1 0 0 0 1 -1 0 0 3062b.dat
+1 16 36 -444 -100 0 1 0 0 0 -1 -1 0 0 3062b.dat
+1 16 -36 -444 -100 0 -1 0 0 0 1 -1 0 0 3062b.dat

@@ -1,0 +1,15 @@
+0 Sticker  1.2 x  3.9 with Red "PORSCHE" on Black Background
+0 Name: 6221655i.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 3.0, 911 RSR, Bricklink 75888stk01, Brickowl 925236
+0 !KEYWORDS Rebrickable 37801, Set 75888, Speed Champions, Turbo
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback012x039a.dat
+0 BFC NOCLIP
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\6221655is13.dat

@@ -1,0 +1,19 @@
+0 Car Steering-Gear Axle with Brick  2 x  4 with 2 Black Axle Bushes
+0 Name: 799c01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Rotation center at y = 11.5
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Car
+0 !KEYWORDS Bricklink 799c800, Rebrickable 799c800, set 310-1, set 331-1
+0 !KEYWORDS set 332-1, set 333-2, set 334-1, set 335-2, set 336-1, set 337-2
+0 !KEYWORDS set 371-2
+
+0 !CMDLINE -c15
+
+1 16 0 -64 11.5 1 0 0 0 1 0 0 0 1 799.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 800c01.dat

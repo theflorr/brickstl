@@ -1,0 +1,15 @@
+0 Electric Plug (Type 2) Twin Extra-Wide with Cross-Cut Pin with Cable End
+0 Name: u9607c02.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS 12V, Bricklink bb0093bc01, connector, Peeron x562c
+0 !KEYWORDS Rebrickable upn0128c02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9607c01.dat
+1 511 0 0 34 0 0 1 1 0 0 0 1 0 u9136.dat

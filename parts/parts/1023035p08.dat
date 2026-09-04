@@ -1,0 +1,28 @@
+0 Figure Friends Legs with Cargo Pants with Medium Tan Legs, Lavender Shoes with White Laces and Soles Pattern
+0 Name: 1023035p08.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Bricklink 35216bc00pb007, Rebrickable 2268c01pr0008, Set 41731
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s01.dat
+1 371 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 371 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+
+1 31 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035p02s01.dat
+1 15 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 15 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035p02s02.dat
+1 371 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 371 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat
+
+1 31 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035p02s01.dat
+1 15 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 15 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035p02s02.dat
+1 371 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 371 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat

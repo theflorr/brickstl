@@ -1,0 +1,19 @@
+0 Modulex Window  1 x  7 x  6
+0 Name: u7057.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Modulex
+0 !KEYWORDS Peeron x731, Rebrickable Mx1576
+
+0 !HISTORY 2025-06-12 [MagFors] Original design by Chris Dee as win0706
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u7057s01.dat
+0 // Colour surface
+4 16 -43.75 0 -6.25 -43.75 75 -6.25 -41.25 71.25 -6.25 -41.25 2.5 -6.25
+4 16 43.75 0 -6.25 -43.75 0 -6.25 -41.25 2.5 -6.25 41.25 2.5 -6.25
+4 16 43.75 75 -6.25 43.75 0 -6.25 41.25 2.5 -6.25 41.25 71.25 -6.25
+4 16 -43.75 75 -6.25 43.75 75 -6.25 41.25 71.25 -6.25 -41.25 71.25 -6.25

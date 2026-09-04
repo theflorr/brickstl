@@ -1,0 +1,22 @@
+0 Keychain
+0 Name: 27055.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Flexible
+
+0 !HISTORY 2021-03-19 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2025-08-02 [Blechtaler] File preparation for LDraw Parts Tracker
+
+1 16 0 -5 0 1 0 0 0 1 0 0 0 1 27055k01.dat
+1 16 0 -12.5 0 0 1 0 1 0 0 0 0 1 27055k02.dat
+1 16 0 -22.5 0 1 0 0 0 1 0 0 0 1 27055k03.dat
+1 16 0 -31 0 1 0 0 0 1 0 0 0 1 27055k03.dat
+1 16 0 -39.5 0 1 0 0 0 1 0 0 0 1 27055k03.dat
+1 16 0 -48 0 1 0 0 0 1 0 0 0 1 27055k03.dat
+1 16 0 -56.5 0 1 0 0 0 1 0 0 0 1 27055k03.dat
+1 16 0 -66 0 0 1 0 1 0 0 0 0 1 27055k02.dat
+1 16 0 -96 0 1 0 0 0 1 0 0 0 1 27055k04.dat

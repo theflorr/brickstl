@@ -1,0 +1,26 @@
+0 Brick  3 x  3 Curved 45 Degrees
+0 Name: 5057.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP 80 LDU radius
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Brickowl 320466, Elbow
+
+0 !HISTORY 2025-01-27 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-01-27 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 23.432 -56.568 0 .70711 .70711 0 .70711 -.70711 0 0 0 1 s\5057s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5057s01.dat
+
+1 16 80 0 0 -80 0 0 0 0 -80 0 80 0 48\t08o3688.dat
+1 16 80 0 0 -80 0 0 0 0 -80 0 -80 0 48\t08o3688.dat
+
+5 24 41.6504 -32.6927 0 44.2917 -35.7083 0 44.1124 -35.8876 3.8498 44.1124 -35.8876 -3.8498
+5 24 40.1198 -32.9505 0 41.6504 -32.6927 0 39.9745 -32.8052 -1.0333 39.9745 -32.8052 1.0333
+5 24 28.5 -4.9 0 29.7646 -4 0 28.5 -5.1055 1.0333 28.5 -5.1055 -1.0333
+5 24 29.7646 -4 0 29.5 0 0 29.2463 0 3.8498 29.2463 0 -3.8498

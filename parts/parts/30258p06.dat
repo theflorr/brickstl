@@ -1,0 +1,25 @@
+0 Roadsign Clip-on  2 x  2 Square with White Mail Logo (1998) on Blue Pattern
+0 Name: 30258p06.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Roadsign
+0 !KEYWORDS BrickLink 30258pb006, BrickOwl 235792, Brickset 83438, city center
+0 !KEYWORDS Crown, Horn, Lego 4118987, post, Rebrickable 30258pr0006, Set 6464
+0 !KEYWORDS Town Junior
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30258s01.dat
+
+0 // Logo
+1 16 0 0 -9 1 0 0 0 1 0 0 0 1 s\30258p06s01.dat
+1 1 0 0 -9 1 0 0 0 1 0 0 0 1 s\30258p06s02.dat
+
+0 // Border
+4 16 -19 19 -9 -20 20 -9 20 20 -9 19 19 -9
+4 16 -19 19 -9 -19 -19 -9 -20 -20 -9 -20 20 -9
+4 16 20 -20 -9 19 -19 -9 19 19 -9 20 20 -9
+4 16 20 -20 -9 -20 -20 -9 -19 -19 -9 19 -19 -9

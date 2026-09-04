@@ -1,0 +1,19 @@
+0 Sticker "Elf Bedhead"
+0 Name: 6422763d.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 10316stk01, Brickowl 1287605, Lord of the Rings
+0 !KEYWORDS Rebrickable 10102114, Set 10316
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6422763ds01.dat
+0 !TEXMAP START PLANAR -19 -.25 39 19 -.25 39 -19 -.25 -39 6422763d.png
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6422763ds02.dat
+0 !TEXMAP FALLBACK
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6422763ds02.dat
+0 !TEXMAP END

@@ -1,0 +1,18 @@
+0 Wheel Rim  8 x 11.2 with Centre Groove and one Curved Side with Black Circle Pattern
+0 Name: 6683p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS BrickLink 6683pb01, CMF, Collectibles, F1, Formula 1
+0 !KEYWORDS Rebrickable 6683pr0001
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6683s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6683p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\6683p01s01.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 s\6683p01s01.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 s\6683p01s01.dat

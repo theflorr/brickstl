@@ -1,0 +1,33 @@
+0 Electric Train 12V Transformer Type 2 (Complete)
+0 Name: 741ac01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place u9607c01.dat or 2775c02.dat
+0 !HELP 1 16 87 -57 95 1 0 0 0 1 0 0 0 1 u9607c01.dat
+0 !HELP 1 16 87 -33 95 1 0 0 0 1 0 0 0 1 u9607c01.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS BrickLink bb0092, Rebrickable upn0127
+
+0 // Bottom imprint (view from below)
+
+0 // rear electric contacts are on this side
+0 // ╔════════════════════════════╗
+0 // ║ .... Transformator 741 ... ║
+0 // ║ (lotsa electrical permits) ║
+0 // ║ (more electrical permits). ║
+0 // ║ Eingang: 220V~ 50/60Hz ... ║
+0 // ║ Ausgang: 5-7-9-12V eff.= . ║=== Cable
+0 // ║ ........ 2-3-4-5VA ....... ║
+0 // ║ mit Schutzschalter 0,75A . ║
+0 // ║ nur für trockene Räume ... ║
+0 // ║ Made in Western Germany .. ║
+0 // ╚════════════════════════════╝
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9612.dat
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 u9613.dat
+1 4 70 -141.6 -35 1 0 0 0 1 0 0 0 1 u9614.dat

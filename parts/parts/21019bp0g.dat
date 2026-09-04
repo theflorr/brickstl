@@ -1,0 +1,21 @@
+0 Minifig Hips and Legs with Bright Green Lower Leg Pattern
+0 Name: 21019bp0g.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 21019b.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 970c00pb1297, Hulk, Mini Lower Part No 2054
+0 !KEYWORDS Rebrickable 970c09pat06, set 10782, set 76241
+
+0 !HISTORY 2024-06-26 [notmaster] Modified from 21019bp0e.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20460bp0g.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20461bp0g.dat

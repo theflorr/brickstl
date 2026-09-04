@@ -1,0 +1,22 @@
+0 Duplo Cannon Ball
+0 Name: 54043a.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS BrickLink 54043, Rebrickable 54043
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\54043as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\54043as01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\54043as01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\54043as01.dat
+
+1 16 0 -87 0 42 0 0 0 -36 0 0 0 42 48\4-8sphe.dat
+1 16 0 -87 0 42 0 0 0 1 0 0 0 42 48\4-4edge.dat
+1 16 0 -87 0 3.82 0 0 0 -1 0 0 0 3.82 48\4-4ring10.dat
+1 16 0 -87 0 38.2 0 0 0 1 0 0 0 38.2 48\4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 -87 0 38.2 0 0 0 -32.2 0 0 0 38.2 48\4-8sphe.dat

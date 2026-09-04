@@ -1,0 +1,18 @@
+0 Battery Baby (C)
+0 Name: u9199.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS LR14, R14, U11
+
+0 !HISTORY 2025-04-22 [Blechtaler] made from u9284 by [MMR1988]
+
+1 16 0 0 0 1 0 0 0 0 -1 0 1 0 s\u9199s01.dat
+1 16 -4 0 0 -1 0 0 0 0 -1 0 -1 0 s\u9199s01.dat
+1 494 62.5 0 0 0 -5 0 6.75 0 0 0 0 6.75 4-4cylc.dat
+1 494 57.5 0 0 0 -1 0 24 0 0 0 0 24 4-4disc.dat
+1 494 -62.5 0 0 0 1 0 24 0 0 0 0 24 4-4cylc.dat

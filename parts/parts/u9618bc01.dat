@@ -1,0 +1,21 @@
+0 Electric Train 4.5V Whistle Control Block  4 x  8 x  2 Forward/Stop/Reverse
+0 Name: u9618bc01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place 567c05.dat
+0 !HELP 1 1 20 32 -80 1 0 0 0 1 0 0 0 -1 567c05.dat
+0 !HELP 1 4 -20 32 -80 1 0 0 0 1 0 0 0 -1 567c05.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink x871b, peeron x871b, rebrickable upn0313b, Set 138-1
+0 !KEYWORDS Set 139-1
+
+0 !HISTORY 2024-07-20 [Blechtaler] dimensions by Ddriver
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9618b.dat
+1 0 0 48 0 1 0 0 0 1 0 0 0 1 u9619b.dat
+1 28 0 32 0 1 0 0 0 1 0 0 0 1 u9620b.dat

@@ -1,0 +1,18 @@
+0 Constraction Torso  5 x 11 with Pearl Dark Grey Swivel Hips
+0 Name: 24190c01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP rotation 15 degrees
+0 !HELP 1 35 0 120 30 .965926 -.258819 0 .258819 .965926 0 0 0 1 32270.dat
+0 !HELP 1 35 0 120 20 0 -.258819 .965926 0 .965926 .258819 -1 0 0 87083.dat
+0 !HELP 1 35 0 120 50 -.965926 -.258819 0 -.258819 .965926 0 0 0 -1 32072.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Constraction
+0 !KEYWORDS 2016, 24190, bionicle, gear, Hips, Spine, Toa Uniters
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 24190.dat
+1 148 0 120 0 1 0 0 0 1 0 0 0 1 24189.dat

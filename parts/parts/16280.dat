@@ -1,0 +1,12 @@
+0 Sheet Fabric 12.5 x 12.5 Cloth
+0 Name: 16280.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+0 !KEYWORDS Blanket, Brickowl 59377, Canvas, Tablecloth
+
+1 16 0 -.125 0 124.8 0 0 0 .125 0 0 0 124.8 box.dat

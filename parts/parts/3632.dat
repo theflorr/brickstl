@@ -1,0 +1,12 @@
+0 =Wing  6 x 12 Left
+0 Name: 3632.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wing
+0 !KEYWORDS BrickLink 30355, Rebrickable 30355
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30355.dat

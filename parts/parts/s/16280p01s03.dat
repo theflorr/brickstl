@@ -1,0 +1,12 @@
+0 ~Blanket with Red Checkered Pattern - 2x2
+0 Name: s\16280p01s03.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 20004 0 0 9.6 0 0 0 9.6 0 0 9.6 0 9.6
+4 16 -9.6 0 9.6 -9.6 0 0 0 0 0 0 0 9.6
+4 20004 0 0 -9.6 0 0 0 -9.6 0 0 -9.6 0 -9.6
+4 16 9.6 0 -9.6 9.6 0 0 0 0 0 0 0 -9.6

@@ -1,0 +1,17 @@
+0 =Sticker  1.6 x  1.3 with  5 Yellow/Black Chevrons Downwards
+0 Name: 170048e.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Use on part 3840:
+0 !HELP 1 0 0 15 -13 1 0 0 0 0 -1 0 1 0 199025a.dat
+0 !HELP 1 0 0 15 13 -1 0 0 0 0 -1 0 -1 0 199025a.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink B6000stk01, Brickowl 822747, Idea Book, legoland
+0 !KEYWORDS Rebrickable 6000stk01, Set 6000, vest
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 199025a.dat

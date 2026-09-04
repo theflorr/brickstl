@@ -1,0 +1,12 @@
+0 =Technic Rotor  3 Blade with  6 Studs
+0 Name: 51138.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS BrickLink 32125
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32125.dat

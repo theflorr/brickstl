@@ -1,0 +1,20 @@
+0 Minifig Hips and Legs with Magenta Flowers on Lime Shorts Pattern
+0 Name: 73200bpx5.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpx5.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 970c90pb02, Patrick Star, Rebrickable 970c02pr0108
+0 !KEYWORDS set 3816, Set 3818, Set 3827, Set 3830, Set 3832, Set 4982
+0 !KEYWORDS Set Set 3833, SpongeBob SquarePants
+
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 3815bpx5.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpx5.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpx5.dat

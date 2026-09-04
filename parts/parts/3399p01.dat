@@ -1,0 +1,16 @@
+0 Animal Seal Baby with Black Eyes and Mouth with Light Bluish Grey Nozzle Pattern
+0 Name: 3399p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Arctic, Bricklink 3399pb01, explorer, Rebrickable 3399pr0001
+0 !KEYWORDS Set 60376
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3399s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3399p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3399p01s01.dat

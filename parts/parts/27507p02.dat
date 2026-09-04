@@ -1,0 +1,14 @@
+0 Tile  4 x  4 Corner Round with Blue Half Stars with Dark Turquoise Outlines, Orange Squares and Bright Light Orange Triangles Pattern
+0 Name: 27507p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 27507pb17, Rebrickable 27507pr0008, Set 10359
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27507s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27507p02s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\27507p02s01.dat

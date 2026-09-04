@@ -1,0 +1,15 @@
+0 Tile  2 x  2 with Super Mario Goomba Face Pattern
+0 Name: 3068bpxe.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 3068pb1374, Enemy, Nintendo, Rebrickable 3068bpr0432
+0 !KEYWORDS Set 71360, Set 71408, Set 71412, Set 71430, Set 71433, Set 71439
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 .4 0 0 0 1 0 0 0 .4 s\1751p01s01.dat
+1 16 0 0 0 -.4 0 0 0 1 0 0 0 .4 s\1751p01s01.dat

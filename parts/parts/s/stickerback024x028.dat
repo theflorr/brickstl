@@ -1,0 +1,24 @@
+0 ~Sticker Back  2.4 x  2.8
+0 Name: s\stickerback024x028.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Primitives
+1 16 0 -.25 0 0 0 28 0 .25 0 22.5 0 0 box3u12.dat
+1 16 -26.5 0 22.5 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
+1 16 26.5 0 22.5 1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
+1 16 -26.5 0 -22.5 -1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat
+1 16 26.5 0 -22.5 1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat
+1 16 -26.5 -.25 22.5 -1.5 0 0 0 .25 0 0 0 1.5 1-4cyli.dat
+1 16 26.5 -.25 22.5 1.5 0 0 0 .25 0 0 0 1.5 1-4cyli.dat
+1 16 -26.5 -.25 -22.5 -1.5 0 0 0 .25 0 0 0 -1.5 1-4cyli.dat
+1 16 26.5 -.25 -22.5 1.5 0 0 0 .25 0 0 0 -1.5 1-4cyli.dat
+0 // Bottom face
+4 16 -26.5 0 24 26.5 0 24 28 0 22.5 -28 0 22.5
+4 16 -26.5 0 -24 -28 0 -22.5 28 0 -22.5 26.5 0 -24
+0 // Lateral face
+4 16 -26.5 -.25 24 26.5 -.25 24 26.5 0 24 -26.5 0 24
+4 16 26.5 0 -24 26.5 -.25 -24 -26.5 -.25 -24 -26.5 0 -24

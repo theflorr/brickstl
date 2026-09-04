@@ -1,0 +1,14 @@
+0 Figure Friends Female Right Arm with Lavender Three Quarters Sleeve Pattern
+0 Name: 92245p17.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Hand position: X=15 Y=27.5 Z=1.8
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Rebrickable 11408c01pr0020, Set 42669, Terence
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 92244p17.dat

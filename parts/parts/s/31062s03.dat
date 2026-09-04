@@ -1,0 +1,19 @@
+0 ~Duplo Tile Bottom  2 x  2
+0 Name: s\31062s03.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 4 0 1 0 0 0 -4 0 0 0 1 stud8.dat
+0 BFC INVERTNEXT
+1 16 0 24 0 36 0 0 0 -20 0 0 0 36 box5.dat
+1 16 20 4 -34 1.5 0 0 0 19 0 0 0 2 box4-1.dat
+1 16 -20 4 -34 1.5 0 0 0 19 0 0 0 2 box4-1.dat
+1 16 20 4 34 1.5 0 0 0 19 0 0 0 -2 box4-1.dat
+1 16 -20 4 34 1.5 0 0 0 19 0 0 0 -2 box4-1.dat
+1 16 34 4 20 0 0 -2 0 19 0 -1.5 0 0 box4-1.dat
+1 16 34 4 -20 0 0 -2 0 19 0 -1.5 0 0 box4-1.dat
+1 16 -34 4 20 0 0 2 0 19 0 -1.5 0 0 box4-1.dat
+1 16 -34 4 -20 0 0 2 0 19 0 -1.5 0 0 box4-1.dat

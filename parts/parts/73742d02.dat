@@ -1,0 +1,20 @@
+0 Boat Hull Floating 51 x 12 with V-shaped Stern with Light Grey Decks with Fire Station Logo and White "4031" Sticker
+0 Name: 73742d02.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS boat, Fire rescue, Set 4031, ship
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 73742.dat
+1 16 124.0671 -96 80 0 -.99386 .11064 0 -.11064 -.99386 1 0 0 163184a.dat
+1 16 -124.0671 -96 80 0 .99386 -.11064 0 -.11064 -.99386 -1 0 0 163184a.dat
+1 16 0 -104 524.9297 -1 0 0 0 -.00562 -1 0 -1 .00562 163184d.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163184cc01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163184cc02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163184dc01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163184dc02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 163184bc01.dat

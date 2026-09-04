@@ -1,0 +1,27 @@
+0 Sticker  0.8 x  1.2 with Black Stripes on Light Bluish Grey Background
+0 Name: 6536046c.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 75408stk01, Brickowl 1485886, Helmet Colletions
+0 !KEYWORDS Jango Fett, Rebrickable 10112159, set 75408, Star Wars
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x012.dat
+
+0 // Sticker-Front
+1 71 10.4665 -.25 -6.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 71 10.4665 -.25 6.5 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 71 -10.4665 -.25 -6.5 -1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 71 -10.4665 -.25 6.5 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+4 71 11.9665 -.25 -5.3 11.9665 -.25 5.3 -11.9665 -.25 5.3 -11.9665 -.25 -5.3
+4 0 -11.9665 -.25 -5.3 -11.9665 -.25 -6 11.9665 -.25 -6 11.9665 -.25 -5.3
+4 0 -11.9665 -.25 6 -11.9665 -.25 5.3 11.9665 -.25 5.3 11.9665 -.25 6
+4 71 10.4665 -.25 8 -10.4665 -.25 8 -11.9665 -.25 6.5 11.9665 -.25 6.5
+4 71 11.9665 -.25 6 11.9665 -.25 6.5 -11.9665 -.25 6.5 -11.9665 -.25 6
+4 71 -11.9665 -.25 -6.5 -10.4665 -.25 -8 10.4665 -.25 -8 11.9665 -.25 -6.5
+4 71 -11.9665 -.25 -6.5 11.9665 -.25 -6.5 11.9665 -.25 -6 -11.9665 -.25 -6

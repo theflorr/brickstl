@@ -1,0 +1,20 @@
+0 Duplo Log Bridge
+0 Name: 31062.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place bridge supports with 1 1 0 -48 160 1 0 0 0 1 0 0 0 1 3966.dat
+0 !HELP and 1 1 0 -48 -160 -1 0 0 0 1 0 0 0 -1 3966.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
+4 16 -40 0 32 -40 0 -32 40 0 -32 40 0 32
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31062s03.dat
+
+0 // halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31062s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\31062s01.dat

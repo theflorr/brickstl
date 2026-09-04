@@ -1,0 +1,25 @@
+0 Tyre 22/ 50 x 49 ZR
+0 Name: 7653.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tyre
+0 !KEYWORDS Brickowl 400341
+
+0 !HISTORY 2026-01-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-01-17 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7653s01.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\7653s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\7653s01.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\7653s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\7653s01.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 -1 s\7653s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\7653s01.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 -1 s\7653s01.dat
+0 BFC INVERTNEXT
+1 16 0 0 -23 54.72 0 0 0 0 54.72 0 46 0 48\4-4cylo.dat
+1 16 0 0 -3.5 61.56389 0 0 0 0 61.56389 0 7 0 48\4-4cylo.dat

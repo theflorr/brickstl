@@ -1,0 +1,16 @@
+0 =Sticker Minifig Torso with Red Cross Logo
+0 Name: 170048t.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Use on part 973:
+0 !HELP 1 16 0 16 -10 1 0 0 0 0 -1 0 1 0 170048j.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS ambulance, Bricklink B6000stk01, Brickowl 822747, Hospital
+0 !KEYWORDS Idea Book, legoland, Medical, Rebrickable 6000stk01, Set 6000
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 004363a.dat

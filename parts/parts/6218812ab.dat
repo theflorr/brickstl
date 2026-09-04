@@ -1,0 +1,20 @@
+0 Sticker  1.9 x  1.8 with Ford and MS-RT Logos on Blue Background
+0 Name: 6218812ab.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2, 2017, BrickLink 75885stk01, Brickowl 4802, Fiesta, Ford, M-Sport
+0 !KEYWORDS Martin Järveoja, Ott Tänak, Rebrickable 37575, Set 75885
+0 !KEYWORDS Speed Champions, WRC
+
+1 16 0 0 13.8789 1 0 0 0 1 0 0 0 1 s\6218812abs01.dat
+1 16 0 0 13.8547 1 0 0 0 1 0 0 0 1 s\6218812abs02.dat
+1 16 0 0 -.7172 1 0 0 0 1 0 0 0 1 s\6218812abs03.dat
+1 16 0 0 -.7428 1 0 0 0 1 0 0 0 1 s\6218812abs04.dat
+1 16 0 0 -14.6522 1 0 0 0 1 0 0 0 1 s\6218812abs05.dat
+1 16 0 0 -14.681 1 0 0 0 1 0 0 0 1 s\6218812abs06.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\stickerback018x019.dat

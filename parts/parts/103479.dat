@@ -1,0 +1,18 @@
+0 Electric Powered Up Hub with  3 Integrated Motors and  6 Lights
+0 Name: 103479.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS BrickLink 103479c01, Rebrickable 103479c01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9586c01.dat
+1 2 0 -30 110 -1 0 0 0 1 0 0 0 -1 4109.dat
+1 4 -40 0 160 -1 0 0 0 1 0 0 0 -1 4194.dat
+1 4 40 0 160 -1 0 0 0 1 0 0 0 -1 4194.dat
+1 4 0 0 -160 1 0 0 0 1 0 0 0 1 4194.dat
+1 4 -69 0 130 0 0 1 0 1 0 -1 0 0 4194.dat
+1 4 69 0 130 0 0 -1 0 1 0 1 0 0 4194.dat

@@ -1,0 +1,22 @@
+0 Tile  1 x  1 with Black Rectangle Stripe Pattern
+0 Name: 3070bpz8.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Back To The Future, BrickLink 3070pb389, BrickOwl 1330631
+0 !KEYWORDS Brickset 115792, Rebrickable 3070bpr0006, Set 77256, Speed Champions
+0 !KEYWORDS Time Machine from Back to the Future
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+0 // Pattern
+4 0 9 0 -9 9 0 0 -9 0 0 -9 0 -9
+4 16 9 0 -9 -9 0 -9 -10 0 -10 10 0 -10
+4 16 9 0 0 9 0 -9 10 0 -10 10 0 10
+4 16 9 0 0 10 0 10 -10 0 10 -9 0 0
+4 16 -9 0 0 -10 0 10 -10 0 -10 -9 0 -9

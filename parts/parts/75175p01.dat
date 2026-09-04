@@ -1,0 +1,17 @@
+0 Duplo Train Base  2 x  8 with 2 Axles with Red 28 mm Wheels and Black Movable Hitch Pattern
+0 Name: 75175p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS BrickLink duptrain01, Brickowl 279722, Brickset 75175
+0 !KEYWORDS Rebrickable 75175c01, Set 2730, Set 2733, Set 2745, Set 9166
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6444.dat
+1 0 0 23 94.5 -1 0 0 0 1 0 0 0 -1 4561.dat
+1 4 0 37 112 1 0 0 0 1 0 0 0 1 70461c01.dat
+1 4 0 37 -112 1 0 0 0 1 0 0 0 1 70461c01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6443.dat

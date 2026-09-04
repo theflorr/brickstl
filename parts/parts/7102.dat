@@ -1,0 +1,18 @@
+0 =Door  1 x  4 x  6 with Window and Wood Structure
+0 Name: 7102.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Handle stud: X=58, Y=70, Z=+/- 3.7
+0 !HELP Glass:
+0 !HELP 1 16 32.6 24 5.6 1 0 0 0 1 0 0 0 1 60601.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+0 !KEYWORDS BrickLink 5466
+
+0 // Alias of 5466
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 5466.dat

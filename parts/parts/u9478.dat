@@ -1,0 +1,16 @@
+0 ~Screw 30 x  3 Dome Tamper-Proof Y Shape
+0 Name: u9478.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Screw
+
+0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
+
+1 16 0 0 0 .7 0 0 0 .7 0 0 0 .7 s\u9475s01.dat
+1 16 0 0 0 -.35 0 .606221 0 .7 0 -.606221 0 -.35 s\u9475s01.dat
+1 16 0 0 0 -.35 0 -.606221 0 .7 0 .606221 0 -.35 s\u9475s01.dat
+1 16 0 30 0 1.5 0 0 0 -30 0 0 0 1.5 4-4cylc.dat

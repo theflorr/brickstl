@@ -1,0 +1,27 @@
+0 Tile  2 x  3 with Two White Rectangles Pattern
+0 Name: 26603pz3.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 26603pb242, Luke Skywalker, Rebrickable 26603pr0084
+0 !KEYWORDS Set 75327, Star Wars
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
+
+0 // Pattern
+4 15 -10.5 0 19.5 -29.5 0 19.5 -29.5 0 -19.5 -10.5 0 -19.5
+4 15 29.5 0 -19.5 29.5 0 19.5 10.5 0 19.5 10.5 0 -19.5
+4 16 10.5 0 19.5 -10.5 0 19.5 -10.5 0 -19.5 10.5 0 -19.5
+4 16 -29.5 0 19.5 -30 0 20 -30 0 -20 -29.5 0 -19.5
+4 16 30 0 20 29.5 0 19.5 29.5 0 -19.5 30 0 -20
+4 16 30 0 20 -30 0 20 -29.5 0 19.5 -10.5 0 19.5
+3 16 30 0 20 -10.5 0 19.5 10.5 0 19.5
+3 16 30 0 20 10.5 0 19.5 29.5 0 19.5
+4 16 -30 0 -20 30 0 -20 29.5 0 -19.5 10.5 0 -19.5
+3 16 -10.5 0 -19.5 -29.5 0 -19.5 -30 0 -20
+3 16 10.5 0 -19.5 -10.5 0 -19.5 -30 0 -20

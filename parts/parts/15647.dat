@@ -1,0 +1,12 @@
+0 =Slope Brick 45  4 x  2 Double Inverted with Pins
+0 Name: 15647.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+0 !KEYWORDS BrickLink 30390, Rebrickable 30390a
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30390.dat

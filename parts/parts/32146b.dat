@@ -1,0 +1,94 @@
+0 Wheel 14 x 30 Smooth
+0 Name: 32146b.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS 30.4 x 14, BrickLink 32146, Rebrickable 32146
+
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
+0 !HISTORY 2010-05-20 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2025-03-16 [Blechtaler] reworked with better prims+subfiles
+
+0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
+
+0 // Spokes
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2994bs01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\2994bs01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\2994bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2994bs01.dat
+0 // rear
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32146bs01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\32146bs01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\32146bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32146bs01.dat
+
+0 // axlehole
+1 16 0 0 0 9 0 0 0 0 9 0 .5 0 4-4cylo.dat
+1 16 0 0 0 3 0 0 0 0 3 0 1 0 4-4ring2.dat
+1 16 0 0 0 6 0 0 0 0 -6 0 1 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 6 0 0 0 0 -6 0 10 0 4-4cyli.dat
+1 16 0 0 10 0 0 1 1 0 0 0 -1 0 axl2hol3.dat
+1 16 0 0 10 0 0 1 1 0 0 0 1 0 axl2ho10.dat
+1 16 0 0 10 0 0 1 1 0 0 0 1 0 axl2hol9.dat
+1 16 0 0 10 0 0 1 1 0 0 0 10 0 axl2hol8.dat
+1 16 0 0 20 0 0 1 1 0 0 0 -1 0 axl2hol9.dat
+1 16 0 0 20 0 0 1 1 0 0 0 -1 0 axl2ho10.dat
+1 16 0 0 20 0 0 1 1 0 0 0 -1 0 axl2hol2.dat
+1 16 0 0 20 6 0 0 0 0 6 0 -1 0 4-4ering.dat
+1 16 0 0 20 3 0 0 0 0 3 0 -1 0 4-4ring2.dat
+1 16 0 0 5 9 0 0 0 0 9 0 15 0 4-4cylo.dat
+
+0 // Bar holes
+0 BFC INVERTNEXT
+1 16 15 0 5 4 0 0 0 0 4 0 -4.5 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 -15 0 5 4 0 0 0 0 4 0 -4.5 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 7.5 -12.99 5 2 0 3.464 -3.464 0 2 0 -4.5 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 -7.5 12.99 5 2 0 3.464 -3.464 0 2 0 -4.5 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 7.5 12.99 5 2 0 -3.464 3.464 0 2 0 -4.5 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 -7.5 -12.99 5 2 0 -3.464 3.464 0 2 0 -4.5 0 4-4cylo.dat
+
+0 // Tread
+1 16 0 0 -15 25 0 0 0 0 25 0 1 0 48\4-4aring.dat
+1 16 0 0 -15 25 0 0 0 0 25 0 1 0 48\4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -17.5 2.5 0 0 0 0 2.5 0 2.5 0 48\4-4con10.dat
+1 16 0 0 -17.5 27.5 0 0 0 0 27.5 0 1 0 48\4-4edge.dat
+1 16 0 0 -17.5 5.5 0 0 0 0 5.5 0 1 0 48\4-4ring5.dat
+1 16 0 0 -17.5 33 0 0 0 0 33 0 1 0 48\4-4edge.dat
+1 16 0 0 -15 3 0 0 0 0 3 0 -2.5 0 48\4-4con11.dat
+1 16 0 0 -15 36 0 0 0 0 36 0 1 0 48\4-4edge.dat
+1 16 0 0 -9 1.5 0 0 0 0 1.5 0 -6 0 48\4-4con24.dat
+1 16 0 0 0 .5 0 0 0 0 .5 0 -9 0 48\4-4con75.dat
+1 16 0 0 0 .5 0 0 0 0 .5 0 9 0 48\4-4con75.dat
+1 16 0 0 9 1.5 0 0 0 0 1.5 0 8.5 0 48\4-4con24.dat
+1 16 0 0 17.5 36 0 0 0 0 36 0 1 0 48\4-4edge.dat
+1 16 0 0 17.5 36 0 0 0 0 36 0 -1 0 48\4-4aring.dat
+1 16 0 0 17.5 2 0 0 0 0 2 0 -1 0 4-4rin17.dat
+0 BFC INVERTNEXT
+1 16 0 0 -14 34 0 0 0 0 34 0 31.5 0 4-4cylo.dat
+1 16 0 0 -14 2 0 0 0 0 2 0 -1 0 4-4rin16.dat
+1 16 0 0 -14 4 0 0 0 0 4 0 -1 0 4-4ring7.dat
+1 16 0 0 -14 28 0 0 0 0 28 0 1 0 4-4edge.dat
+1 16 0 0 -14 2 0 0 0 0 2 0 2 0 4-4con13.dat
+1 16 0 0 -12 26 0 0 0 0 26 0 1 0 4-4edge.dat
+
+0 // Condlines
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\32146bs02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32146bs02.dat

@@ -1,0 +1,14 @@
+0 Sticker  0.8 x  0.8 with X-Wing and Blue Target Arrows
+0 Name: 6489811k.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Set 75382, Star Wars
+
+1 16 0 0 0 8 0 0 0 -0.25 0 0 0 -8 4-4cylc3.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6489811ks01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\6489811ks01.dat

@@ -1,0 +1,11 @@
+0 ~Duplo Train Track End with  2 x  4 Plate on One End - Fillet
+0 Name: s\31442s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 11.1028 1 11.1028 -1.06066 2.82843 0 0 0 1 1.06066 2.82843 0 box4-2p.dat
+2 24 11.3137 2 11.3137 12.1635 2 10.0421
+2 24 11.3137 2 11.3137 10.0421 2 12.1635

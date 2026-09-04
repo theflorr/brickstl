@@ -1,0 +1,18 @@
+0 Minifig Helmet with Mask with White "A" and Wings on Sides Pattern
+0 Name: 49556p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Avengers, Bricklink 49556pb02, Brickowl 286062, Brickset 108766
+0 !KEYWORDS Captain America, Marvel, Rebrickable 49556pr0001, Set 76189
+0 !KEYWORDS Set 76269, Set 76314, Super Heroes, Superheroes
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49556s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49556p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\49556p02s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49556p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\49556p01s01.dat

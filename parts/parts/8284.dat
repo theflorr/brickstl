@@ -1,0 +1,25 @@
+0 Bar Curved 90 Degrees with 3.5L Radius with Stop on Both Ends
+0 Name: 8284.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Bar
+0 !KEYWORDS Brickowl 1363902
+
+0 !HISTORY 2026-08-03 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-08-03 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 0 0 -4 0 -16.5 0 4 0 0 4-4cylc.dat
+1 16 0 -16.5 0 0 0 -2 0 -1 0 2 0 0 4-4ring2.dat
+1 16 0 -23.5 0 0 0 -6 0 7 0 6 0 0 4-4cylc.dat
+1 16 0 -23.5 .2307 0 0 -3.997 0 1 0 3.995 0 0 4-4edge.dat
+
+1 16 0 -20 70 0 70 0 0 0 -70 -70 0 0 48\tm04q0571.dat
+
+1 16 0 -90 90 0 0 -4 -4 0 0 0 -16.5 0 4-4cylc.dat
+1 16 0 -90 73.5 0 0 -2 -2 0 0 0 -1 0 4-4ring2.dat
+1 16 0 -90 66.5 0 0 -6 -6 0 0 0 7 0 4-4cylc.dat
+1 16 0 -89.7692 66.5 0 0 -3.997 3.995 0 0 0 1 0 4-4edge.dat

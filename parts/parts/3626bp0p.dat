@@ -1,0 +1,34 @@
+0 Minifig Head with Skull on White Circle Pattern
+0 Name: 3626bp0p.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Belville, Bricklink 3626pb0225, BrickOwl 88182, Brickset 51362
+0 !KEYWORDS Fairy Tale, Hans Christian Andersen, Label, Mini Head No 390
+0 !KEYWORDS Poison Bottle, Rebrickable 3626bpr0195, Set 5962, The Tinderbox
+0 !KEYWORDS Witch
+
+0 !CMDLINE -c34
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 17 0 0 0 -13 0 -13 0 13 0 0 3-8cyli.dat
+1 16 0 17 0 0 0 13 0 -13 0 13 0 0 3-8cyli.dat
+0 // Top Area
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+0 // Bottom Area
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp0ps01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp0ps01.dat

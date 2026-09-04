@@ -1,0 +1,10 @@
+0 ~Tail Plane with Integral Jet Engine - Half Patternable Surfaces
+0 Name: s\u405s03.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 16 2 -14.6023 29 2 -72 60 2 -84 34 2 -32 -40
+3 16 2 -72 96 2 -72 60 2 -14.6023 29

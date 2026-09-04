@@ -1,0 +1,18 @@
+0 Minifig Head Sesame Street Big Bird with White Eyes, Bright Pink and Blue Eyelids Pattern
+0 Name: 70575p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink bb1161pb01, Rebrickable 70575pr0001, Set 21324
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70575s01.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\70575p01s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\70575p01s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70575s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\70575s03.dat

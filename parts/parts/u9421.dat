@@ -1,0 +1,24 @@
+0 ~Motor Windup  2 x  6 x  2.333 Ratchet Axle Long
+0 Name: u9421.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+0 !HISTORY 2025-12-03 [Blechtaler] used beveled axle end
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 24 0 0 0 -1 0 1 0 0 0 0 1 axleend2.dat
+1 16 0 0 0 0 21.5 0 1 0 0 0 0 1 axlehol8.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 axlehol9.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 axleho10.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 axlehol3.dat
+1 16 0 0 0 0 -10 0 1 0 0 0 0 1 axleho12.dat
+1 16 -10 0 0 0 1 0 0 0 6 6 0 0 4-4edge.dat
+1 16 -10 0 0 0 1 0 0 0 6 6 0 0 4-4disc.dat

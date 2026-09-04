@@ -1,0 +1,16 @@
+0 Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Blue Sonic Head, Blue "SONIC" and Checkered Background Pattern
+0 Name: 18603c02p0p.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Bricklink 18605c02pb13, Dimensions, Electronic, NFC
+0 !KEYWORDS Rebrickable 19981pr0059, Sega, Set 71244, Sonic the Hedgehog
+0 !KEYWORDS Toy Tag
+
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 18603.dat
+1 47 0 11 0 1 0 0 0 1 0 0 0 1 u9512.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 18605p0p.dat

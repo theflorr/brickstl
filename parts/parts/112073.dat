@@ -1,0 +1,26 @@
+0 Minifig Toy Train
+0 Name: 112073.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 112073c01, Brickowl 1014922
+
+0 !HISTORY 2025-11-27 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-02-01 [MagFors] File preparation for LDraw Parts Tracker
+
+0 // body
+1 16 0 -.035 0 1 0 0 0 1 0 0 0 1 s\112073s01.dat
+0 // smoke stack
+1 16 0 -14.162 0 1 0 0 0 1 0 0 0 1 s\112073s03.dat
+0 // right coupling rod
+1 16 -20.784 -15.195 0 1 0 0 0 1 0 0 0 1 s\112073s04.dat
+0 // left coupling rod
+1 16 20.784 -10.695 4.5 1 0 0 0 1 0 0 0 1 s\112073s04.dat
+0 // front wheelset, with crank axle
+1 16 0 -10.695 0 1 0 0 0 1 0 0 0 1 s\112073s05.dat
+0 // rear wheelset
+1 16 0 -10.695 37.45 1 0 0 0 1 0 0 0 1 s\112073s06.dat

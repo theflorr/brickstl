@@ -1,0 +1,21 @@
+0 Support Crane Stand Double with Two White Opposing Direction Arrows and Danger Stripes Stickers
+0 Name: 2635d02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS 9V Trains, Bricklink 2635pb02, BrickOwl 43194, Cargo Station
+0 !KEYWORDS Portal Crane, Rebrickable 169675, Set 4555
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2635.dat
+
+0 // Arrows
+1 16 0 180 -60 1 0 0 0 0 -1 0 1 0 169675e.dat
+
+0 // Danger Stripes
+1 16 -140 372 -60 1 0 0 0 0 -1 0 1 0 169675i.dat
+1 16 140 372 -60 1 0 0 0 0 -1 0 1 0 169675i.dat

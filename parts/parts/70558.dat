@@ -1,0 +1,31 @@
+0 Minifig Head Sesame Street Bert
+0 Name: 70558.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+
+0 !HISTORY 2024-01-21 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-01-21 [fhareide] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s00.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\70558s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\70558s03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\70558s04.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\70558s05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s06.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\70558s06.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\70558s07.dat

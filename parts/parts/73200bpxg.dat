@@ -1,0 +1,21 @@
+0 Minifig Hips and Legs with Dark Bluish Grey Armour Sides Pattern
+0 Name: 73200bpxg.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpxg.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Armor, Bricklink 970c00pb0303, BrickOwl 979605, Brickset 17524
+0 !KEYWORDS Foot Clan, Karai, Mini Lower Part No 653, Miwa
+0 !KEYWORDS Rebrickable 970c03pr0653, Set 79118, Teenage Mutant Ninja Turtles
+0 !KEYWORDS TMNT
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpxg.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpxg.dat

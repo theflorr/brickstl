@@ -1,0 +1,13 @@
+0 Tile  6 x  6 with Rounded Underside Corners
+0 Name: 7798.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Brickowl 1505031
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7798s01.dat
+4 16 -60 0 -60 60 0 -60 60 0 60 -60 0 60

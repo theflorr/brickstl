@@ -1,0 +1,14 @@
+0 Animal Butterfly with Stud Tube with Blue Wings and White Spots Pattern
+0 Name: 80674p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Bricklink 80674pb03, Rebrickable 80674pr0004, Set 41757, Set 60437
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80674s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80674p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80674p02s01.dat

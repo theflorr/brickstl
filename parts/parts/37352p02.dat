@@ -1,0 +1,34 @@
+0 Brick  1 x  2 with Curved Top with Black Small Triangle Pattern
+0 Name: 37352p02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Bricklink 37352pb054, BrickOwl 1478740, Brickset 115953, Mouse, Nose
+0 !KEYWORDS Pikachu, Pocket Monsters, Pokémon, Rebrickable 37352pr0005
+0 !KEYWORDS Set 72152
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\37352s01.dat
+1 16 20 20 10 0 -40 0 0 0 -20 -20 0 0 1-8cyli.dat
+4 16 20 24 -10 20 20 -10 -20 20 -10 -20 24 -10
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\37352p02s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\37352p02s01.dat
+
+0 // Colour 0 Black
+3 0 3.624 1.522 2.346 -3.624 1.522 2.346 0 3.758 -1
+3 0 0 1.094 4.5 -3.624 1.522 2.346 3.624 1.522 2.346
+
+0 // Colour 16 Main Colour
+3 16 0 3.758 -1 -20 5.858 -4.142 20 5.858 -4.142
+3 16 20 0 10 -20 0 10 0 1.094 4.5
+
+0 // Conditional Lines
+5 24 20 5.858 -4.142 -20 5.858 -4.142 20 1.522 2.346 20 12.346 -8.478
+5 24 20 1.522 2.346 -20 1.522 2.346 20 0 10 20 5.858 -4.142
+5 24 20 0 10 -20 0 10 20 1.522 2.346 20 0 30

@@ -1,0 +1,37 @@
+0 Baseplate  4 x 20
+0 Name: u9651.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Baseplate
+0 !KEYWORDS Bricklink bb0726, Buildable Ruler, Rebrickable upn0006
+
+0 !HISTORY 2024-10-22 [Blechtaler] made from 10b by [Philo]
+
+1 16 -160 0 0 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
+1 16 -80 0 0 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
+1 16 80 0 0 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
+1 16 160 0 0 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
+1 16 -196 2 0 0 392 0 2 0 0 0 0 40 box4o8a.dat
+1 16 200 2 0 0 -1 0 0 0 2 36 0 0 rect2p.dat
+1 16 -200 2 0 0 1 0 0 0 2 36 0 0 rect2p.dat
+1 16 196 0 -36 0 0 4 0 4 0 -4 0 0 1-4cylo.dat
+1 16 196 0 36 0 0 4 0 4 0 4 0 0 1-4cylo.dat
+1 16 -196 0 36 0 0 -4 0 4 0 4 0 0 1-4cylo.dat
+1 16 -196 0 -36 0 0 -4 0 4 0 -4 0 0 1-4cylo.dat
+1 16 196 4 -36 0 0 4 0 -1 0 -4 0 0 1-4chrd.dat
+1 16 196 4 36 0 0 4 0 -1 0 4 0 0 1-4chrd.dat
+1 16 -196 4 36 0 0 -4 0 -1 0 4 0 0 1-4chrd.dat
+1 16 -196 4 -36 0 0 -4 0 -1 0 -4 0 0 1-4chrd.dat
+1 16 196 0 -36 0 0 4 0 1 0 -4 0 0 1-4chrd.dat
+1 16 196 0 36 0 0 4 0 1 0 4 0 0 1-4chrd.dat
+1 16 -196 0 36 0 0 -4 0 1 0 4 0 0 1-4chrd.dat
+1 16 -196 0 -36 0 0 -4 0 1 0 -4 0 0 1-4chrd.dat
+4 16 -196 0 40 -200 0 36 -200 0 -36 -196 0 -40
+4 16 -200 4 -36 -200 4 36 -196 4 40 -196 4 -40
+4 16 196 4 -40 196 4 40 200 4 36 200 4 -36
+4 16 196 0 40 196 0 -40 200 0 -36 200 0 36

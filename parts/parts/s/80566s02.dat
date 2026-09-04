@@ -1,0 +1,16 @@
+0 ~Train Track Roller Coaster Curve 90 Degrees Radius 12 with  3 Bricks Elevation Sleeper
+0 Name: s\80566s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 20.75 4 0 0 0 0 -4 0 -41.5 0 2-4cylo.dat
+1 16 0 0 17 4 0 0 0 0 4 0 -34 0 2-4cylo.dat
+1 16 0 0 20 -4 0 0 0 4 0 0 0 -3 box4-7a.dat
+1 16 0 0 20.75 4 0 0 0 0 -4 0 -1 0 2-4chrd.dat
+1 16 0 0 -20 -4 0 0 0 4 0 0 0 3 box4-7a.dat
+1 16 0 0 -20.75 4 0 0 0 0 -4 0 1 0 2-4chrd.dat
+2 24 -4 4 23 4 4 23
+2 24 4 4 -23 -4 4 -23

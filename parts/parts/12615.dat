@@ -1,0 +1,43 @@
+0 Minifig Mutant Fish
+0 Name: 12615.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Rotate 70 deg to align both pins with grid
+0 !HELP left leg connects at 10 0 0
+0 !HELP right leg connects at -10 0 0
+0 !HELP left arm connects at 14 -25.5 -9.3
+0 !HELP right arm connects at -14 -25.5 -9.3
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Cyborg, Fishface, Giant Snakehead, Teenage Mutant Ninja Turtles
+0 !KEYWORDS TMNT, Xever Montes
+
+0 !HISTORY 2013-08-30 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2026-04-23 [KnightOfTarenta] File preparation for LDraw Parts Tracker
+
+0 // Main Body
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12615s00.dat
+
+0 // Belly
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12615s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12615s02.dat
+
+0 // Breathing Apparatus
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12615s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12615s03.dat
+
+0 // Leg Cybernetics
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12615s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12615s04.dat
+
+0 // Teeth
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12615s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12615s05.dat
+
+0 // Eyes
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12615s06.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12615s06.dat

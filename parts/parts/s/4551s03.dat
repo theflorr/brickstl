@@ -1,0 +1,21 @@
+0 ~Duplo Train Steam Engine Push Rod - Common Geometry, Centre - Eighth
+0 Name: s\4551s03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 8 0 0 0 -1.5 0 0 0 11.5 -11.5 0 0 1-16cylo.dat
+1 16 8 0 0 0 -1 0 0 0 11.5 11.5 0 0 1-16chrd.dat
+1 16 8 0 0 0 -1 0 0 0 -11.5 11.5 0 0 1-16chrd.dat
+1 16 8 0 0 0 -1 0 0 0 11.5 -11.5 0 0 1-16chrd.dat
+1 16 8 0 0 0 -1 0 0 0 -11.5 -11.5 0 0 1-16chrd.dat
+1 16 8 0 0 0 -1 0 11.5 0 0 0 0 -11.5 48\5-48chrd.dat
+4 16 8 11.5 0 8 7.5 0 8 9 -7.1426 8 9.1241 -7.0012
+3 16 8 9 -7.1426 8 7.5 0 8 7.5 -7.5
+3 16 8 9 -7.1426 8 7.5 -7.5 8 4.4011 -10.6249
+3 16 8 4.40105 -10.62485 8 7.5 -7.5 8 0 -7.5
+3 16 8 4.40105 -10.62485 8 0 -7.5 8 0 -11.5
+1 16 6.5 0 0 0 -1 0 0 0 11.5 -11.5 0 0 1-16tndis.dat
+2 24 8 9 -7.1426 8 9.1241 -7.0012

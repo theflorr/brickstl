@@ -1,0 +1,32 @@
+0 Minifig Head with Large Black Sunglasses and White Stripe Pattern
+0 Name: 3626bp7d.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Alexis, Arctic, Bricklink 3626px88, Cosmo Cool, Drome Racers
+0 !KEYWORDS Extreme, Mini Head No 95, Rebrickable 3626bpr9958, Set 4588
+0 !KEYWORDS set 6573, set 6575, Set 6582, Set 6584, Set 9784, X-Treme Team
+0 !KEYWORDS Zero Stripe
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 17 0 0 0 -13 0 -13 0 13 0 0 3-8cyli.dat
+1 16 0 17 0 0 0 13 0 -13 0 13 0 0 3-8cyli.dat
+0 // Top Area
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+0 // Bottom Area
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp7ds01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp7ds01.dat

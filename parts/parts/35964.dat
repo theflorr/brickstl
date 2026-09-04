@@ -1,0 +1,26 @@
+0 Duplo Support  2 x  8 x  8
+0 Name: 35964.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 40 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
+1 16 -40 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
+
+0 // top
+1 16 0 24 0 0 0 80 0 -24 0 40 0 0 box3u2p.dat
+0 BFC INVERTNEXT
+1 16 0 20.7276 0 0 0 76 0 -16.7276 0 40 0 0 box3u2p.dat
+
+0 // bottom
+1 16 0 364 0 1 0 0 0 -4 0 0 0 1 stud8.dat
+0 BFC INVERTNEXT
+1 16 0 384 0 156 0 0 0 -20 0 0 0 36 box5.dat
+
+0 // halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35964s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\35964s01.dat

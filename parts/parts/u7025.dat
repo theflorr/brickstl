@@ -1,0 +1,31 @@
+0 Modulex Plate  1 x 16
+0 Name: u7025.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Modulex
+0 !KEYWORDS Bricklink Mx1616M, Peeron x721, Rebrickable 1616M
+
+0 !HISTORY 2024-02-04 [MagFors] Original design by Tore Eriksson as plt0116
+
+1 16 0 6.25 0 100 0 0 0 -6.25 0 0 0 6.25 box5.dat
+0 BFC INVERTNEXT
+1 16 0 6.25 0 97.5 0 0 0 -3.75 0 0 0 3.75 box5.dat
+1 16 -87.5 0 0 1 0 0 0 1 0 0 0 1 mstug-1x2.dat
+1 16 -56.25 0 0 1 0 0 0 1 0 0 0 1 mstug-1x3.dat
+1 16 -18.75 0 0 1 0 0 0 1 0 0 0 1 mstug-1x3.dat
+1 16 18.75 0 0 1 0 0 0 1 0 0 0 1 mstug-1x3.dat
+1 16 56.25 0 0 1 0 0 0 1 0 0 0 1 mstug-1x3.dat
+1 16 87.5 0 0 1 0 0 0 1 0 0 0 1 mstug-1x2.dat
+4 16 -100 6.25 -6.25 -97.5 6.25 -3.75 97.5 6.25 -3.75 100 6.25 -6.25
+4 16 -100 6.25 6.25 100 6.25 6.25 97.5 6.25 3.75 -97.5 6.25 3.75
+4 16 -100 6.25 -6.25 -100 6.25 6.25 -97.5 6.25 3.75 -97.5 6.25 -3.75
+4 16 100 6.25 -6.25 97.5 6.25 -3.75 97.5 6.25 3.75 100 6.25 6.25
+1 16 -75 2.5 0 1 0 0 0 -1.5 0 0 0 1 mstug3-1x3.dat
+1 16 -37.5 2.5 0 1 0 0 0 -1.5 0 0 0 1 mstug3-1x3.dat
+1 16 0 2.5 0 1 0 0 0 -1.5 0 0 0 1 mstug3-1x3.dat
+1 16 37.5 2.5 0 1 0 0 0 -1.5 0 0 0 1 mstug3-1x3.dat
+1 16 75 2.5 0 1 0 0 0 -1.5 0 0 0 1 mstug3-1x3.dat

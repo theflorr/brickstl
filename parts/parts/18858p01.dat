@@ -1,0 +1,22 @@
+0 Minifig Hair Female Mid-Length with Side Part and Orange Hair Highlights Pattern
+0 Name: 18858p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 18858pb01, Brickowl 747135, Brickset 20139
+0 !KEYWORDS Rebrickable 18858pr0001, Sabine Wren, Set 75090, Set 75106
+0 !KEYWORDS Star Wars Rebels
+
+0 !HISTORY 2021-03-19 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2026-02-22 [LisaWinter] File preparation for LDraw Parts Tracker
+
+0 // Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18858s01.dat
+0 // Outside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18858p01s01.dat
+0 // Conditional lines
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18858s03.dat

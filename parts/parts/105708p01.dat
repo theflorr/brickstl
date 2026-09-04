@@ -1,0 +1,20 @@
+0 Minifig Head Animal Crossing Turtle Kapp'n with Yellow Face, White Eyes, Yellowish Green Bald Spot and Dark Green Hair Pattern
+0 Name: 105708p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 105708pb01, Rebrickable 105708pr0001, Set 77048
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105708s00.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105708p01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105708p01s02.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\105708s02.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\105708p01s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\105708p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\105708p01s02.dat
+1 14 0 0 0 -1 0 0 0 1 0 0 0 1 s\105708s02.dat
+1 14 0 0 0 -1 0 0 0 1 0 0 0 1 s\105708p01s03.dat

@@ -1,0 +1,31 @@
+0 ~Duplo Boat Helm / Ship's Wheel - Half
+0 Name: s\4658s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // core
+1 16 0 0 -11.3 6.25 0 0 0 0 6.25 0 2.3 0 4-4cylc.dat
+1 16 0 0 -9 9.4 0 0 0 0 9.4 0 1 0 4-4disc.dat
+
+0 // rim
+1 16 0 0 -6.3 3.296 0 0 0 0 3.296 0 1 0 48\4-4ring8.dat
+1 16 0 0 -6.3 29.664 0 0 0 0 29.664 0 4.3 0 48\4-4cylo.dat
+1 16 0 0 -2 4.944 0 0 0 0 4.944 0 1 0 48\4-4ring6.dat
+0 BFC INVERTNEXT
+1 16 0 0 -6.3 34.608 0 0 0 0 34.608 0 4.3 0 48\4-4cylo.dat
+1 16 0 0 -6.3 2.884 0 0 0 0 2.884 0 1 0 48\4-4ring12.dat
+
+0 // spokes
+1 16 58 0 0 0 -18.5 0 6.25 0 0 0 0 6.25 4-4cylc.dat
+1 16 39.5 0 0 0 1 0 6.25 0 0 0 0 6.25 4-4disc.dat
+1 16 39.5 0 0 0 -3 0 4.8 0 0 0 0 4.8 4-4cylo.dat
+1 16 27 0 0 0 -20 0 4.8 0 0 0 0 4.8 4-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4658s02.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\4658s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\4658s02.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\4658s02.dat
+2 24 0 9.6 0 0 9.4 -.502892
+2 24 0 9.4 .502892 0 9.6 0

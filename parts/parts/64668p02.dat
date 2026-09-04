@@ -1,0 +1,19 @@
+0 Duplo Train Base  2 x  6 with 2 Axles with Light Bluish Grey 28 mm Wheels and Black Movable Hitch
+0 Name: 64668p02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS BrickLink 4559c02, Colour Combination, Rebrickable 4559c02, Set 3301
+0 !KEYWORDS Set 5659, Thomas and Friends, Troublesome Truck
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4560.dat
+1 0 0 23 54.5 -1 0 0 0 1 0 0 0 -1 u9094.dat
+
+1 71 0 37 72 1 0 0 0 1 0 0 0 1 70461c01.dat
+1 71 0 37 -72 1 0 0 0 1 0 0 0 1 70461c01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4559.dat

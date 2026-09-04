@@ -1,0 +1,16 @@
+0 Sticker  1.0 x  1.3 with Scuderia Ferrari Logo on White Background Right
+0 Name: 6177954h.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 75879stk01, Brickowl 956194, Rebrickable 30895, Set 75879
+0 !KEYWORDS SF16-H, Speed Champions
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6177954hs01.dat
+1 15 16 -.25 -1.4 .32 0 0 0 1 0 0 0 .32 s\6177954hs02.dat

@@ -1,0 +1,16 @@
+0 ~Sticker  0.8 x  1.6 with Chevrolet Logos and Light Blue Quads on Black Background Right -  Fourth Face
+0 Name: s\6253679ps04.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Faces
+0 // Black faces
+4 0 1.1578 -.25 -7.061 3.2 -.25 -4.9536 2.1883 -.25 .0128 -5.5029 -.25 .0128
+3 0 1.1578 -.25 -7.061 4.7806 -.25 -7.061 3.2 -.25 -4.9536
+4 0 5.3774 -.25 -7.061 8 -.25 -7.061 8 -.25 .0128 3.9365 -.25 .0128
+0 // Light blue faces
+3 322 5.3774 -.25 -7.061 3.9365 -.25 .0128 2.1883 -.25 .0128
+4 322 5.3774 -.25 -7.061 2.1883 -.25 .0128 3.2 -.25 -4.9536 4.7806 -.25 -7.061

@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with SW Clone Trooper Armour with Orange Markings (Clone Wars 2008) Pattern
+0 Name: 76382pz7.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS 212th Legion, Armor, Bricklink 973pb0503c01, Commander Cody
+0 !KEYWORDS Mini Upper Part No 1401, Rebrickable 973c34h03pr1401, republic army
+0 !KEYWORDS Set 7676, Set 7959, Star Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pz7.dat
+1 25 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 25 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 0 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 0 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

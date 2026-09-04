@@ -1,0 +1,22 @@
+0 Minifig Hips and Legs with Golden Samurai Leg Armour and Blue Hips Pattern
+0 Name: 73200bpn8.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpx3.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Armor, Bricklink 970c11pb02, BrickOwl 294824, Feudal Japan, Gi-Dan
+0 !KEYWORDS Mini Lower Part No 15, Ninja, Rebrickable 970c03pr0005, Set 1186
+0 !KEYWORDS Set 3018, Set 4805, Set 6013, Set 6083, set 6089, Set 6093, shogun
+
+0 !CMDLINE -c0
+
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpn8.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpn8.dat

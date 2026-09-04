@@ -1,0 +1,21 @@
+0 Minifig Torso with Gold Circuitry and Yellow Roboforce Logo Pattern
+0 Name: 973ptl.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bolts, Bricklink 973pb0088, Brickowl 184176-53, Chevron, Chip Nebula
+0 !KEYWORDS Robo Force, set 2152, Set 2154, Space, Wires
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973ptls01.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\973ptls02.dat

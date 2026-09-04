@@ -1,0 +1,17 @@
+0 Sticker  1.8 x  1.8 Round with Hexagon and Circles
+0 Name: 6146063a.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 75101stk01a, Brickowl 917224, Rebrickable 21529
+
+1 16 0 0 0 18 0 0 0 -0.25 0 0 0 18 48\4-4cylc3.dat
+
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6146063as01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\6146063as01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 -1 s\6146063as01.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 -1 s\6146063as01.dat

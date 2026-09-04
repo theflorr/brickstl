@@ -1,0 +1,23 @@
+0 Minifig Ninja Turtle Shell with Dark Brown Horizontal and Diagonal Belts Pattern
+0 Name: 12610p01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS 2012, Bricklink 12610pb01, Don, Donatello, Donnie, Juniors, Leo
+0 !KEYWORDS Leonardo, Nickelodeon, Rebrickable 12610pr0001, Set 10669, Set 79101
+0 !KEYWORDS Set 79103, Set 79104, Set 79105, Set 79118, Set 79120, Set 79121
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT
+
+0 !PREVIEW 16 0 0 0 -1 0 0 0 1 0 0 0 -1
+
+0 // Shell
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12610s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12610s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12610s03.dat
+
+0 // Belt
+1 308 0 0 0 1 0 0 0 1 0 0 0 1 s\12610s02.dat

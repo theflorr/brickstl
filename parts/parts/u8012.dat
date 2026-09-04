@@ -1,0 +1,29 @@
+0 Mursten Door  1 x  2 x  3 Left
+0 Name: u8012.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+0 !KEYWORDS Automatic Binding Brick, BrickLink 32c, Lego Mursten
+0 !KEYWORDS Rebrickable 32c
+
+0 !HISTORY 2013-03-16 [cwdee] Corrected overlap on top surface
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2021-05-10 [Plastikean] Subfiled tabs in a more accurate shape
+0 !HISTORY 2024-12-01 [Plastikean] Made BFC CCW compliant
+0 !HISTORY 2024-12-19 [Holly-Wood] Subfiled, used more prims
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+0 // Tabs
+1 16 20 36 10 1 0 0 0 1 0 0 0 1 s\u8012s01.dat
+1 16 -20 11 10 -1 0 0 0 1 0 0 0 1 s\u8012s01.dat
+1 16 -20 61 10 -1 0 0 0 1 0 0 0 1 s\u8012s01.dat
+
+0 // Door
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u8012s02.dat
+
+0 // Bar
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u8012s03.dat

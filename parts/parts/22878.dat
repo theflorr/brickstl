@@ -1,0 +1,35 @@
+0 Keychain Minifig Head - Hollow Stud
+0 Name: 22878.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP complete keychain minifig (without hair/headgear)
+0 !HELP 1 16 0 56 0 1 0 0 0 1 0 0 0 1 18849.dat
+0 !HELP 1 16 0 68 0 1 0 0 0 1 0 0 0 1 3816c.dat
+0 !HELP 1 16 0 68 0 1 0 0 0 1 0 0 0 1 3817c.dat
+0 !HELP 1 16 0 24 0 1 0 0 0 1 0 0 0 1 19993.dat
+0 !HELP 1 16 -15.552 33 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 !HELP 1 16 15.552 33 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 !HELP 1 14 -23.6904 50.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+0 !HELP 1 14 23.6904 50.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+0 !HELP 1 14 0 0 0 1 0 0 0 1 0 0 0 1 22878.dat
+0 !HELP 1 494 0 -4 0 1 0 0 0 1 0 0 0 1 27055.dat
+0 !HELP for headgear, place it and move the chain 27055 upwards to avoid collisions
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+
+0 !HISTORY 2025-08-03 [Blechtaler] made from 3626b.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\22878s01.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 4-4cyli.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 8 t04o6250.dat

@@ -1,0 +1,16 @@
+0 Wedge  4 x  4 Triple with B-wing Engine Exhaust Vent Sticker
+0 Name: 48933d03.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS B-Wing, Bricklink 48933pb025, set 75050, Star Wars Episode 4/5/6
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48933.dat
+
+0 // Sticker
+1 16 0 10 -40 0 0 -1 -0.316 0.949 0 0.949 0.316 0 6074047b.dat

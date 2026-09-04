@@ -1,0 +1,17 @@
+0 Minifig Torso with Arms and Hands with Spacesuit with Silver Belt and Chest Piece with Space Shuttle Logo on Front and Back Pattern
+0 Name: 76382p8s.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS astronaut, Bricklink 973pb2018c01, City, Rebrickable 973c27h12pr2992
+0 !KEYWORDS set 30315, set 31066, set 60077, set 60080, Space Port 2015
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p8s.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 72 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 72 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

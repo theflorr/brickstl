@@ -1,0 +1,23 @@
+0 Sticker  0.8 x  2.0 with Black Line on Lime Background
+0 Name: 6221655aa.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 3.0, 911 RSR, Bricklink 75888stk01, Brickowl 925236, Porsche
+0 !KEYWORDS Rebrickable 37801, Set 75888, Speed Champions, Turbo
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x020.dat
+0 // Subparts
+1 16 13.9773 0 0 0 0 1 0 1 0 -1 0 0 s\6221655aas01.dat
+1 16 -9.7812 0 0 0 0 1 0 1 0 -1 0 0 s\6221655aas02.dat
+0 // Complementary faces
+0 // Black face
+4 0 13.9276 -.25 4.5 -9.7566 -.25 4.5 -9.7566 -.25 -4.5 13.9276 -.25 -4.5
+0 // Green faces
+4 27 13.9276 -.25 4.5 13.9276 -.25 8 -9.7566 -.25 8 -9.7566 -.25 4.5
+4 27 13.9276 -.25 -4.5 -9.7566 -.25 -4.5 -9.7566 -.25 -8 13.9276 -.25 -8

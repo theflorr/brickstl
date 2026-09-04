@@ -1,0 +1,12 @@
+0 =Dish 10 x 10 Inverted with Hollow Studs
+0 Name: 19725.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS BrickLink 50990a, Rebrickable 50990a
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 50990a.dat

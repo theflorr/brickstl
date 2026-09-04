@@ -1,0 +1,16 @@
+0 ~Duplo Brickrunner Car Wheel 6.2 x 42 Thin
+0 Name: 31204.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31204s01.dat
+
+1 16 0 0 0 3.25 0 0 0 0 3.25 0 1 0 4-4ring1.dat
+1 16 0 0 0 6.5 0 0 0 0 6.5 0 1 0 4-4ring1.dat
+1 16 0 0 0 6.5 0 0 0 0 6.5 0 1 0 4-4ring2.dat
+1 16 0 0 0 19.5 0 0 0 0 19.5 0 1 0 48\4-4aring.dat

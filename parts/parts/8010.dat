@@ -1,0 +1,18 @@
+0 Panel  5 x  5 x  3.333 Dome Quarter
+0 Name: 8010.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Panel
+0 !KEYWORDS Brickowl 1030227
+
+0 !HISTORY 2026-05-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-05-06 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\8010s01.dat
+
+1 16 -10 80 10 1 0 0 0 -1 0 0 0 -1 s\76776s03.dat
+1 16 -10 80 10 0 0 1 0 -1 0 -1 0 0 s\76776s03.dat

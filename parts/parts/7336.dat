@@ -1,0 +1,21 @@
+0 Rubber Belt Round 42 /  1.6
+0 Name: 7336.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Brickowl 1059888
+
+0 // Nomenclature: Rubber Belt [Round|Square] belt_diameter_(mm) / belt_thickness_(mm)
+
+1 16 0 0 0 0 0 52 -52 0 0 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 0 0 -52 -52 0 0 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 52 0 0 0 0 52 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 52 0 0 0 0 -52 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 0 0 -52 52 0 0 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 0 0 52 52 0 0 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 -52 0 0 0 0 -52 0 -52 0 48\tm08q0288.dat
+1 16 0 0 0 -52 0 0 0 0 52 0 -52 0 48\tm08q0288.dat

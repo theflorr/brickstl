@@ -1,0 +1,40 @@
+0 Wheel Rim 11 x 11 with Stud and Pinhole
+0 Name: 5806.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS Brickowl 1092908
+
+0 !HISTORY 2026-06-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-07-05 [Blechtaler] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5806s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\5806s01.dat
+1 16 0 0 6 1 0 0 0 0 1 0 -1 0 connhol3.dat
+1 16 0 0 6 9 0 0 0 0 9 0 10 0 4-4cylo.dat
+1 16 0 0 -2 1 0 0 0 0 1 0 1 0 2-4ring6.dat
+0 BFC INVERTNEXT
+1 16 0 0 -4 7 0 0 0 0 7 0 2 0 2-4cylo.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 -1 0 2-4ring6.dat
+1 16 0 0 -4 2 0 0 0 0 2 0 -1 0 2-4ring2.dat
+1 16 0 0 -4 4 0 0 0 0 -4 0 -1 0 2-4ndis.dat
+1 16 0 0 -4 4 0 0 0 0 4 0 1 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -6 4 0 0 0 0 4 0 2 0 4-4cyli.dat
+1 16 0 0 -6 1 0 0 0 0 1 0 1 0 stud2a.dat
+1 16 0 0 -6 6 0 0 0 0 6 0 1 0 4-4edge.dat
+1 16 0 0 -6 3 0 0 0 0 3 0 1 0 4-4ring2.dat
+1 16 0 0 -6 2.25 0 0 0 0 2.25 0 1 0 4-4ring4.dat
+0 BFC INVERTNEXT
+1 16 0 0 -14 11.25 0 0 0 0 11.25 0 8 0 4-4cylo.dat
+1 16 0 0 -14 2.25 0 0 0 0 2.25 0 1 0 4-4ring5.dat
+1 16 0 0 -14 .5 0 0 0 0 .5 0 1 0 4-4ring27.dat
+1 16 0 0 -14 14 0 0 0 0 14 0 1 0 4-4edge.dat
+1 16 0 0 -14 14 0 0 0 0 14 0 10 0 4-4cyli.dat
+1 16 0 0 3 14 0 0 0 0 14 0 11 0 4-4cylo.dat
+5 24 0 -11.25 6 0 -11.25 14 4.273 -10.4 14 -4.273 -10.4 14
+5 24 0 11.25 6 0 11.25 14 4.273 10.4 14 -4.273 10.4 14

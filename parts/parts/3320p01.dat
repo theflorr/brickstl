@@ -1,0 +1,19 @@
+0 Minifig Headdress Batman with White Eyes
+0 Name: 3320p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 3320pb01, Brickowl 301803, Brickset 3320
+0 !KEYWORDS Colour Combination, Rebrickable 3320pat0001, Set 76252, Set 76264
+0 !KEYWORDS Set 76300
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3320s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3320s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3320s03.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\3320s04.dat

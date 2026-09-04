@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with Gold Circuitry and Red Roboforce Logo Pattern
+0 Name: 76382ptm.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bolts, Bricklink 973pb0076c01, BrickOwl 764932, Chevron
+0 !KEYWORDS Mini Upper Part No 264, Rebrickable 973c17h22pr0264, Robo Force
+0 !KEYWORDS Set 2151, Set 2153, Space, Wires
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973ptm.dat
+1 7 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 7 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 4 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 4 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

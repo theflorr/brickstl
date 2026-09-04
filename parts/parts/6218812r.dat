@@ -1,0 +1,18 @@
+0 Sticker  0.8 x  4.0 with White Triangles on Blue Background
+0 Name: 6218812r.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 2, 2017, BrickLink 75885stk01, Brickowl 4802, Fiesta, Ford, M-Sport
+0 !KEYWORDS Martin Järveoja, Ott Tänak, Rebrickable 37575, Set 75885
+0 !KEYWORDS Speed Champions, WRC
+
+1 16 -20.7523 0 0 0 0 -1 0 1 0 1 0 0 s\6218812rs01.dat
+1 16 -20.7217 0 0 0 0 -1 0 1 0 1 0 0 s\6218812rs02.dat
+1 16 20.9783 0 0 0 0 -1 0 1 0 1 0 0 s\6218812rs03.dat
+1 16 21.0097 0 0 0 0 -1 0 1 0 1 0 0 s\6218812rs04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x040.dat

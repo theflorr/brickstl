@@ -1,0 +1,18 @@
+0 Minifig Hair Short Layered Mop Top with Magenta Streaks Pattern
+0 Name: 2003p02.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 2003pb03, Dreamzzz, MadTeo, Rebrickable 2003pr0002
+0 !KEYWORDS Set 71483, Set 71485, Set 71486
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2003s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2003p01s01.dat
+0 // Red Streak Small
+1 26 0 0 0 1 0 0 0 1 0 0 0 1 s\2003p01s02.dat
+0 // Lime Streak Large
+1 26 0 0 0 1 0 0 0 1 0 0 0 1 s\2003p01s03.dat

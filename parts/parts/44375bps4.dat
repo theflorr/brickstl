@@ -1,0 +1,16 @@
+0 Dish  6 x  6 Inverted with Solid Studs with SW Sith Infiltrator Pattern
+0 Name: 44375bps4.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Dish
+0 !KEYWORDS Bricklink 44375bpb06, Brickowl 514561, Brickset 60487
+0 !KEYWORDS Rebrickable 44375bpr0005, Set 7961
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\44375p03s01.dat

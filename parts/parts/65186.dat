@@ -1,0 +1,31 @@
+0 Car Base  4 x 10 x 1.333 with  4 x  2 Recessed Center and 4 Pin Holes
+0 Name: 65186.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Car
+0 !KEYWORDS Dragon body, Vehicle
+
+0 !HISTORY 2021-04-27 [Sirio] File preparation for LDraw Parts Tracker
+0 !HISTORY 2021-04-29 {LEGO/Unity Microgame} Original part shape
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65186s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\65186s01.dat
+0 // Primitives
+1 16 -30 0 0 0 0 -1 0 1 0 1 0 0 stug2-1x2.dat
+1 16 30 0 0 0 0 -1 0 1 0 1 0 0 stug2-1x2.dat
+1 16 -10 24 0 0 0 -1 0 1 0 1 0 0 stug-1x4.dat
+1 16 10 24 0 0 0 -1 0 1 0 1 0 0 stug-1x4.dat
+1 16 0 28 0 1 0 0 0 -3 0 0 0 1 stud4a.dat
+1 16 0 28 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+1 16 0 24 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 24 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 24 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
+1 16 0 28 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 -20 28 0 0 0 1 0 -3 0 1 0 0 2-4stud4.dat
+1 16 20 28 0 0 0 -1 0 -3 0 1 0 0 2-4stud4.dat

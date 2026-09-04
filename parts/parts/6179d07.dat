@@ -1,0 +1,17 @@
+0 Plate  4 x  4 with 4 Studs on One Edge with Orange Surface Sticker
+0 Name: 6179d07.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 // 0 !KEYWORDS 6179pb125, B-Wing, set 75050, Star Wars Episode 4/5/6
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6179.dat
+
+0 // Sticker
+1 16 0 0 -10 1 0 0 0 1 0 0 0 1 6074047a.dat

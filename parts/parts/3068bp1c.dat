@@ -1,0 +1,16 @@
+0 Tile  2 x  2 with White Viking Skull Pattern
+0 Name: 3068bp1c.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Bricklink 3068pb2679, Brickowl 169451, Brickset 114234
+0 !KEYWORDS How To Train Your Dragon, Rebrickable 3068bpr9311, Set 10375
+0 !KEYWORDS Toothless
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp1cs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3068bp1cs01.dat

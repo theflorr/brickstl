@@ -1,0 +1,17 @@
+0 ~Mursten Glass with LEGO Logo for Window  1 x  6 x  4 Panorama
+0 Name: u8030.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Window
+0 !KEYWORDS Automatic Binding Brick, Lego Mursten
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2023-10-03 [Plastikean] Subparted logo
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+1 16 0 0 0.5 56 0 0 0 0 -36 0 0.5 0 box.dat
+1 16 0 -14 0 1 0 0 0 0 -1 0 1 0 logo-lego-6.dat

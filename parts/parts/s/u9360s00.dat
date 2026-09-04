@@ -1,0 +1,23 @@
+0 ~Electric Bluetooth Motor Body Top without Patternable Area
+0 Name: s\u9360s00.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 20 0 0 -1 0 1 0 1 0 0 stug-4x4.dat
+1 16 20 0 -40 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
+1 16 -20 0 -40 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
+1 16 50 24 20 0 0 -1 0 1 0 1 0 0 stug2-1x4.dat
+1 16 -50 24 20 0 0 -1 0 1 0 1 0 0 stug2-1x4.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9360s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9360s01.dat
+2 24 30 0 60 -30 0 60
+2 24 -30 0 -60 30 0 -60
+4 16 -30 0 60 30 0 60 30 24 60 -30 24 60
+4 16 -17 31 60 -30 24 60 30 24 60 17 31 60
+2 24 -10 31 60 10 31 60
+1 16 0 32 58.3 -10 0 0 0 -1 0 0 0 .5 rect2p.dat
+4 16 -10 31 60 10 31 60 10 32 58.8 -10 32 58.8
+4 16 -30 0 -60 -28 6 -60 28 6 -60 30 0 -60

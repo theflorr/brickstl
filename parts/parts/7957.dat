@@ -1,0 +1,38 @@
+0 Car Mudguard  4 x  3 x  1.667 Conical
+0 Name: 7957.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Car
+0 !KEYWORDS Brickowl 1628169
+
+0 !HISTORY 2026-06-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-06-01 [MagFors] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7957s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7957s01.dat
+0 BFC INVERTNEXT
+1 16 0 8 10 -16 0 0 0 -5.25 0 0 0 6 box5.dat
+1 16 0 2.75 10 1 0 0 0 -1 0 0 0 1 stud3.dat
+1 16 0 8 0 -20 0 0 0 -8 0 0 0 20 box4-1.dat
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+4 16 20 8 20 16 8 16 -16 8 16 -20 8 20
+4 16 17.625 8 0 -17.625 8 0 -16 8 4 16 8 4
+4 16 17.625 8 0 16.25 7.125 0 -16.25 7.125 0 -17.625 8 0
+4 16 5.731 2.75 0 2.82 2.404 0 -2.82 2.404 0 -5.731 2.75 0
+3 16 2.82 2.404 0 0 2.224 0 -2.82 2.404 0
+4 16 -5.731 2.75 0 -16.25 7.125 0 16.25 7.125 0 5.731 2.75 0
+2 24 17.625 8 0 -17.625 8 0
+5 24 0 -5.483 -21.937 0 -1.28 -33.7 -5.055 -5.137 -21.937 5.055 -5.137 -21.937
+5 24 0 .72 -20.437 0 .72 -21.937 4.255 1.011 -20.437 -4.255 1.011 -20.437
+5 24 0 2.224 0 0 2.212 -20.438 -2.82 2.404 0 2.82 2.404 0
+
+0 // Printable surface
+1 16 0 32 -22.2 -5 0 0 0 0 -5 0 -14 0 48\1-4con7.dat
+1 16 0 32 -22.2 5 0 0 0 0 -5 0 -14 0 48\1-4con7.dat

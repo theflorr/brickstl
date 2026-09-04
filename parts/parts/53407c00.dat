@@ -1,0 +1,13 @@
+0 Train Track 6 Studs Wide Switch Point Right with Underside Cover Plate
+0 Name: 53407c00.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+0 !KEYWORDS BrickLink 53407, Rebrickable 53406
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 53407.dat
+1 16 -200 0 0 1 0 0 0 1 0 0 0 1 2939.dat

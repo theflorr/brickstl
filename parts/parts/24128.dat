@@ -1,0 +1,17 @@
+0 ~Minifig Body with Armour and Studs on Back
+0 Name: 24128.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Axl, Giant, Midfig, Nexo Knights
+
+0 !HISTORY 2025-06-03 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-17 [notmaster] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24128s00.dat
+4 16 -12.679 -8.871 -22.419 -12.695 5.674 -22.419 12.695 5.674 -22.419 12.679 -8.871 -22.419
+3 16 -12.695 5.674 -22.419 0 19.492 -22.419 12.695 5.674 -22.419

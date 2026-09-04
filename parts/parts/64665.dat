@@ -1,0 +1,22 @@
+0 Duplo Train Steam Engine Base  4 x  6 with Pushrod and 3 Axles
+0 Name: 64665.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS Bricklink 4580c01, Rebrickable 4580c01
+
+1 16 0 37 85 1 0 0 0 1 0 0 0 1 70461c02.dat
+1 16 0 42 14 1 0 0 0 1 0 0 0 1 70461c03.dat
+1 16 0 42 -52 1 0 0 0 1 0 0 0 1 70461c03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4580.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4564.dat
+
+1 16 -64 28.6849 70.5978 -1 0 0 0 -.99756 .06976 0 .06976 .99756 4551a.dat
+1 16 64 53.6302 85 1 0 0 0 .97815 .20791 0 -.20791 .97815 4551a.dat
+
+1 16 0 21 54.5 -1 0 0 0 1 0 0 0 -1 u9094.dat

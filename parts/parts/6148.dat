@@ -1,0 +1,58 @@
+0 Plant Palm Leaf Small
+0 Name: 6148.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2008-12-22 [Philo] Copied improved underside studs from 2518
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2022-12-28 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-12-28 [GeraldLasser] Complete Rework, File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+0 // Attachment
+1 16 -10 0 0 0 0 -10 0 3 0 10 0 0 2-4cylo.dat
+1 16 -10 0 0 0 0 -2 0 1 0 2 0 0 2-4ring3.dat
+1 16 -10 0 0 0 0 -2 0 1 0 2 0 0 2-4ring4.dat
+1 16 -10 3 0 0 0 -2 0 -1 0 2 0 0 2-4ring4.dat
+1 16 -10 0 0 0 0 6 0 1 0 6 0 0 2-4ndis.dat
+1 16 -10 3 0 0 0 8 0 -1 0 8 0 0 2-4ndis.dat
+
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 -10 3 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
+1 16 -10 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 -10 0 0 4 0 0 0 3 0 0 0 4 4-4cyli.dat
+1 16 -10 3 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 -10 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 10 3 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
+1 16 10 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 10 0 0 4 0 0 0 3 0 0 0 4 4-4cyli.dat
+1 16 10 3 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 10 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+
+1 16 10 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 10 3 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+
+1 16 22 0 0 5 0 0 0 1 0 0 0 5 4-4edge.dat
+1 16 22 0 0 0 0 -5 0 1 0 5 0 0 2-4ndis.dat
+0 BFC INVERTNEXT
+1 16 22 0 0 5 0 0 0 -2 0 0 0 5 bump5000.dat
+
+0 // Anti-Studs on Leave
+1 16 50 9.6 0 1 0 0 0 -3.6 0 0 0 1 stud4a.dat
+1 16 70 15.2 0 1 0 0 0 -2.2 0 0 0 1 stud4a.dat
+
+0 // Leaves / Joining Geometry
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6148s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\6148s01.dat
+
+2 24 30 3 0 139.8 32.4 0
+2 24 30 0 0 139.8 29.4 0
+5 24 139.8 29.4 0 139.8 32.4 0 139.7 32.4722 .6 139.7 32.4722 -.6

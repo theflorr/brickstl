@@ -1,0 +1,19 @@
+0 Animal Shark Hammerhead Head
+0 Name: 67229.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place on 14518 at Y=-28, Z=-27.4
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+
+0 !HISTORY 2024-01-06 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-01-07 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67229s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67229s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67229s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67229s02.dat

@@ -1,0 +1,19 @@
+0 Minifig Hair Female Mid-Length with Side Part and Medium Azure and Dark Blue Top Pattern
+0 Name: 18858p02.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 18858pb02, Brickowl 876863, Brickset 27074
+0 !KEYWORDS Rebrickable 18858pr0002, Sabine Wren, Set 75150, Set 75184
+0 !KEYWORDS Star Wars Rebels
+
+0 // Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18858s01.dat
+0 // Outside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18858p02s01.dat
+0 // Conditional lines
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18858s03.dat

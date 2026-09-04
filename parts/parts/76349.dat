@@ -1,0 +1,15 @@
+0 ~Duplo Train Base  8 x  4
+0 Name: 76349.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 31300.dat
+1 16 0 23 94.5 -1 0 0 0 1 0 0 0 -1 19795.dat
+1 16 0 37 112 1 0 0 0 1 0 0 0 1 70461c01.dat
+1 16 0 37 -112 1 0 0 0 1 0 0 0 1 70461c01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6444.dat

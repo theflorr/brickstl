@@ -1,0 +1,53 @@
+0 Technic Flex-System Hose  7L (140LDU) - Curved R30
+0 Name: 76289-f1.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP To use this part:
+0 !HELP Create a group with 24333 and 76289-f1 in this positions
+0 !HELP 1 16 -30 0 0 0 0 1 1 0 0 0 1 0 23443.dat
+0 !HELP 1 16 30 0 0 0 0 1 1 0 0 0 1 0 23443.dat
+0 !HELP 1 16 0 0 -20 1 0 0 0 1 0 0 0 1 76289-f1.dat
+0 !HELP Then rotate the group around the X axis (centre of Bar Tube) of following angles
+0 !HELP for set 76898: 6.584 degrees
+0 !HELP for set 76909: 9.268 degrees
+0 !HELP for set 76919 and 76925: 12.067 degrees
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS F1, Formula 1, HALO, Set 76898, Set 76909, Set 76919, set 76925
+0 !KEYWORDS Speed Champions
+
+1 16 -30 0 0 1 0 0 0 0 -1 0 -22.8761 0 u9053.dat
+1 16 30 0 0 1 0 0 0 0 -1 0 -22.8761 0 u9053.dat
+0 // Inner tube
+0 BFC INVERTNEXT
+1 16 0 0 -22.8761 30 0 0 0 30 0 0 0 -30 t08q0667.dat
+0 BFC INVERTNEXT
+1 16 0 0 -22.8761 -30 0 0 0 30 0 0 0 -30 t08q0667.dat
+0 BFC INVERTNEXT
+1 16 0 0 -22.8761 0 0 -30 0 30 0 -30 0 0 t08q0667.dat
+0 BFC INVERTNEXT
+1 16 0 0 -22.8761 0 0 30 0 30 0 -30 0 0 t08q0667.dat
+0 // Outide tube
+1 16 0 0 -22.8761 30 0 0 0 30 0 0 0 -30 48\tm08i1333.dat
+1 16 0 0 -22.8761 30 0 0 0 -30 0 0 0 -30 48\tm08i1333.dat
+1 16 0 0 -22.8761 30 0 0 0 30 0 0 0 -30 48\tm08o1333.dat
+1 16 0 0 -22.8761 30 0 0 0 -30 0 0 0 -30 48\tm08o1333.dat
+
+1 16 0 0 -22.8761 -30 0 0 0 30 0 0 0 -30 48\tm08i1333.dat
+1 16 0 0 -22.8761 -30 0 0 0 -30 0 0 0 -30 48\tm08i1333.dat
+1 16 0 0 -22.8761 -30 0 0 0 30 0 0 0 -30 48\tm08o1333.dat
+1 16 0 0 -22.8761 -30 0 0 0 -30 0 0 0 -30 48\tm08o1333.dat
+
+1 16 0 0 -22.8761 0 0 -30 0 30 0 -30 0 0 48\tm08i1333.dat
+1 16 0 0 -22.8761 0 0 -30 0 -30 0 -30 0 0 48\tm08i1333.dat
+1 16 0 0 -22.8761 0 0 -30 0 30 0 -30 0 0 48\tm08o1333.dat
+1 16 0 0 -22.8761 0 0 -30 0 -30 0 -30 0 0 48\tm08o1333.dat
+
+1 16 0 0 -22.8761 0 0 30 0 30 0 -30 0 0 48\tm08i1333.dat
+1 16 0 0 -22.8761 0 0 30 0 -30 0 -30 0 0 48\tm08i1333.dat
+1 16 0 0 -22.8761 0 0 30 0 30 0 -30 0 0 48\tm08o1333.dat
+1 16 0 0 -22.8761 0 0 30 0 -30 0 -30 0 0 48\tm08o1333.dat

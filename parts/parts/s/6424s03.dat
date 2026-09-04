@@ -1,0 +1,11 @@
+0 ~Duplo Stretcher - Bar End
+0 Name: s\6424s03.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 48 9.4 5.2 0 12.4 0 -12.4 0 0 0 0 -12.4 t08q5000.dat
+1 16 48 12.63261 -15.5671 6.2 0 0 0 4.384062 4.384062 0 -4.384062 4.384062 4-8sphe.dat
+1 16 48 12.63261 -15.5671 6.2 0 0 0 -12 -4.384062 0 12 -4.384062 4-4cyli.dat

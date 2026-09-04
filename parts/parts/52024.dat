@@ -1,0 +1,34 @@
+0 Duplo Building Wall  4 x  6 x  6 Curved Turret - Castle
+0 Name: 52024.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS Castle
+
+0 // surfaces shared between mirrored subparts
+4 16 -2 288 -44 2 288 -44 2 288 -76 -2 288 -76
+3 16 0 288 -80 -2 288 -76 2 288 -76
+4 16 2 288 -44 -2 288 -44 -40 288 -40 40 288 -40
+1 16 0 276 -40 40 0 0 0 0 12 0 -1 0 rect.dat
+4 16 -120 0 80 120 0 80 116 4 80 -116 4 80
+3 16 40 264 -40 -40 264 -40 0 264 -60
+1 16 0 0 60 120 0 0 0 1 0 0 0 20 rect3.dat
+1 16 0 4 60 116 0 0 0 -1 0 0 0 20 rect3.dat
+3 16 -20 0 -30 0 0 -80 20 0 -30
+4 16 -70 0 20 -20 0 -30 20 0 -30 70 0 20
+4 16 -70 0 20 70 0 20 120 0 40 -120 0 40
+3 16 0 4 -76 -116 4 40 116 4 40
+
+0 // halves
+1 16 0 264 0 1 0 0 0 1 0 0 0 1 s\52024s01.dat
+1 16 0 264 0 -1 0 0 0 1 0 0 0 1 s\52024s01.dat
+
+0 // studs on top
+1 16 0 0 60 1 0 0 0 2.75 0 0 0 -1 stug7-1x6.dat
+1 16 0 0 20 1 0 0 0 2.75 0 0 0 -1 stug7-1x6.dat
+1 16 0 0 -20 1 0 0 0 2.75 0 0 0 -1 stug7-1x4.dat
+1 16 0 0 -60 1 0 0 0 2.75 0 0 0 -1 stug7-1x2.dat

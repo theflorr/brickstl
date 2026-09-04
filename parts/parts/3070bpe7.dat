@@ -1,0 +1,15 @@
+0 Tile  1 x  1 with Stylized Bull Head Pattern
+0 Name: 3070bpe7.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Axl, BrickLink 3070pb108, Brickowl 47643, Brickset 23815
+0 !KEYWORDS Nexo Knights, Rebrickable 3070bpr0153, Set 70322, Set 70354
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bpe7s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3070bpe7s01.dat

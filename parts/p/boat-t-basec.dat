@@ -1,0 +1,15 @@
+0 Boatlock Top Base With Centre Cylinder
+0 Name: boat-t-basec.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 boat-t-base.dat
+
+1 16 0 0 0 14 0 0 0 -1 0 0 0 14 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 1 0 14 0 0 0 -1 0 0 0 14 4-4cyli.dat
+1 16 0 1 0 16 0 0 0 -1 0 0 0 16 4-4cyli.dat
+1 16 0 0 0 16 0 0 0 -1 0 0 0 16 4-4edge.dat

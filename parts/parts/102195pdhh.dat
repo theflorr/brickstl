@@ -1,0 +1,15 @@
+0 Minifig Torso with Thick Long Arms with Light Bluish Grey Circles and Access Port Pattern
+0 Name: 102195pdhh.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Baymax, Bricklink 973pb5168c01, CMF, Disney 100 Series
+0 !KEYWORDS Rebrickable 102195c27pr0001
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pdhh.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3322p01.dat
+1 16 -15.552 9 0 -.985 -.17 0 -.17 .985 0 0 0 1 3322p01.dat

@@ -1,0 +1,13 @@
+0 ~Axle Steel 10 x 107 LDU for Duplo Train
+0 Name: 70461.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS 5.35L
+
+1 16 -53.5 0 0 0 107 0 -5 0 0 0 0 5 4-4cylc.dat
+1 16 53.5 0 0 0 -1 0 -5 0 0 0 0 5 4-4disc.dat

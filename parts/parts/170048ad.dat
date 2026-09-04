@@ -1,0 +1,28 @@
+0 Sticker  0.9 x  0.9 with Shell Logo 1971
+0 Name: 170048ad.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink B6000stk01, Brickowl 822747, Gas Station, Idea Book
+0 !KEYWORDS legoland, Rebrickable 6000stk01, Royal Dutch Shell, Set 6000
+
+0 // Stickerback
+1 16 0 -.25 0 9 0 0 0 .25 0 0 0 9 box5-12.dat
+
+0 // Logo
+1 16 0 -.25 0 .6 0 0 0 1 0 0 0 .6 logo-shell-1971.dat
+1 15 0 -.25 0 .6 0 0 0 1 0 0 0 .6 logo-shell-1971-outerbox.dat
+
+0 // Border
+3 15 -6.9 -.25 -1.434 -9 -.25 -9 -6.9 -.25 -6.3
+3 15 6.9 -.25 -6.3 0 -.25 -6.3 9 -.25 -9
+3 15 9 -.25 9 6.9 -.25 6.3 6.9 -.25 -1.434
+3 15 -9 -.25 9 -6.9 -.25 6.3 0 -.25 6.3
+4 15 -6.9 -.25 -1.434 -6.9 -.25 6.3 -9 -.25 9 -9 -.25 -9
+4 15 0 -.25 -6.3 -6.9 -.25 -6.3 -9 -.25 -9 9 -.25 -9
+4 15 6.9 -.25 -1.434 6.9 -.25 -6.3 9 -.25 -9 9 -.25 9
+4 15 0 -.25 6.3 6.9 -.25 6.3 9 -.25 9 -9 -.25 9

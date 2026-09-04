@@ -1,0 +1,23 @@
+0 Sticker  3.0 x  0.8 with Black Number 22 in White Disc on Red Background
+0 Name: 6221805q.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 1962, 1979, 24h, 250, 312, 488, BrickLink 75889stk01
+0 !KEYWORDS Brickowl 152169, Equipe nationale belge, Ferrari, Garage
+0 !KEYWORDS Gilles Villeneuve, GTE, GTO, Jean "Beurly" Blaton, Le Mans
+0 !KEYWORDS Léon "Eldé" Dernier, Rebrickable 37841, Set 75889, Speed Champions
+0 !KEYWORDS T4, Ultimate
+
+1 16 0 0 21.1878 1 0 0 0 1 0 0 0 1 s\6221805qs01.dat
+1 16 0 0 -.7882 1 0 0 0 1 0 0 0 1 s\6221805qs02.dat
+1 16 0 0 -.8162 1 0 0 0 1 0 0 0 1 s\6221805qs03.dat
+1 16 0 0 -22.0335 1 0 0 0 1 0 0 0 1 s\6221805qs04.dat
+1 16 0 0 -22.0641 1 0 0 0 1 0 0 0 1 s\6221805qs05.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\stickerback008x030.dat
+0 // Red face
+4 4 8 -.25 21.1746 -8 -.25 21.1746 -8 -.25 10.1228 8 -.25 10.1228

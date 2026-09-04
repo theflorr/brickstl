@@ -1,0 +1,13 @@
+0 =Minifig Hair Mid-Length Wavy with Centre Part
+0 Name: 86398.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS BrickLink 90396, Brickowl 957708, Rebrickable 90396
+
+0 // This number is an alias of 90396
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 90396.dat

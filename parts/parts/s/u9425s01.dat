@@ -1,0 +1,26 @@
+0 ~Electric Bluetooth Double Motor Body Front Half
+0 Name: s\u9425s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 50 14 10 0 0 10 0 -24 0 -10 0 0 1-4cylo.dat
+1 16 20 0 10 1 0 0 0 0 1 0 1 0 connhol3.dat
+0 BFC INVERTNEXT
+1 16 20 0 20 8 0 0 0 0 8 0 -2 0 4-4cylc.dat
+1 16 20 0 18 2 0 0 0 0 2 0 -1 0 4-4ring3.dat
+1 16 20 0 0 9 0 0 0 0 9 0 1 0 4-4ndis.dat
+1 16 0 0 0 0 0 9 -9 0 0 0 1 0 2-4ndis.dat
+1 16 60 0 40 0 -1 0 0 0 -28 -28 0 0 48\1-24edge.dat
+1 16 60 0 40 0 -1 0 0 0 -28 -28 0 0 48\1-24tndis.dat
+1 16 60 0 40 0 -1 0 0 0 28 -28 0 0 48\1-12edge.dat
+1 16 60 0 40 0 -1 0 0 0 28 -28 0 0 48\1-12tndis.dat
+2 24 60 -7.25 12.95 60 -10 13.89
+2 24 60 14 10 60 14 15.75
+2 24 60 -10 10 60 -10 13.89
+4 16 60 -10 13.89 60 -10 10 60 -7.25 12 60 -7.25 12.95
+4 16 60 -7.2464 12 60 -10 10 60 14 10 60 14 12
+4 16 50 -10 0 29 -9 0 29 9 0 50 14 0
+4 16 11 -9 0 9 -9 0 9 9 0 11 9 0

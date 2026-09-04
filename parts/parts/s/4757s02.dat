@@ -1,0 +1,18 @@
+0 ~Electric Plate  2 x  4 with Contacts - Detail
+0 Name: s\4757s02.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 16 -10 4 -4 -10 4 4 0 4 8 0 4 -8
+4 16 0 4 -8 0 4 8 10 4 4 10 4 -4
+2 24 -10 4 -4 0 4 -8
+2 24 -10 4 4 0 4 8
+2 24 10 4 -4 0 4 -8
+2 24 10 4 4 0 4 8
+3 494 -4 4 -16 -10 4 -4 0 4 -8
+4 494 -4 4 -16 0 4 -8 10 4 -4 16 4 -16
+4 494 4 4 16 0 4 8 -10 4 4 -16 4 16
+3 494 4 4 16 10 4 4 0 4 8

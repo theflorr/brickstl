@@ -1,0 +1,20 @@
+0 Minifig Torso with Yellow Dual Mould Arms and Hands Pattern
+0 Name: 16360p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973c064, Rebrickable 973g22c01h01, Set 71006, Set 71016
+0 !KEYWORDS Set 71211
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+0 !HISTORY 2025-03-16 [MagFors] Update description and keywords
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 16000p01.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 16001p01.dat
+1 14 -23.6904 26.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+1 14 23.6904 26.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat

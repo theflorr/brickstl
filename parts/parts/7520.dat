@@ -1,0 +1,21 @@
+0 Slope Brick Curved  3 x  2 x  1.667 with Cutout Left
+0 Name: 7520.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+0 !KEYWORDS Brickowl 82773
+
+0 !HISTORY 2026-02-27 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-02-27 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7520s01.dat
+
+0 // Outside
+3 16 -20 0 30 20 0 10 20 0 30
+1 16 -20 40 30 0 40 0 -40 0 0 0 -20 -40 48\3-16cyli.dat
+4 16 19.728 29.648 -28.5 20 24.692 -26.956 -20 24.692 -6.956 -20 29.648 -8.636
+4 16 19.728 29.648 -28.5 -20 29.648 -8.636 -20 34.78 -9.656 17.688 34.78 -28.5

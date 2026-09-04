@@ -1,0 +1,10 @@
+0 ~Electric Train 12V Transformer Type 1 Red Dot
+0 Name: s\u9602s02.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 -1 0 12.5 0 0 0 1 0 0 0 12.5 4-4cylc.dat
+1 16 0 -1 0 0 0 2 0 2 0 -2 0 0 logo5.dat

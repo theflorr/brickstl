@@ -1,0 +1,29 @@
+0 ~Electric Plug Triple Female Plug
+0 Name: u9606.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+1 16 0 0 0 4.5 0 0 0 0 4.5 0 14.5 0 4-4cyli.dat
+1 16 0 0 22 4.5 0 0 0 0 4.5 0 -2.5 0 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 3.5 0 0 0 0 3.5 0 14.5 0 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 0 22 3.5 0 0 0 0 3.5 0 -2.5 0 4-4cyli.dat
+1 16 0 0 0 0.5 0 0 0 0 0.5 0 1 0 4-4ring7.dat
+1 16 0 0 0 0.5 0 0 0 0 0.5 0 1 0 4-4ring8.dat
+1 16 0 0 22 0.5 0 0 0 0 0.5 0 -1 0 4-4ring7.dat
+1 16 0 0 22 0.5 0 0 0 0 0.5 0 -1 0 4-4ring8.dat
+1 16 0 0 0 4.5 0 0 0 0 4.5 0 1 0 4-4edge.dat
+1 16 0 0 22 4.5 0 0 0 0 4.5 0 1 0 4-4edge.dat
+1 16 0 0 0 3.5 0 0 0 0 3.5 0 1 0 4-4edge.dat
+1 16 0 0 22 3.5 0 0 0 0 3.5 0 1 0 4-4edge.dat
+
+1 16 0 0 17 1 0 0 0 1 0 0 0 1 s\u9606s01.dat
+1 16 0 0 17 1 0 0 0 1 0 0 0 -1 s\u9606s01.dat
+1 16 0 0 17 -1 0 0 0 1 0 0 0 1 s\u9606s01.dat
+1 16 0 0 17 -1 0 0 0 1 0 0 0 -1 s\u9606s01.dat

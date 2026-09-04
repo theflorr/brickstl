@@ -1,0 +1,16 @@
+0 Electric Bluetooth Remote Control with Coral Bottom and Direction Switches
+0 Name: 115901p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink 132531c01, Brickowl 1408797, Brickset 115901
+0 !KEYWORDS Colour Combination, Computer and AI, Education, Rebrickable 115901
+0 !KEYWORDS Science, Set 45622
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9527c01p01.dat
+1 353 40 10 0 0 0 -1 0 1 0 1 0 0 5583.dat
+1 353 -40 10 0 0 0 1 0 1 0 -1 0 0 5583.dat

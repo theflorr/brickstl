@@ -1,0 +1,22 @@
+0 Tap  1 x  2 with Light Grey Spout
+0 Name: 9044ap01.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tap
+0 !KEYWORDS Bathroom, BrickLink 69c01, Brickowl 479440, Brickset 9044
+0 !KEYWORDS Colour Combination, faucet, Homemaker, Kitchen, minifig
+0 !KEYWORDS Rebrickable 69c01, Set 10036, Set 230, set 373, Set 588, sink
+0 !KEYWORDS spigot, town, Trains
+
+0 !HISTORY 2016-09-22 [Holly-Wood] Moved origin of 3278.dat
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+0 !HISTORY 2026-07-09 [PTadmin] Renamed from 3496c01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3496.dat
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3278.dat

@@ -1,0 +1,33 @@
+0 Sticker 1.8 x 1.8 with Red Danger Stripes
+0 Name: 6071309b.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 79118stk01, BrickOwl 76909, Chevron, Karai Bike Escape
+0 !KEYWORDS Nickelodeon, Rebrickable 17443, Set 79118
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT
+
+0 // Sticker Back and Corners
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback018x018.dat
+1 16 16.5 -.25 -16.5 0 0 1.5 0 1 0 -1.5 0 0 1-4chrd.dat
+1 16 -16.5 -.25 16.5 0 0 -1.5 0 1 0 1.5 0 0 1-4chrd.dat
+
+0 // Colour 16 Main Colour
+4 16 -16.5 -.25 18 -18 -.25 16.5 -18 -.25 7.714 -7.714 -.25 18
+4 16 12.857 -.25 18 2.571 -.25 18 -18 -.25 -2.571 -18 -.25 -12.857
+4 16 18 -.25 12.857 -12.857 -.25 -18 -2.571 -.25 -18 18 -.25 2.571
+4 16 18 -.25 -7.714 7.714 -.25 -18 16.5 -.25 -18 18 -.25 -16.5
+
+0 // Colour 4 Red
+0 BFC NOCLIP
+1 4 -16.5 -.25 -16.5 -1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 4 16.5 -.25 16.5 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+4 4 12.857 -.25 18 -18 -.25 -12.857 -12.857 -.25 -18 18 -.25 12.857
+4 4 -18 -.25 7.714 -18 -.25 -2.571 2.571 -.25 18 -7.714 -.25 18
+4 4 18 -.25 2.571 -2.571 -.25 -18 7.714 -.25 -18 18 -.25 -7.714
+4 4 12.857 -.25 18 18 -.25 12.857 18 -.25 16.5 16.5 -.25 18
+4 4 -12.857 -.25 -18 -18 -.25 -12.857 -18 -.25 -16.5 -16.5 -.25 -18

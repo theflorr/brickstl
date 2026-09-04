@@ -1,0 +1,25 @@
+0 Minifig Hair Female Long Wavy, High Back Ponytail with Marbled Opal Trans Dark Pink Pattern
+0 Name: 1987p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 1987pb01, Brickowl 785733, Brickset 1987, Dreamzzz
+0 !KEYWORDS Izzie (Isabel Christina Garcia), Rebrickable 1987pat0001, Set 71453
+0 !KEYWORDS Set 71459, Set 71461, Set 71469, Set 71472, Set 71477, Set 71481
+0 !KEYWORDS Set 71486, Set 71488, Set 71490
+
+0 !HISTORY 2023-11-17 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-12-26 [LisaWinter] File preparation for LDraw Parts Tracker
+
+0 // Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1987s01.dat
+
+0 // Outside
+0 // Color 16
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1987p01s01.dat
+0 // Marbled
+1 364 0 0 0 1 0 0 0 1 0 0 0 1 s\1987p01s02.dat

@@ -1,0 +1,18 @@
+0 Mixed-Mode Torus Tube  1 x 0.0288 x 0.1250
+0 Name: 48\tm08q0288.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_48_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Major Radius: 104.0
+0 // Tube(Minor) Radius: 3.0
+0 // Segments(Sweep): 6/48 = 0.125
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0288 0 0 0 0 0.0288 0 1 0 4-4edge.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\tm08o0288.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\tm08i0288.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 48\tm08o0288.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 48\tm08i0288.dat

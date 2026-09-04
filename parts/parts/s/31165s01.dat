@@ -1,0 +1,19 @@
+0 ~Duplo Canoe  2 x  8 - Without Patterned Surface
+0 Name: s\31165s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // top common
+0 BFC INVERTNEXT
+1 16 0 -30 0 0 0 40 0 30 0 80 0 0 box3u10p.dat
+
+0 // bottom common
+0 BFC INVERTNEXT
+1 16 0 24 0 0 0 40 0 -20 0 76 0 0 box5.dat
+1 16 0 4 0 0 0 1 0 -4 0 1 0 0 stug8-1x3.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31165s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\31165s02.dat

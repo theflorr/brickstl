@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Light Nougat Hands with Tuxedo, White Shirt and Black Bow Tie Pattern
+0 Name: 76382p0019.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS BrickLink 973pb5311c02, Goblin, Harry Potter, Jules Vernes
+0 !KEYWORDS Mini Upper Part No 6792, Rebrickable 973c03h02pr6792, Ricbert
+0 !KEYWORDS Set 40598, Set 40690, set 76417, Wizarding World
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pch.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 .985 -.12 .12 .17 .696 -.696 0 .707 .707 3820.dat
+1 78 23.69 26.774 -9.898 .985 .12 -.12 -.17 .696 -.696 0 .707 .707 3820.dat

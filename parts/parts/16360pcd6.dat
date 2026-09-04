@@ -1,0 +1,17 @@
+0 Minifig Torso with Dual Mould Arms and Hands with Female Shirt with  2 Pockets, Tan Scarf and Black Belt with Gold Buckle Pattern
+0 Name: 16360pcd6.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 973pb1849c01, CMF, Mini Upper Part No 2837, Paleontologist
+0 !KEYWORDS Rebrickable 973g11c01h01pr2837, Series 13, set 71008
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pcd6.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 16000p01.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 16001p01.dat
+1 14 -23.6904 26.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+1 14 23.6904 26.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat

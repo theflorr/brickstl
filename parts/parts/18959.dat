@@ -1,0 +1,19 @@
+0 Minifig Hat Nemes
+0 Name: 18959.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2024-01-09 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18959s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18959s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18959s03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18959s04.dat

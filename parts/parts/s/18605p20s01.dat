@@ -1,0 +1,16 @@
+0 ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Red, Yellow and Blue Stripes Pattern - Quarter
+0 Name: s\18605p20s01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+3 1 -25.95 0 6.515 -28.6 0 0 -25.95 0 0
+4 14 -34.3 0 0 -29.5 0 0 -25.95 0 8.727 -25.95 0 12.4
+3 14 -27.492 0 13.877 -34.3 0 0 -25.95 0 12.4
+4 4 -34.74 0 4.57 -35.015 0 .377 -28.105 0 14.463 -33.85 0 9.07
+4 4 -32.37 0 13.41 -33.85 0 9.07 -28.105 0 14.463 -30.65 0 16.9
+4 0 -35.015 0 .377 -35.04 0 0 -34.3 0 0 -28.105 0 14.463
+3 0 -28.105 0 14.463 -34.3 0 0 -27.492 0 13.877
+4 0 -25.95 0 8.727 -29.5 0 0 -28.6 0 0 -25.95 0 6.515

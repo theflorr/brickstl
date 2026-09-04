@@ -1,0 +1,58 @@
+0 Boat Mast  3 x  2 x 11.667 Bowsprit
+0 Name: 30047b.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Boat
+0 !KEYWORDS Bricklink 30047, Brickowl 541134, Brickset 30047, clipper
+0 !KEYWORDS Imperial Armada, Imperial Guard, Pirates, Rebrickable 30047, ship
+0 !KEYWORDS Soldiers
+
+0 !HISTORY 2026-01-28 [Sirio] New version of the original work of Andy Westrate [westrate]
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30047bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30047bs01.dat
+0 // Primitives
+1 16 0 -280 20 0 0 1 0 1 0 -1 0 0 stud2a.dat
+1 16 0 -280 0 0 0 1 0 1 0 -1 0 0 stud2.dat
+1 16 0 -270 4 0 0 1 1 0 0 0 5 0 stud2a.dat
+1 16 0 -270 4 0 0 4 4 0 0 0 1 0 4-4edge.dat
+1 16 0 -250 4 0 0 1 1 0 0 0 5 0 stud2a.dat
+1 16 0 -250 4 0 0 4 4 0 0 0 1 0 4-4edge.dat
+1 16 0 -230 4 0 0 1 1 0 0 0 5 0 stud2a.dat
+1 16 0 -230 4 0 0 4 4 0 0 0 1 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 -219 -4 8 0 0 0 -59 0 0 0 8 box2-9p.dat
+1 16 0 -210 4 0 0 1 1 0 0 0 5 0 stud2a.dat
+1 16 0 -210 4 0 0 4 4 0 0 0 1 0 4-4edge.dat
+1 16 0 -190 4 0 0 1 1 0 0 0 5 0 stud2a.dat
+1 16 0 -190 4 0 0 4 4 0 0 0 1 0 4-4edge.dat
+1 16 0 -170 4 0 0 1 1 0 0 0 5 0 stud2a.dat
+1 16 0 -170 4 0 0 4 4 0 0 0 1 0 4-4edge.dat
+1 16 0 -158 -16.5 5.5 0 0 0 0 2 0 1 0 rect2p.dat
+0 BFC INVERTNEXT
+1 16 0 -40 12 6 0 0 0 0 36 0 -20 0 box3u8p.dat
+0 // Complementary faces
+3 16 -10 -280 -12 10 -280 -12 0 -280 14
+4 16 -10 -280 -12 -8 -278 -12 8 -278 -12 10 -280 -12
+4 16 -8 -160 -12 8 -160 -12 8 -160 4 -8 -160 4
+4 16 -8 -160 -12 -5.5 -160 -16.5 5.5 -160 -16.5 8 -160 -12
+3 16 0 -156 -11.7391 5.5 -156 -16.5 -5.5 -156 -16.5
+3 16 0 -80 -8 8 -80 9.4545 -8 -80 9.454
+4 16 -9.8994 -80 12 -8 -80 9.454 8 -80 9.4545 9.8994 -80 12
+4 16 -9.8994 -80 12 9.8994 -80 12 6 -76 12 -6 -76 12
+4 16 -9.8994 0 12 -6 -4 12 6 -4 12 9.8994 0 12
+4 16 -9.8994 0 12 9.8994 0 12 4 0 8 -4 0 8
+3 16 0 0 -14 -4 0 8 4 0 8
+3 16 0 12 8 -4 0 8 4 0 8
+3 16 0 12 -8 4 0 -8 -4 0 -8
+0 // Edges
+2 24 -10 -280 -12 10 -280 -12
+2 24 -9.8994 -80 12 9.8994 -80 12
+2 24 -9.8994 0 12 9.8994 0 12
+2 24 -4 0 8 4 0 8
+2 24 -4 0 -8 4 0 -8

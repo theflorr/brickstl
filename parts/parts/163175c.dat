@@ -1,0 +1,22 @@
+0 Sticker  0.6 x 12.7 Parallelogram Left Leaning with Light Grey Stripe
+0 Name: 163175c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS boat, Bricklink 4021stk01, Brickowl 634760, Police patrol
+0 !KEYWORDS Rebrickable 163175, set 4021, ship
+
+4 16 110 0 6 127 0 -6 -110 0 -6 -127 0 6
+4 7 -109 -.25 -4 121 -.25 -4 109 -.25 4 -121 -.25 4
+4 16 -109 -.25 -4 -121 -.25 4 -127 -.25 6 -110 -.25 -6
+4 16 121 -.25 -4 -109 -.25 -4 -110 -.25 -6 127 -.25 -6
+4 16 121 -.25 -4 127 -.25 -6 110 -.25 6 109 -.25 4
+4 16 -127 -.25 6 -121 -.25 4 109 -.25 4 110 -.25 6
+4 16 -110 0 -6 127 0 -6 127 -.25 -6 -110 -.25 -6
+4 16 -127 0 6 -110 0 -6 -110 -.25 -6 -127 -.25 6
+4 16 -127 0 6 -127 -.25 6 110 -.25 6 110 0 6
+4 16 127 0 -6 110 0 6 110 -.25 6 127 -.25 -6

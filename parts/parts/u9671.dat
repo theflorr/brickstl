@@ -1,0 +1,26 @@
+0 Electric SMART Play Charger - Bottom
+0 Name: u9671.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2026-01-15 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-25 [Blechtaler] File preparation for LDraw Parts Tracker
+
+1 16 60 32 -120 16 0 0 0 -1 0 0 0 -16 1-4disc.dat
+1 16 -60 32 -120 -16 0 0 0 -1 0 0 0 -16 1-4disc.dat
+1 16 0 32 0 60 0 0 0 8 0 0 0 120 box4.dat
+0 BFC INVERTNEXT
+1 16 0 40 0 56 0 0 0 -.5 0 0 0 116 box5.dat
+4 16 -60 32 -136 -60 32 -120 60 32 -120 60 32 -136
+4 16 76 32 -120 60 32 -120 60 32 120 76 32 136
+4 16 -76 32 136 76 32 136 60 32 120 -60 32 120
+4 16 -76 32 -120 -76 32 136 -60 32 120 -60 32 -120
+4 16 -60 40 -120 -56 40 -116 56 40 -116 60 40 -120
+4 16 60 40 -120 56 40 -116 56 40 116 60 40 120
+4 16 -60 40 120 60 40 120 56 40 116 -56 40 116
+4 16 -60 40 -120 -60 40 120 -56 40 116 -56 40 -116

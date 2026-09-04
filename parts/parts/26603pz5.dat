@@ -1,0 +1,26 @@
+0 Tile  2 x  3 with White Adidas Trefoil Logo Pattern
+0 Name: 26603pz5.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Adidas Originals Superstar, Bricklink 26603pb179, Brickowl 696221
+0 !KEYWORDS Brickset 76309, Rebrickable 26603pr0053, Sculptures, Set 10282
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
+
+0 // Pattern
+1 15 0 0 0 0.9 0 0 0 1 0 0 0 0.9 logo-adidas-trefoil.dat
+1 16 0 0 0 0.9 0 0 0 1 0 0 0 0.9 logo-adidas-trefoil-box.dat
+3 16 -26.55 0 18.45 -30 0 20 -26.55 0 7.65
+4 16 -30 0 -20 -26.55 0 -18.45 -26.55 0 7.65 -30 0 20
+4 16 26.55 0 7.65 26.55 0 -18.45 30 0 -20 30 0 20
+3 16 26.55 0 18.45 26.55 0 7.65 30 0 20
+3 16 0 0 18.45 26.55 0 18.45 30 0 20
+4 16 -30 0 20 -26.55 0 18.45 0 0 18.45 30 0 20
+4 16 0 0 -18.45 -26.55 0 -18.45 -30 0 -20 30 0 -20
+3 16 26.55 0 -18.45 0 0 -18.45 30 0 -20

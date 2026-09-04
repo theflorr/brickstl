@@ -1,0 +1,15 @@
+0 Wheel Rim  8 x 35 with 12 Studs with Notched Axle
+0 Name: 715a.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS classic, Set 088, Set 100, Set 115, Set 404
+
+0 !CMDLINE -c4
+
+1 16 0 0 -2 1 0 0 0 1 0 0 0 1 u9237.dat
+1 60 0 0 12 1 0 0 0 1 0 0 0 1 269.dat

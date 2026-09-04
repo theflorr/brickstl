@@ -1,0 +1,14 @@
+0 Technic Pneumatic Cylinder  2 x  2 x  5 with 2 Ports with Black Piston (Extended)
+0 Name: 74721p02-f2.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS BrickLink 2793c02, Brickowl 826304, Colour Combination
+0 !KEYWORDS Rebrickable 2793c02, Set 8862
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2793c00.dat
+1 0 0 -188 0 1 0 0 0 1 0 0 0 1 2796c01.dat

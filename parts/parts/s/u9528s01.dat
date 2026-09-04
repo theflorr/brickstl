@@ -1,0 +1,28 @@
+0 ~Connection Card for Bluetooth Devices without Front and Back
+0 Name: s\u9528s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 59 0 99 8 0 0 0 -2 0 0 0 8 1-4cylo.dat
+1 16 -59 0 99 -8 0 0 0 -2 0 0 0 8 1-4cylo.dat
+1 16 0 -1 107 59 0 0 0 0 1 0 -1 0 rect2p.dat
+1 16 59 0 99 8 0 0 0 -1 0 0 0 8 1-4chrd.dat
+1 16 59 -2 99 8 0 0 0 1 0 0 0 8 1-4chrd.dat
+1 16 -59 0 99 -8 0 0 0 -1 0 0 0 8 1-4chrd.dat
+1 16 -59 -2 99 -8 0 0 0 1 0 0 0 8 1-4chrd.dat
+4 16 59 -2 107 -59 -2 107 -67 -2 99 67 -2 99
+4 16 -59 0 107 59 0 107 67 0 99 -67 0 99
+1 16 59 0 -99 8 0 0 0 -1 0 0 0 -8 1-4chrd.dat
+1 16 59 -2 -99 8 0 0 0 1 0 0 0 -8 1-4chrd.dat
+1 16 -59 0 -99 -8 0 0 0 -1 0 0 0 -8 1-4chrd.dat
+1 16 -59 -2 -99 -8 0 0 0 1 0 0 0 -8 1-4chrd.dat
+4 16 -67 -2 -99 -59 -2 -107 59 -2 -107 67 -2 -99
+4 16 67 0 -99 59 0 -107 -59 0 -107 -67 0 -99
+1 16 0 -1 -107 -59 0 0 0 0 1 0 1 0 rect2p.dat
+1 16 59 0 -99 8 0 0 0 -2 0 0 0 -8 1-4cylo.dat
+1 16 -59 0 -99 -8 0 0 0 -2 0 0 0 -8 1-4cylo.dat
+1 16 67 -1 0 0 -1 0 0 0 1 -99 0 0 rect2p.dat
+1 16 -67 -1 0 0 1 0 0 0 1 -99 0 0 rect2p.dat

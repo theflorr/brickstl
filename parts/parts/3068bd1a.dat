@@ -1,0 +1,18 @@
+0 Tile  2 x  2 with Dark Red Semi-Circles on Light Bluish Grey Background Sticker
+0 Name: 3068bd1a.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 3068pb1089, Jedi Interceptor, Set 75038, Star Wars
+
+0 // 0 !KEYWORDS 3068pb1089, Jedi Interceptor, Set 75038, Star Wars Episode 3
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3068b.dat
+
+0 // Sticker
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6058264a.dat

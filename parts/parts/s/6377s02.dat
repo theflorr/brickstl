@@ -1,0 +1,23 @@
+0 ~Duplo Train Track Straight  4 x  8 - Track Base
+0 Name: s\6377s02.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-01-10 [MMR1988] BFC'ed, add license, replace of quads by boxes and rects, rewrite some ares
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2024-11-22 [WUIt] Used subfile for tracks, moved origin to point of symmetry, and merged symmetric elements across the split
+0 !HISTORY 2025-02-14 [WUIt] Rearranged to more subparts, corrected underside, and removed several T-junctions around middle sleeper
+0 !HISTORY 2025-09-18 [WUIt] Subfiled half for symmetry, removed one edge
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6377s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\6377s05.dat
+
+1 16 54 7 0 14 0 0 0 1 0 0 0 160 rect.dat
+4 16 34 0 -40 34 -9 -160 34 -9 160 34 0 40
+1 16 35 -9 0 0 0 1 0 1 0 160 0 0 rect.dat
+4 16 40 7 -160 40 7 160 36 -9 160 36 -9 -160
+2 24 68 8 -160 68 7 -160
+2 24 68 8 160 68 7 160

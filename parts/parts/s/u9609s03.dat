@@ -1,0 +1,20 @@
+0 ~Electric Cable Triple 3LDU with One White Lead Segment End
+0 Name: s\u9609s03.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 511 0 0 2.7717 0 0 1.5 0 1 0 1.5 0 0 7-16chrd.dat
+1 511 0 0 2.7717 0 0 -1.5 0 1 0 1.5 0 0 7-16chrd.dat
+1 16 0 0 0 1.5 0 0 0 1 0 0 0 1.5 3-16chrd.dat
+1 16 0 0 0 1.5 0 0 0 1 0 0 0 -1.5 3-16chrd.dat
+1 16 0 0 0 -1.5 0 0 0 1 0 0 0 1.5 3-16chrd.dat
+1 16 0 0 0 -1.5 0 0 0 1 0 0 0 -1.5 3-16chrd.dat
+1 16 0 0 -2.7717 0 0 1.5 0 1 0 -1.5 0 0 7-16chrd.dat
+1 16 0 0 -2.7717 0 0 -1.5 0 1 0 -1.5 0 0 7-16chrd.dat
+3 16 -.57405 0 -1.38585 0 0 -4.2717 .57405 0 -1.38585
+4 16 1.5 0 0 -1.5 0 0 -.57405 0 -1.38585 .57405 0 -1.38585
+4 16 .57405 0 1.38585 -.57405 0 1.38585 -1.5 0 0 1.5 0 0
+3 511 -.57405 0 1.38585 .57405 0 1.38585 0 0 4.2717

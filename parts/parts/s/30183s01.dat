@@ -1,0 +1,20 @@
+0 ~Slope Brick 45  6 x  4 Double Inverted - without Side Surfaces
+0 Name: s\30183s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30183s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\30183s02.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 20 0 0 0 16 0 0 0 20 box4.dat
+1 16 0 16 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 20 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4h.dat
+1 16 30 0 0 0 0 1 0 1 0 -1 0 0 stug-1x4.dat
+1 16 -30 0 0 0 0 1 0 1 0 -1 0 0 stug-1x4.dat
+1 16 0 0 -30 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
+1 16 0 0 30 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
+1 16 0 16 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat

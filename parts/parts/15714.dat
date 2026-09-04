@@ -1,0 +1,12 @@
+0 =Panel  1 x  2 x  1 with Rounded Corners
+0 Name: 15714.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Panel
+0 !KEYWORDS BrickLink 4865b, Rebrickable 4865b
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4865b.dat

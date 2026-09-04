@@ -1,0 +1,25 @@
+0 Sticker  0.9 x  5.9 with "AIR LINE" with Red Globe Logo
+0 Name: 168155a.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Since this sticker is a STAMP,
+0 !HELP no shortcut is available but the official usage is as follows:
+0 !HELP 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4857.dat
+0 !HELP 1 16 80 0 0 1 0 0 0 1 0 0 0 1 4857.dat
+0 !HELP 1 16 20 8 -28 1 0 0 0 .70711 -.70711 0 .70711 .70711 168155a.dat
+0 !HELP 1 16 20 8 28 -1 0 0 0 .70711 -.70711 0 -.70711 -.70711 168155a.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Airport, BrickLink 10159stk01, Brickowl 117840, Century skyway, City
+0 !KEYWORDS Rebrickable 168155, set 10159, set 6597, stamp, town
+
+1 16 0 -0.25 0 59 0 0 0 0.25 0 0 0 9 box5-12.dat
+1 16 0 -.25 0 .5 0 0 0 1 0 0 0 .5 s\168155bs01.dat
+4 16 -59 -.25 9 -38 -.25 6.3 38 -.25 6.3 59 -.25 9
+4 16 59 -.25 9 38 -.25 6.3 38 -.25 -6.3 59 -.25 -9
+4 16 59 -.25 -9 38 -.25 -6.3 -38 -.25 -6.3 -59 -.25 -9
+4 16 -38 -.25 -6.3 -38 -.25 6.3 -59 -.25 9 -59 -.25 -9

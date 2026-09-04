@@ -1,0 +1,19 @@
+0 Technic Panel Bell Half 10 x 11 x  5.5 with 6 Light Bluish Grey Stripes Pattern
+0 Name: 7345p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Bricklink 7345pb01, Brickowl 1044685, Brickset 111434, Desk
+0 !KEYWORDS Lamp Shade, Luxo Junior, Pixar, Rebrickable 7345pr0001, Set 21357
+0 !KEYWORDS Slits
+
+0 !PREVIEW 16 0 0 0 1 0 0 0 -1 0 0 0 -1
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7345s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7345p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7345p01s01.dat

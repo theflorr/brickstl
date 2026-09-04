@@ -1,0 +1,31 @@
+0 Minifig Head with Dark Orange Moustache, Beard and Messy Hair Pattern
+0 Name: 3626bp42.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3626pb0025, Rebrickable 3626bpr0012, Set 6245, set 6706
+0 !KEYWORDS set 6762
+
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2024-08-21 [Lego-Manfred] References and sets added
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp42s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp42s01.dat
+1 484 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp42s02.dat
+1 484 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp42s02.dat
+1 484 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp42s03.dat
+1 484 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp42s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp42s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp42s04.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t16o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t16o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t16o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t16o6250.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-16cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-16cyli.dat

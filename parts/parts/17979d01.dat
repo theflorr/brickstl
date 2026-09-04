@@ -1,0 +1,17 @@
+0 Flag  5 x  6 with Bright Pink Surface Sticker
+0 Name: 17979d01.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink x1435pb035, Carnage, Sculptuers, Set 76199, Spider-Man
+0 !KEYWORDS Super Heroes
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 17979.dat
+
+0 // Sticker
+1 16 2.25 60 60 0 -1 0 1 0 0 0 0 1 6350251a.dat

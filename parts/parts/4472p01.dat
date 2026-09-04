@@ -1,0 +1,29 @@
+0 Wheel Cover Smooth for Wheel 34 x 56 with Dots and White / Yellow Rings on Red Background Pattern
+0 Name: 4472p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS Bricklink 4472pb01, Brickowl 740005, Brickset 112750, Ferrari
+0 !KEYWORDS Formula 1, Rebrickable 4472pr0001, Set 42207
+
+1 16 0 0 0 1 0 0 0 0 -1 0 -20 0 axl3hole.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 s\4472s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\4472p01s01.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 s\4472p01s01.dat

@@ -1,0 +1,21 @@
+0 ~Electric Bluetooth Remote Control Case Assembly with Coral Bottom
+0 Name: u9527c01p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Colour Combination, Computer and AI, Education, Science, Set 45622
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9527.dat
+1 353 0 48 0 1 0 0 0 1 0 0 0 1 u9526.dat
+1 0 0 48 37.8 -1 0 0 0 1 0 0 0 -1 u9361.dat
+1 0 0 32.3 36.3 -1 0 0 0 1 0 0 0 -1 u9590.dat
+1 47 0 15.9 31.8 0 0 1 -1 0 0 0 -1 0 7275.dat
+1 71 0 15.9 31.8 0 0 1 -1 0 0 0 -1 0 u9362.dat
+1 0 -51.5 40 -31.5 1 0 0 0 -1 0 0 0 1 u9478.dat
+1 0 51.5 40 -31.5 1 0 0 0 -1 0 0 0 1 u9478.dat
+1 0 -51.5 40 31.5 1 0 0 0 -1 0 0 0 1 u9478.dat
+1 0 51.5 40 31.5 1 0 0 0 -1 0 0 0 1 u9478.dat

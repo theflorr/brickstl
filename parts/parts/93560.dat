@@ -1,0 +1,25 @@
+0 Minifig Helmet Standard with Open Chin
+0 Name: 93560.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place visor at y= 8 z= 0.7
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS American Football, motorbike
+
+0 !HISTORY 2025-01-08 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-01-16 [GeraldLasser] based on 30124b by [MagFors]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93560s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bs04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93560s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\93560s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93560s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\93560s04.dat

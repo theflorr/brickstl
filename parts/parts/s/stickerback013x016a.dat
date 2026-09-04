@@ -1,0 +1,16 @@
+0 ~Sticker Back  1.3 x  1.6 Trapezoidal for Part 973
+0 Name: s\stickerback013x016a.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Back
+4 16 -12 0 13.5 12 0 13.5 16.5 0 -13.5 -16.5 0 -13.5
+
+0 // Sides
+4 16 -12 0 13.5 -16.5 0 -13.5 -16.5 -.25 -13.5 -12 -.25 13.5
+4 16 -16.5 0 -13.5 16.5 0 -13.5 16.5 -.25 -13.5 -16.5 -.25 -13.5
+4 16 12 -.25 13.5 16.5 -.25 -13.5 16.5 0 -13.5 12 0 13.5
+4 16 12 0 13.5 -12 0 13.5 -12 -.25 13.5 12 -.25 13.5

@@ -1,0 +1,33 @@
+0 ~Electric  4.5V Battery Box  7 x 11 x  3 Type 1 Base with Red Dot Pattern
+0 Name: 561p01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS electronic train, Set 138-1, whistle
+
+0 !HISTORY 2025-01-05 [Blechtaler] closed the contact gap
+
+1 16 20 60 -90 1 0 0 0 -1 0 0 0 1 s\561s01.dat
+1 16 -20 60 -90 1 0 0 0 -1 0 0 0 1 s\561s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\561s02.dat
+1 16 35 56 41.5 5 0 0 0 -56 0 0 0 2 box3u8p.dat
+1 16 -35 56 41.5 5 0 0 0 -56 0 0 0 2 box3u8p.dat
+1 16 40 30 -110 -8 0 0 0 0 8 0 1 0 2-4ndis.dat
+1 16 40 30 -106 -8 0 0 0 0 8 0 -1 0 2-4ndis.dat
+0 BFC INVERTNEXT
+1 16 40 30 -110 -8 0 0 0 0 8 0 4 0 2-4cylo.dat
+0 // Print
+1 4 20 16 -110 8 0 0 0 0 8 0 1 0 4-4disc.dat
+1 16 20 16 -110 8 0 0 0 0 8 0 1 0 4-4ndis.dat
+4 16 20 8 -110 32 0 -110 -70 0 -110 12 8 -110
+3 16 20 8 -110 28 8 -110 32 0 -110
+4 16 32 30 -110 32 0 -110 28 8 -110 28 16 -110
+4 16 32 38 -110 32 30 -110 28 16 -110 28 24 -110
+3 16 32 38 -110 28 24 -110 20 24 -110
+4 16 -70 56 -110 32 38 -110 20 24 -110 12 24 -110
+4 16 12 16 -110 -70 0 -110 -70 56 -110 12 24 -110
+3 16 -70 0 -110 12 16 -110 12 8 -110

@@ -1,0 +1,34 @@
+0 Train Track 12V Straight Insert Type 3 with Isolation
+0 Name: 862b.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP This part doesnt exist unpatterned.
+0 !HELP There exist 3 more variants of this part,
+0 !HELP this part with a black top triangle at the isolation,
+0 !HELP one with the isolation at the center and its
+0 !HELP pattern, with a black top triangle at the part center.
+0 !HELP Note that the central underside rim fully extends
+0 !HELP to the part bottom (different than 3240a, 3240b)
+0 !HELP place 2775c01
+0 !HELP 1 16 -90 9.5 20 1 0 0 0 1 0 0 0 1 2775c01.dat
+0 !HELP place 2x 765c01.dat
+0 !HELP 1 16 -107.5 9.5 20 0 1 0 1 0 0 0 0 1 765c01.dat
+0 !HELP 1 16 -72.5 9.5 20 0 -1 0 1 0 0 0 0 1 765c01.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+0 !CMDLINE -c7
+
+0 !HISTORY 2024-07-27 [Blechtaler] made from 862bp01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\862bs01.dat
+
+3 16 -77.5 8 8 -88 8 8 -77.5 8 0
+4 16 -77.5 8 0 -88 8 8 -92 8 8 -77.5 8 -8
+4 16 -88 8 -8 -77.5 8 -8 -92 8 8 -102.5 8 8
+4 16 -88 8 -8 -102.5 8 8 -102.5 8 0 -92 8 -8
+3 16 -102.5 8 0 -102.5 8 -8 -92 8 -8

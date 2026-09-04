@@ -1,0 +1,16 @@
+0 Tile  2 x  2 Round with Bright Light Orange "A" on Black Background Sticker
+0 Name: 14769d0k.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS BrickLink Designer Program, Retro Bowling Alley, Set 910013
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 14769.dat
+
+0 // Sticker
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6414469b.dat

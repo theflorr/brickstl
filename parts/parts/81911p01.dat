@@ -1,0 +1,18 @@
+0 Windscreen  2 x  4 x  1 Curved White and Silver Window Frame Outline Pattern
+0 Name: 81911p01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Windscreen
+0 !KEYWORDS Aérospatiale-BAC, Air France, Bricklink 81911pb01, British Airways
+0 !KEYWORDS Concorde, Rebrickable 81911pr0001, Set 10318, Supersonic
+
+0 // Subfile Without Patternable Area
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\81911s01.dat
+
+0 // Pattern - Half
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\81911p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\81911p01s01.dat

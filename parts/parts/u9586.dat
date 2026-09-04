@@ -1,0 +1,55 @@
+0 ~Electric Powered Up Hub with  3 Integrated Motors and  6 Lights Case Top Front (Needs Work)
+0 Name: u9586.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2024-10-08 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-10-17 [Philo] File preparation for LDraw Parts Tracker
+
+0 // Needs Work: Internal skinn/details not modeled
+
+1 16 0 0 10 1 0 0 0 0 -1 0 1 0 connhol3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9586s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9586s04.dat
+1 16 20 20 1 -1 0 0 0 -1 0 0 0 1 s\u9586s02.dat
+1 16 -20 20 1 -1 0 0 0 -1 0 0 0 1 s\u9586s03.dat
+0 BFC INVERTNEXT
+1 16 0 20 0.5 0 0 31 0 -11 0 0.5 0 0 box3u4a.dat
+4 16 31 -9 1 31 -20 1 -31 -20 1 -31 -9 1
+4 16 12 28 1 12 12 1 -12 12 1 -12 28 1
+4 16 28 12 1 31 9 1 -31 9 1 -28 12 1
+4 16 -31 29 1 31 29 1 28 28 1 -28 28 1
+0 BFC INVERTNEXT
+1 16 0 -20 0.5 0 0 31 0 11 0 0.5 0 0 box3u4a.dat
+1 16 31 -20 10 0 -62 0 0 0 -9 -9 0 0 1-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 0 20 7 0 0 0 0 7 0 -2 0 4-4cylc.dat
+1 16 0 0 18 1 0 0 0 0 1 0 -1 0 4-4ring6.dat
+4 16 -40.0016 -28.9997 29.9993 -31 -29 10 31 -29 10 40 -29 30
+1 16 0 -28.5 37.55 8.7 0 0 0 0 0.5 0 -1 0.75 rect2p.dat
+1 16 0 -28.5 62.45 -8.7 0 0 0 0 0.5 0 1 -0.75 rect2p.dat
+1 16 0 -28 39.05 0 0 -8.7 0 1 0 0.75 0 0 rect1.dat
+1 16 0 -28 60.95 0 0 8.7 0 1 0 -0.75 0 0 rect1.dat
+1 16 0 -27 39.8 0 0 -8.7 1 0 0 0 -1 0 rect1.dat
+1 16 0 -27 60.2 0 0 8.7 1 0 0 0 1 0 rect1.dat
+4 16 13.2 -29 36.8 -13.2 -29 36.8 -40.0016 -28.9997 29.9993 40 -29 30
+4 16 -4 -29 79 -13.2 -29 63.2 13.2 -29 63.2 4 -29 79
+4 16 -49 -29 180 -4 -29 109 4 -29 109 49 -29 180
+2 24 -49 -29 180 49 -29 180
+4 16 48 -28 180 -48 -28 180 -49 -29 180 49 -29 180
+4 16 -48 -28 180 48 -28 180 48 -28 181 -48 -28 181
+2 24 -48 -28 180 48 -28 180
+2 24 48 -28 181 -48 -28 181
+4 16 40 29 3 40 29 1 -40 29 1 -40 29 3
+2 24 -40 29 1 40 29 1
+2 24 33 29 4 -33 29 4
+4 16 -40 29 3 -33 29 4 33 29 4 40 29 3
+4 47 -4 -29 109 -4 -29 79 4 -29 79 4 -29 109
+0 BFC INVERTNEXT
+1 16 0 -29 94 4 0 0 0 3 0 0 0 15 box4.dat
+4 61 -4 -26 109 -4 -26 79 4 -26 79 4 -26 109

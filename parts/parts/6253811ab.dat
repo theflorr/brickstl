@@ -1,0 +1,28 @@
+0 Sticker  0.8 x  5.9 with Black "FUEL" and Black Dotted Line on Transparent Background
+0 Name: 6253811ab.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 75891stk02, Brickowl 112449, Rebrickable 49143
+
+1 16 -55.3716 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs01.dat
+1 16 -55.2722 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs02.dat
+1 16 -39.5656 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs03.dat
+1 16 -39.4662 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs04.dat
+1 16 -23.759 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs05.dat
+1 16 -23.6596 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs06.dat
+1 16 -7.953 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs07.dat
+1 16 -7.8536 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs08.dat
+1 16 7.8536 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs09.dat
+1 16 7.953 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs10.dat
+1 16 23.6596 0 0 1 0 0 0 1 0 0 0 1 s\6253811abs11.dat
+1 16 23.759 0 0 -1 0 0 0 1 0 0 0 1 s\6253811abs05.dat
+1 16 39.4662 0 0 -1 0 0 0 1 0 0 0 1 s\6253811abs04.dat
+1 16 39.5656 0 0 -1 0 0 0 1 0 0 0 1 s\6253811abs03.dat
+1 16 55.2722 0 0 -1 0 0 0 1 0 0 0 1 s\6253811abs02.dat
+1 16 55.3716 0 0 -1 0 0 0 1 0 0 0 1 s\6253811abs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x059.dat

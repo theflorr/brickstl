@@ -1,0 +1,17 @@
+0 Duplo Plate  2 x  8 Seesaw
+0 Name: 3574.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+0 !HISTORY 2025-01-27 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-02-18 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3574s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3574s01.dat
+1 16 -120 -20 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
+1 16 120 -20 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat

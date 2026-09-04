@@ -1,0 +1,16 @@
+0 ~Animal Reindeer Body Left with White Eyes and Dark Brown Antlers Pattern
+0 Name: 51538p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Animal
+0 !KEYWORDS Bricklink 51493c01pb01, Brickowl 551227, Deer
+0 !KEYWORDS Rebrickable 51591pr0001, Set 10275, Stag
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51538s00.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51538p01s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51538p01s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51538p01s04.dat

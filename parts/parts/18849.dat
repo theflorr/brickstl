@@ -1,0 +1,30 @@
+0 Keychain Minifig Hips
+0 Name: 18849.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP complete keychain minifig (without hair/headgear)
+0 !HELP 1 16 0 56 0 1 0 0 0 1 0 0 0 1 18849.dat
+0 !HELP 1 16 0 68 0 1 0 0 0 1 0 0 0 1 3816c.dat
+0 !HELP 1 16 0 68 0 1 0 0 0 1 0 0 0 1 3817c.dat
+0 !HELP 1 16 0 24 0 1 0 0 0 1 0 0 0 1 19993.dat
+0 !HELP 1 16 -15.552 33 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 !HELP 1 16 15.552 33 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 !HELP 1 14 -23.6904 50.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+0 !HELP 1 14 23.6904 50.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+0 !HELP 1 14 0 0 0 1 0 0 0 1 0 0 0 1 22878.dat
+0 !HELP 1 494 0 -4 0 1 0 0 0 1 0 0 0 1 27055.dat
+0 !HELP for headgear, place it and move the chain 27055 upwards to avoid collisions
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+
+0 !HISTORY 2021-03-19 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2025-08-03 [Blechtaler] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18849s01.dat
+4 16 18 0 -10 -18 0 -10 -18 6 -10 18 6 -10
+1 16 2 12 0 0 -4 0 0 0 -8.75 -8.75 0 0 1-8cyli.dat
+1 16 2 12 0 0 -4 0 0 0 8.75 -8.75 0 0 3-16cyli.dat

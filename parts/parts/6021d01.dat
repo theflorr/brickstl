@@ -1,0 +1,19 @@
+0 Boat Canoe  4 x 16 with Indigo Islanders Mask Stickers on Both Sides
+0 Name: 6021d01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS boat, Bricklink 6021pb01, BrickOwl 996496, Canoe, Catamaran, Island
+0 !KEYWORDS Island of Fogs, King Kahuka, Lagoon, Pirates, Quexil
+0 !KEYWORDS Rebrickable 822070, set 1788, set 6256, set 6264, set 6278, set 6292
+0 !KEYWORDS Tribal
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6021.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 822070ac01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 822070bc01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 822070ac01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 822070bc01.dat

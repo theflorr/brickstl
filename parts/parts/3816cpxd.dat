@@ -1,0 +1,18 @@
+0 Minifig Leg Right with Silver Armour Sides and Knee Pads Pattern
+0 Name: 3816cpxd.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3816cpxd.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Armor, Foot Clan, Nickelodeon, Oroku Saki, Set 79101, Set 79122
+0 !KEYWORDS Shredder, Teenage Mutant Ninja Turtles, TMNT
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817cpxd.dat

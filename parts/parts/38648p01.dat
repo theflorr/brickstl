@@ -1,0 +1,14 @@
+0 Minifig Tool Magnifying Glass with Thick Frame, Hollow Handle and TransClear Lens
+0 Name: 38648p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 38648c01, Colour Combination, Rebrickable 38648pat0001
+0 !KEYWORDS Set 42631
+
+1 47 0 -29.5 0 1 0 0 0 1 0 0 0 1 s\10830s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\38648s01.dat

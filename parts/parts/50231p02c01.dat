@@ -1,0 +1,23 @@
+0 Minifig Cape Cloth with Inside Yellow Pattern (Formed)
+0 Name: 50231p02c01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place at y = 0 on torso, head at y = -0.6
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS 10123, 522, Bricklink 522cpb01, Brickowl 57006, Brickset 40460
+0 !KEYWORDS Cloak, Cloud City, Drape, Lando Calrissian, Neckwear, Poncho
+0 !KEYWORDS Rebrickable 50231pr0002, Set 75259, Shawl
+
+0 !HISTORY 2026-03-22 [notmaster] added keywords and canvas colors
+
+1 20014 0 0 0 1 0 0 0 1 0 0 0 1 s\50231s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50231s02.dat
+1 20014 0 0 0 1 0 0 0 1 0 0 0 1 s\50231s03.dat
+1 20014 0 0 0 -1 0 0 0 1 0 0 0 1 s\50231s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50231s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\50231s04.dat

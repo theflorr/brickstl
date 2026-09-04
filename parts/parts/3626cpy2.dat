@@ -1,0 +1,34 @@
+0 Minifig Head Robot with Silver Plates and Magenta Eyes Pattern
+0 Name: 3626cpy2.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Alien, Bricklink 3626pb0896, BrickOwl 817926, Brickset 13500
+0 !KEYWORDS Exo Skeleton, Kraangdroid, Krang, Mini Head No 1181
+0 !KEYWORDS Rebrickable 3626cpr1181, Set 30270, Set 79104, Set 79120
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT, Utrom
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+1 16 0 17 0 13 0 0 0 -13 0 0 0 -13 1-16cyli.dat
+1 16 0 17 0 -13 0 0 0 -13 0 0 0 -13 1-16cyli.dat
+1 16 0 17 0 13 0 0 0 -13 0 0 0 13 1-16cyli.dat
+1 16 0 17 0 -13 0 0 0 -13 0 0 0 13 1-16cyli.dat
+0 // Top Area
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t08o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 8 t08o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+0 // Bottom Area
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 8 t08o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+
+0 // Pattern Halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cpy2s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cpy2s01.dat

@@ -1,0 +1,17 @@
+0 Minifig Life Preserver with Handle with Orange Pattern
+0 Name: 7649p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 7649pb02, Brickowl 932080, Brickset 7649, coast guard
+0 !KEYWORDS Rebrickable 7649pat0002, Ring, Set 60503, Set 60504, Set 60505
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7649s01.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\7649s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7649s01.dat
+1 25 0 0 0 -1 0 0 0 1 0 0 0 1 s\7649s02.dat
+1 16 -6.3 0 0 0 12.6 0 -4 0 0 0 0 4 4-4cylo.dat

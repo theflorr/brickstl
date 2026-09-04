@@ -1,0 +1,33 @@
+0 Minifig Head with SW Moustache, Eyebrows and Small Eyelashes Pattern
+0 Name: 3626bpss.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS 20th Anniversary, Bespin, BrickLink 3626pb0214, Cloud City, Home One
+0 !KEYWORDS Jabba, Lando Calrissian, Rebrickable 3626bpr0454, Sail Barge
+0 !KEYWORDS set 10123, Set 6210, Set 75259, Set 7754
+
+0 !HISTORY 2025-10-19 [KnightOfTarenta] Corrected stud type
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 17 0 0 0 -13 0 -13 0 13 0 0 3-8cyli.dat
+1 16 0 17 0 0 0 13 0 -13 0 13 0 0 3-8cyli.dat
+0 // Top Area
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+0 // Bottom Area
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bpsss01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bpsss01.dat

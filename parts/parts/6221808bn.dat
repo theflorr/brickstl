@@ -1,0 +1,21 @@
+0 Sticker  1.9 x  1.8 with 488 GTE Logo and Ferrari Badge on Black and Red Background Left
+0 Name: 6221808bn.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS 1962, 1979, 24h, 250, 312, Bricklink 75889stk02, Brickowl 111588
+0 !KEYWORDS Equipe nationale belge, Garage, Gilles Villeneuve, GTO
+0 !KEYWORDS Jean "Beurly" Blaton, Le Mans, Léon "Eldé" Dernier
+0 !KEYWORDS Rebrickable 37842, Set 75889, Speed Champions, T4, Ultimate
+
+1 16 0 0 -13.8789 -1 0 0 0 1 0 0 0 -1 s\6221808bns01.dat
+1 16 0 0 -13.8547 -1 0 0 0 1 0 0 0 -1 s\6221808bns02.dat
+1 16 0 0 .7172 -1 0 0 0 1 0 0 0 -1 s\6221808bns03.dat
+1 16 0 0 .7428 -1 0 0 0 1 0 0 0 -1 s\6221808bns04.dat
+1 16 0 0 14.6522 -1 0 0 0 1 0 0 0 -1 s\6221808bns05.dat
+1 16 0 0 14.681 1 0 0 0 1 0 0 0 -1 s\6221808bis06.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\stickerback018x019.dat

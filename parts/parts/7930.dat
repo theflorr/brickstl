@@ -1,0 +1,74 @@
+0 Door  1 x  3 x  4
+0 Name: 7930.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+0 !KEYWORDS Brickowl 200232
+
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2003-05-05 [nielsk] BFC Certified, groove added
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+0 !HISTORY 2026-01-28 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat; changed cyli to cylo; fixed T-junctions
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Handle
+0 // Primitives
+0 BFC INVERTNEXT
+1 16 34 42 -5.5 4 0 0 0 0 4 0 -.5 0 4-4cylc.dat
+1 16 34 42 -6 2 0 0 0 0 2 0 1 0 4-4ring2.dat
+1 16 34 42 -2 6 0 0 0 0 6 0 -4 0 4-4cylo.dat
+1 16 34 42 -2 6 0 0 0 0 6 0 -1 0 4-4disc.dat
+0 // Frame
+0 // Primitives
+1 16 0 0 0 0 0 -2 0 84 0 2 0 0 2-4cylo.dat
+1 16 0 0 0 0 0 -2 0 1 0 2 0 0 2-4chrd.dat
+1 16 0 84 0 0 0 -2 0 -1 0 2 0 0 2-4chrd.dat
+1 16 0 42 0 0 50 0 0 0 42 2 0 0 box3u4a.dat
+0 BFC INVERTNEXT
+1 16 24 42 0 20.5 0 0 0 0 36.5 0 2 0 box4.dat
+0 BFC INVERTNEXT
+1 16 24 25.5 -2 15 0 0 0 0 14.5 0 2 0 box4.dat
+0 BFC INVERTNEXT
+1 16 24 58.5 -2 15 0 0 0 0 14.5 0 2 0 box4.dat
+0 BFC INVERTNEXT
+1 16 24 42 -2 22 0 0 0 0 38 0 0.5 0 box4.dat
+1 16 24 42 -2 20 0 0 0 0 36 0 0.5 0 box4.dat
+0 // Faces
+4 16 44.5 5.5 2 3.5 5.5 2 0 0 2 50 0 2
+4 16 44.5 5.5 2 50 0 2 50 84 2 44.5 78.5 2
+4 16 3.5 78.5 2 44.5 78.5 2 50 84 2 0 84 2
+4 16 3.5 78.5 2 0 84 2 0 0 2 3.5 5.5 2
+4 16 44.5 5.5 0 39 11 0 9 11 0 3.5 5.5 0
+3 16 44.5 5.5 0 39 40 0 39 11 0
+4 16 44.5 5.5 0 44.5 78.5 0 39 44 0 39 40 0
+3 16 3.5 5.5 0 9 11 0 9 40 0
+4 16 3.5 5.5 0 9 40 0 9 44 0 3.5 78.5 0
+4 16 39 44 0 9 44 0 9 40 0 39 40 0
+3 16 39 44 0 44.5 78.5 0 39 73 0
+4 16 3.5 78.5 0 9 73 0 39 73 0 44.5 78.5 0
+3 16 3.5 78.5 0 9 44 0 9 73 0
+4 16 46 4 -2 50 0 -2 0 0 -2 2 4 -2
+4 16 46 4 -2 46 80 -2 50 84 -2 50 0 -2
+4 16 0 84 -2 50 84 -2 46 80 -2 2 80 -2
+4 16 0 84 -2 2 80 -2 2 4 -2 0 0 -2
+4 16 46 4 -1.5 2 4 -1.5 4 6 -1.5 44 6 -1.5
+4 16 46 4 -1.5 44 6 -1.5 44 78 -1.5 46 80 -1.5
+4 16 2 80 -1.5 46 80 -1.5 44 78 -1.5 4 78 -1.5
+4 16 2 80 -1.5 4 78 -1.5 4 6 -1.5 2 4 -1.5
+4 16 44 6 -2 4 6 -2 9 11 -2 39 11 -2
+3 16 44 6 -2 39 11 -2 39 40 -2
+4 16 44 6 -2 39 40 -2 39 44 -2 44 78 -2
+3 16 4 6 -2 9 40 -2 9 11 -2
+4 16 4 6 -2 4 78 -2 9 44 -2 9 40 -2
+4 16 39 44 -2 39 40 -2 9 40 -2 9 44 -2
+3 16 39 44 -2 39 73 -2 44 78 -2
+4 16 4 78 -2 44 78 -2 39 73 -2 9 73 -2
+3 16 4 78 -2 9 73 -2 9 44 -2

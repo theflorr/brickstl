@@ -1,0 +1,24 @@
+0 ~Tile  2 x  6 with Orange 'JAZZ' with Red and White Outlines Pattern - Corner 4
+0 Name: s\69729p03s06.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 15 0 0 0 0 0 .4 0 1 0 -.4 0 0 5-16chrd.dat
+1 25 0 0 0 0 0 .4 0 1 0 -.4 0 0 5-16ndis.dat
+1 25 .86 0 -.6 0 0 .6 0 1 0 -.6 0 0 5-16chrd.dat
+1 4 .86 0 -.6 0 0 .6 0 1 0 -.6 0 0 5-16ndis.dat
+1 4 2.57 0 -1.8 0 0 .8 0 1 0 -.8 0 0 5-16chrd.dat
+1 16 2.57 0 -1.8 0 0 .8 0 1 0 -.8 0 0 5-16ndis.dat
+
+3 15 0 0 -.4 .37 0 .153 -.573 0 .4
+3 25 .4 0 -.4 0 0 -.4 .86 0 -1.2
+3 25 .4 0 -.4 .86 0 -1.2 1.414 0 -.37
+3 25 .4 0 -.4 1.414 0 -.37 .4 0 0
+3 25 .4 0 0 1.414 0 -.37 .4 0 .4
+3 4 1.46 0 -1.2 .86 0 -1.2 2.57 0 -2.6
+3 4 1.46 0 -1.2 2.57 0 -2.6 3.309 0 -1.494
+3 4 1.46 0 -1.2 3.309 0 -1.494 1.46 0 -.6
+3 4 1.46 0 -.6 3.309 0 -1.494 1.46 0 0

@@ -1,0 +1,18 @@
+0 Electric  4.5V Battery Box  7 x 11 x  3 Type 3 (Complete)
+0 Name: 593ac01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink bb0045c01, Rebrickable 468c01
+
+0 !HISTORY 2025-05-06 [Blechtaler] made from 593c01.dat
+
+1 7 0 64 0 1 0 0 0 1 0 0 0 1 593.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9023a.dat
+1 1 0 4 -87.8 1 0 0 0 1 0 0 0 1 u9024.dat
+1 178 0 34 -96.5 1 0 0 0 1 0 0 0 1 563.dat
+1 494 0 68 36 1 0 0 0 -1 0 0 0 1 u9566.dat

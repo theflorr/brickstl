@@ -1,0 +1,28 @@
+0 Figure Friends Legs with Cropped Trousers with Medium Nougat Legs, Tan Shoes with Dark Blue Laces and Soles Pattern
+0 Name: 1022968p02.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure
+0 !KEYWORDS Bricklink 36196c00pb001, Rebrickable 2246c01pr0012, Set 41717
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1022968s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1022968s01.dat
+
+1 84 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 19 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035p02s01.dat
+1 272 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 272 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035p02s02.dat
+1 84 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 84 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat
+
+1 84 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 19 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035p02s01.dat
+1 272 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 272 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035p02s02.dat
+1 84 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 84 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat

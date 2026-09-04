@@ -1,0 +1,14 @@
+0 Scala Support Tall with Two Grooves  2 x  2 x 22.667 with Protruding Pins on Bottom End
+0 Name: 33267ac01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Scala
+0 !KEYWORDS BrickLink 33267c01, Rebrickable 33267c01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 33064.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 33267a.dat
+1 16 0 544 0 1 0 0 0 -1 0 0 0 -1 33063.dat

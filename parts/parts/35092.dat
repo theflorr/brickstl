@@ -1,0 +1,22 @@
+0 Duplo Bottle
+0 Name: 35092.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+0 !KEYWORDS Milk
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35092s01.dat
+
+0 // patternable
+1 16 0 53 0 36.04 0 0 0 55 0 0 0 -36.04 48\2-4cyli.dat
+1 16 0 53 0 0.68 0 0 0 -6 0 0 0 -0.68 48\1-4con52.dat
+1 16 0 53 0 -0.68 0 0 0 -6 0 0 0 -0.68 48\1-4con52.dat
+1 16 0 47 0 1.36 0 0 0 -5 0 0 0 -1.36 48\2-4con25.dat
+1 16 0 42 0 2 0 0 0 -5 0 0 0 -2 48\1-4con16.dat
+1 16 0 42 0 -2 0 0 0 -5 0 0 0 -2 48\1-4con16.dat
+1 16 0 37 0 4 0 0 0 -10 0 0 0 -4 48\1-4con7.dat
+1 16 0 37 0 -4 0 0 0 -10 0 0 0 -4 48\1-4con7.dat

@@ -1,0 +1,19 @@
+0 ~Sticker  0.8 x  1.6 with White Arc on Red Background Right -  Third Face
+0 Name: s\6221808bbs03.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Primitives
+1 4 -6.5 -.25 3.1918 -1.5 0 0 0 1 0 0 0 -1.5 1-8chrd.dat
+0 // Faces
+0 // Red faces
+4 4 5.3819 -.25 4.8053 5.7171 -.25 7.2284 -8 -.25 7.2284 -8 -.25 3.1918
+4 4 5.3819 -.25 4.8053 -8 -.25 3.1918 -7.5607 -.25 2.1312 4.9876 -.25 2.391
+4 4 4.5343 -.25 -.0128 4.9876 -.25 2.391 -7.5607 -.25 2.1312 -5.5029 -.25 -.0128
+0 // White faces
+3 15 5.3819 -.25 4.8053 8 -.25 7.2284 5.7171 -.25 7.2284
+4 15 5.3819 -.25 4.8053 4.9876 -.25 2.391 8 -.25 -.0128 8 -.25 7.2284
+3 15 4.5343 -.25 -.0128 8 -.25 -.0128 4.9876 -.25 2.391

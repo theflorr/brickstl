@@ -1,0 +1,32 @@
+0 Sticker  0.8 x  1.8 with Grey Triangle on Transparent Background Right
+0 Name: 6254024r.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 75892stk01, Brickowl 967715, McLaren, Rebrickable 49144
+0 !KEYWORDS Senna, Set 75892, Speed Champions
+
+0 // Neutral faces
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x018.dat
+0 // Top face
+0 // Primitives
+1 16 -16.5 -.25 6.5 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 16 16.5 -.25 6.5 0 0 1.5 0 1 0 1.5 0 0 1-8chrd.dat
+1 16 -16.5 -.25 -6.5 -1.5 0 0 0 1 0 0 0 -1.5 1-8chrd.dat
+0 // Neutral faces
+4 16 -16.5 -.25 8 -18 -.25 6.5 -18 -.25 -6.5 -17.56065 -.25 -7.56065
+4 16 -16.5 -.25 8 -17.56065 -.25 -7.56065 17.56065 -.25 7.56065 16.5 -.25 8
+0 // Grey faces
+0 BFC NOCLIP
+0 // Primtives
+1 72 16.5 -.25 6.5 1.5 0 0 0 1 0 0 0 1.5 1-8chrd.dat
+1 72 -16.5 -.25 -6.5 0 0 -1.5 0 1 0 -1.5 0 0 1-8chrd.dat
+1 72 16.5 -.25 -6.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+0 // Grey faces
+4 72 16.5 -.25 -8 18 -.25 -6.5 18 -.25 6.5 17.56065 -.25 7.56065
+4 72 16.5 -.25 -8 17.56065 -.25 7.56065 -17.56065 -.25 -7.56065 -16.5 -.25 -8

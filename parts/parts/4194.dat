@@ -1,0 +1,14 @@
+0 Electric Powered Up Hub with  3 Integrated Motors and  6 Lights Axle Bush
+0 Name: 4194.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+1 16 0 0 20 1 0 0 0 0 1 0 1 0 axl3end.dat
+1 16 0 0 20.5 -9 0 0 0 0 9 0 -20.5 0 4-4cylc.dat
+1 16 0 0 0 1 0 0 0 0 1 0 20 0 axl3hole.dat
+1 16 0 0 0 3 0 0 0 0 3 0 1 0 4-4ring2.dat

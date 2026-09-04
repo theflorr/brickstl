@@ -1,0 +1,18 @@
+0 Minifig Torso with Yellow Arms with Integral Hand (Down Position) Pattern
+0 Name: 43418p01-f1.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Up position arm angle: 75°
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS basketball, Bricklink 973bc01, NBA, Rebrickable 973b01, Set 10121-1
+
+0 !HISTORY 2024-10-25 [notmaster] modified from 43370c01-f1.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 43370.dat
+1 14 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 43368.dat
+1 14 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 43369.dat

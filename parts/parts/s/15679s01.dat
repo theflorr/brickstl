@@ -1,0 +1,12 @@
+0 ~Animal Fish Body Front without Patternable Surfaces - Half
+0 Name: s\15679s01.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15679s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15679s06.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15679s07.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15679s08.dat

@@ -1,0 +1,25 @@
+0 Minifig Cape Cloth with 5 Points (Triangular) (Formed)
+0 Name: 71941c01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place at y = 0 on torso, head at y = -0.6
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS Achu, Adventurers, cape, Jungle God Cloak, Set 5906, set 5976
+0 !KEYWORDS set 5986
+
+0 // Neck
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50231s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50231s02.dat
+
+0 // Inner Surface
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71941s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\71941s02.dat
+
+0 // Outer Surface
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71941s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\71941s03.dat

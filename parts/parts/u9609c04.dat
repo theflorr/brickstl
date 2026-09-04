@@ -1,0 +1,24 @@
+0 Electric Cable Extension Coiled Triple with Cross-Cut Pin (Type 2) (Complete)
+0 Name: u9609c04.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP cable is 2 meter (250 studs / 5000LDU) long
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Bricklink x466ac200, Peeron x466a, Set 708-1
+
+1 16 10 0 -184 1 0 0 0 1 0 0 0 1 u9608c05.dat
+1 375 10 0 -154 0 0 -1 1 0 0 0 294 0 u9609.dat
+1 375 10 0 140 -1 0 0 0 -1 0 0 0 1 s\u9609s02.dat
+1 375 5 -29.58 -140 0 0 -1 1 0 0 0 280 0 u9609.dat
+1 375 5 -29.58 -140 -1 0 0 0 1 0 0 0 -1 s\u9609s02.dat
+1 375 0 0 -140 0 0 -1 1 0 0 0 280 0 u9609.dat
+1 375 0 0 140 -1 0 0 0 -1 0 0 0 1 s\u9609s02.dat
+1 375 -5 -29.58 -140 0 0 -1 1 0 0 0 280 0 u9609.dat
+1 375 -5 -29.58 -140 -1 0 0 0 1 0 0 0 -1 s\u9609s02.dat
+1 375 -10 0 -140 0 0 -1 1 0 0 0 294 0 u9609.dat
+1 16 -10 0 184 -1 0 0 0 1 0 0 0 -1 u9608c06.dat

@@ -1,0 +1,15 @@
+0 Minifig Leg Right Mechanic Prosthetic
+0 Name: 103912.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+
+0 !HISTORY 2024-11-21 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-11-21 [GeraldLasser] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\103912s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\103912s03.dat

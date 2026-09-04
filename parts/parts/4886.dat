@@ -1,0 +1,16 @@
+0 Duplo Bed  3 x  4 x  2.333 Bunk
+0 Name: 4886.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Duplo
+
+0 !HISTORY 2021-03-18 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2025-08-14 [RainbowDolphin] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4886s00.dat
+0 // Patternable surface
+4 16 40 -90 -76 -40 -90 -76 -46 -12 -76 46 -12 -76

@@ -1,0 +1,21 @@
+0 Minifig Hips and Legs with Armour and Spiked Kneepads Pattern
+0 Name: 73200bpxh.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpxh.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 970c59pb02, BrickOwl 607937, Brickset 13473
+0 !KEYWORDS Chris Bradford, Dogpound, Mini Lower Part No 481, Mutant
+0 !KEYWORDS Nickelodeon, Rebrickable 970c10pr0481, Set 79104
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3815bpxh.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpxh.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpxh.dat

@@ -1,0 +1,27 @@
+0 Sticker  1.8 x  1.8 with Red and White Checkered Flag
+0 Name: 4294106b.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 3825stk01, Brickowl 408096, Krusty Krab, Rebrickable 56214
+0 !KEYWORDS Set 3825, Set 3833, SpongeBob, U (Uniform)
+
+0 !HISTORY 2026-03-02 [MagFors] flipped chrds
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback018x018.dat
+4 4 -16.5 -.25 18 -18 -.25 0 0 -.25 0 0 -.25 18
+4 15 0 -.25 18 0 -.25 0 18 -.25 0 16.5 -.25 18
+1 4 -16.5 -.25 16.5 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 15 16.5 -.25 16.5 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+3 4 -16.5 -.25 18 -18 -.25 16.5 -18 -.25 0
+3 15 18 -.25 16.5 16.5 -.25 18 18 -.25 0
+4 4 16.5 -.25 -18 18 -.25 0 0 -.25 0 0 -.25 -18
+4 15 0 -.25 -18 0 -.25 0 -18 -.25 0 -16.5 -.25 -18
+1 4 16.5 -.25 -16.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 15 -16.5 -.25 -16.5 -1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+3 4 16.5 -.25 -18 18 -.25 -16.5 18 -.25 0
+3 15 -18 -.25 -16.5 -16.5 -.25 -18 -18 -.25 0

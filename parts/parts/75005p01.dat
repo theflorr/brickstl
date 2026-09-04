@@ -1,0 +1,25 @@
+0 Minifig Head Looney Tunes Daffy Duck with Orange Beak and White Neck Pattern
+0 Name: 75005p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Bricklink 75005pb01, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 75005pr0001, Set 71030
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75005s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\75005s01.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\75005p01s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\75005p01s02.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\75005s03.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\75005s03.dat
+
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\75005s04.dat
+1 25 0 0 0 -1 0 0 0 1 0 0 0 1 s\75005s04.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75005s05.dat

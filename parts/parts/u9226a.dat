@@ -1,0 +1,12 @@
+0 ~Train Track 12V Tapered Point Vertical Axle Manual
+0 Name: u9226a.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9226s01.dat
+1 16 0 16 0 12 0 0 0 9 0 0 0 12 4-4cylo.dat

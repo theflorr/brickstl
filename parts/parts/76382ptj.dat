@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with SW Layered Vest with Reddish Brown Undershirt and Dark Brown Belt Pattern
+0 Name: 76382ptj.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig
+0 !KEYWORDS Anakin Skywalker, Armor, Bricklink 973pb0420c01
+0 !KEYWORDS Rebrickable 973c19h03pr1358, Set 7669, set 7675, Set 7931, Set 8037
+0 !KEYWORDS set 8098, set 9515, Star Wars, The Clone Wars
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973ptj.dat
+1 70 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 -23.6904 26.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+1 70 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 16 23.6904 26.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
