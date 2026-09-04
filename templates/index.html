@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>brickstl</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>brickstl</h1>
+      <p>Turn a LEGO set number into printable plates.</p>
+    </header>
+
+    <form id="convert-form">
+      <label for="set_number">Set number</label>
+      <input type="text" id="set_number" name="set_number" placeholder="75192" autocomplete="off" required>
+
+      <label for="printer">Printer</label>
+      <select id="printer" name="printer">
+        {% for key in printers %}
+        <option value="{{ key }}">{{ labels[key] }} ({{ sizes[key][0]|int }}&times;{{ sizes[key][1]|int }}mm)</option>
+        {% endfor %}
+        <option value="custom">Custom bed size</option>
+      </select>
+
+      <div id="custom-size" class="custom-size hidden">
+        <div>
+          <label for="bed_x">Width (mm)</label>
+          <input type="number" id="bed_x" name="bed_x" min="1" step="1">
+        </div>
+        <div>
+          <label for="bed_y">Depth (mm)</label>
+          <input type="number" id="bed_y" name="bed_y" min="1" step="1">
+        </div>
+      </div>
+
+      <div class="smart-rotation-option">
+        <input type="checkbox" id="smart_rotation" name="smart_rotation" value="1">
+        <label for="smart_rotation">Smart Rotation</label>
+
+        <span class="smart-help">
+          <button
+            type="button"
+            class="smart-help-button"
+            id="smart-rotation-help"
+            aria-label="What does Smart Rotation do?"
+            aria-expanded="false"
+            aria-controls="smart-rotation-popup"
+          >?</button>
+
+          <span
+            class="smart-help-popup"
+            id="smart-rotation-popup"
+            role="tooltip"
+            hidden
+          >
+            Tests stable 90-degree orientations for every LEGO piece and chooses
+            the orientation with the lowest estimated support and overhang risk.
+            It also favors a low print height and broad build-plate contact.
+            Complex pieces may still require slicer supports.
+          </span>
+        </span>
+      </div>
+
+      <div class="smart-rotation-option">
+        <input type="checkbox" id="printer_tolerance" name="printer_tolerance" value="1">
+        <label for="printer_tolerance">Printer Tolerance <span class="beta-tag">Beta</span></label>
+
+        <span class="smart-help">
+          <button
+            type="button"
+            class="smart-help-button"
+            id="printer-tolerance-help"
+            aria-label="What does Printer Tolerance do?"
+            aria-expanded="false"
+            aria-controls="printer-tolerance-popup"
+          >?</button>
+
+          <span
+            class="smart-help-popup"
+            id="printer-tolerance-popup"
+            role="tooltip"
+            hidden
+          >
+            <strong>Beta:</strong> this feature is still being refined.
+            <br><br>
+            LDraw parts are modeled at exact injection-mould size, which is
+            usually a touch too tight for FDM printing. This shrinks studs,
+            pins, axle ends and clip bars by 0.15mm and grows tubes, technic
+            holes and clip barrels by 0.15mm, so printed pieces click
+            together instead of binding. Only round connector features are
+            adjusted; everything else stays true to size.
+            <br><br>
+            The detection is heuristic and works well on standard bricks,
+            plates and technic parts, but unusual or highly detailed
+            geometry may be misjudged. Check your printed fit and disable
+            this if a part looks off.
+          </span>
+        </span>
+      </div>
+
+      <button type="submit" id="submit-btn">Generate zip</button>
+    </form>
+
+    <p class="credit">Made by TheFlorr (Crysux)</p>
+
+    <div id="loader" class="hidden">
+      <p id="load-step"></p>
+      <progress id="load-bar" max="100" value="0"></progress>
+      <p id="load-detail"></p>
+    </div>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </main>
+
+  <script src="/static/main.js"></script>
+</body>
+</html>
