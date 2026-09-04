@@ -6,6 +6,8 @@ Turn a LEGO set number into 3D-printable plates.
 
 It ships as a small Flask web app with a single-page UI: enter a set number, pick your printer, click *Generate zip*.
 
+![Preview](preview.png)
+
 ---
 
 ## How it works
